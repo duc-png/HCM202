@@ -1,5 +1,5 @@
 /**
- * EconMap — Kinh tế chính trị Mác-Lênin
+ * HCM202 Map — Tư tưởng Hồ Chí Minh
  * Full-featured: Mind Map + Progress Tracking + Quiz System
  */
 document.addEventListener('DOMContentLoaded', async function () {
@@ -210,11 +210,16 @@ document.addEventListener('DOMContentLoaded', async function () {
   }
 
   function renderBranchLabels() {
-    const labels = [
-      { text: "LỊCH SỬ ĐẢNG", x: -800, y: -400 },
-      { text: "CNXH KHOA HỌC", x: 800, y: -400 },
-      { text: "KINH TẾ CHÍNH TRỊ", x: 0, y: 800 }
-    ];
+    const branchData = (mapData && Array.isArray(mapData.children)) ? mapData.children : [];
+    const radius = 860;
+    const labels = branchData.map(function (branch, i) {
+      const angle = (-90 + (360 / branchData.length) * i) * Math.PI / 180;
+      return {
+        text: 'Chương ' + ['I', 'II', 'III', 'IV', 'V', 'VI'][i],
+        x: Math.cos(angle) * radius,
+        y: Math.sin(angle) * radius
+      };
+    });
 
     d3.select("#mindmap-container").selectAll(".branch-label").remove();
 
@@ -644,12 +649,8 @@ document.addEventListener('DOMContentLoaded', async function () {
 
   // ── Timeline Logic ────────────────────────────────────────────────
   function updateTimeline(activeId) {
-    var mapping = {
-      'ch1_1': 'ch1_1', 'ch1_1_1': 'ch1_1', 'ch1_1_2': 'ch1_1', 'ch1_1_3': 'ch1_1',
-      'ch1_2': 'ch1_2', 'ch1_2_1': 'ch1_2', 'ch1_2_2': 'ch1_2', 'ch1_2_3': 'ch1_2', 'ch1_2_4': 'ch1_2',
-      'ch1_3': 'ch1_3', 'ch1_3_1': 'ch1_3', 'ch1_3_2': 'ch1_3', 'ch1_3_3': 'ch1_3'
-    };
-    var targetId = mapping[activeId];
+    var match = String(activeId || '').match(/^ch\d+/);
+    var targetId = match ? match[0] : null;
     timelineMarks.forEach(function (mark) {
       if (mark.getAttribute('data-id') === targetId) {
         mark.classList.add('active');
@@ -897,7 +898,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     let qData = [];
     try {
       if (topic === 'all') {
-        const indices = [1, 2, 3, 4, 5];
+        const indices = [1, 2, 3, 4, 5, 6];
         const loads = indices.map(i => d3.json(`chapter${i}.json`));
         const results = await Promise.all(loads);
         qData = results.flat();
@@ -1054,7 +1055,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     }
 
     const topics = wrongQuestions.map(q => q.question).join(", ");
-    const prompt = `Người dùng vừa làm bài thi trắc nghiệm Triết học Mác-Lênin.
+    const prompt = `Người dùng vừa làm bài thi trắc nghiệm HCM202 - Tư tưởng Hồ Chí Minh.
     Kết quả: đúng ${correct}/${total} câu.
     Những nội dung người dùng trả lời sai hoặc chưa vững: ${topics}.
     Hãy đưa ra lời khuyên ngắn gọn (khoảng 3-4 câu), tập trung vào những mảng kiến thức cần ôn tập lại và động viên người dùng.
@@ -1066,7 +1067,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           messages: [
-            { role: 'system', content: 'Bạn là chuyên gia về Triết học Mác-Lênin, hãy phân tích kết quả thi và đưa ra lời khuyên học tập.' },
+            { role: 'system', content: 'Bạn là chuyên gia về học phần HCM202 - Tư tưởng Hồ Chí Minh, hãy phân tích kết quả thi và đưa ra lời khuyên học tập.' },
             { role: 'user', content: prompt }
           ]
         })
@@ -1115,7 +1116,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     let chatHistory = [
       {
         role: 'system',
-        content: 'Bạn là một trợ lý ảo am hiểu về môn học Triết học Mác-Lênin và Lịch sử. Bạn CHỈ được phép trả lời các câu hỏi liên quan đến Triết học và Lịch sử. Đối với bất kỳ câu hỏi nào ngoài hai lĩnh vực này, hãy lịch sự từ chối và giải thích rằng bạn tập trung hỗ trợ sinh viên học tập hai bộ môn này.'
+        content: 'Bạn là một trợ lý học tập am hiểu học phần HCM202 - Tư tưởng Hồ Chí Minh. Bạn chỉ trả lời các câu hỏi liên quan đến Tư tưởng Hồ Chí Minh, cuộc đời và sự nghiệp Hồ Chí Minh, hoặc nội dung 6 chương của giáo trình HCM202. Với câu hỏi ngoài phạm vi này, hãy lịch sự từ chối và nhắc rằng bạn tập trung hỗ trợ học phần HCM202.'
       }
     ];
 

@@ -1,7 +1,7 @@
 {
-    "name": "mln122-backend",
+    "name": "hcm202-backend",
     "version": "1.0.0",
-    "description": "Backend for MLN122 Mindmap AI Chatbot",
+    "description": "Backend for HCM202 Mindmap AI Chatbot",
     "main": "server.js",
     "engines": {
         "node": ">=20"

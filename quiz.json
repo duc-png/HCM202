@@ -2,183 +2,1561 @@
   {
     "id": 101,
     "chapter": 1,
-    "question": "Thuật ngữ 'Kinh tế chính trị' được sử dụng lần đầu tiên bởi ai?",
+    "question": "Theo giáo trình, Tư tưởng Hồ Chí Minh được hiểu là gì?",
     "options": [
-      "Adam Smith",
-      "Antoine de Montchrétien",
-      "Karl Marx",
-      "David Ricardo"
+      "Một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam",
+      "Một tập hợp câu chuyện về cuộc đời Hồ Chí Minh",
+      "Một học thuyết kinh tế độc lập với chủ nghĩa Mác - Lênin",
+      "Một phương pháp nghiên cứu lịch sử thế giới"
     ],
-    "answer": 1,
-    "explain": "Antoine de Montchrétien là người đầu tiên đưa ra thuật ngữ này trong tác phẩm 'Chuyên luận về Kinh tế chính trị' (1615)."
+    "answer": 0,
+    "explain": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
   },
   {
     "id": 102,
     "chapter": 1,
-    "question": "Học thuyết nào được coi là 'hòn đá tảng' trong lý luận kinh tế của Mác?",
+    "question": "Cơ sở quan trọng nhất về thế giới quan và phương pháp luận của Tư tưởng Hồ Chí Minh là gì?",
     "options": [
-      "Lý luận hàng hóa",
-      "Lý luận địa tô",
-      "Lý luận giá trị thặng dư",
-      "Lý luận về tiền tệ"
+      "Nho giáo",
+      "Chủ nghĩa Mác - Lênin",
+      "Chủ nghĩa Tam dân",
+      "Chủ nghĩa thực dụng"
+    ],
+    "answer": 1,
+    "explain": "Chủ nghĩa Mác - Lênin cung cấp thế giới quan và phương pháp luận trực tiếp."
+  },
+  {
+    "id": 103,
+    "chapter": 1,
+    "question": "Đại hội nào của Đảng nêu khái niệm Tư tưởng Hồ Chí Minh tương đối hoàn chỉnh trong giáo trình?",
+    "options": [
+      "Đại hội V",
+      "Đại hội VII",
+      "Đại hội XI",
+      "Đại hội IX"
     ],
     "answer": 2,
-    "explain": "Lý luận giá trị thặng dư giúp vạch trần bản chất bóc lột của CNTB và là đóng góp vĩ đại nhất của Mác cho kinh tế học."
+    "explain": "Giáo trình sử dụng khái niệm được Đại hội XI của Đảng nêu rõ."
+  },
+  {
+    "id": 104,
+    "chapter": 1,
+    "question": "Đối tượng nghiên cứu của môn học Tư tưởng Hồ Chí Minh là gì?",
+    "options": [
+      "Chỉ các tác phẩm văn học của Hồ Chí Minh",
+      "Lịch sử các triều đại phong kiến Việt Nam",
+      "Các học thuyết chính trị phương Tây hiện đại",
+      "Hệ thống quan điểm Hồ Chí Minh và quá trình vận động của hệ thống đó trong thực tiễn"
+    ],
+    "answer": 3,
+    "explain": "Môn học nghiên cứu cả hệ thống quan điểm và quá trình hiện thực hóa trong cách mạng Việt Nam."
+  },
+  {
+    "id": 105,
+    "chapter": 1,
+    "question": "Vì sao cần gắn nghiên cứu văn bản với hoạt động thực tiễn của Hồ Chí Minh?",
+    "options": [
+      "Vì tư tưởng của Người thể hiện cả trong bài viết, bài nói và hành động cách mạng",
+      "Vì văn bản không có giá trị tham khảo",
+      "Vì chỉ hoạt động thực tiễn mới là đối tượng của môn học",
+      "Vì môn học không cần phương pháp luận"
+    ],
+    "answer": 0,
+    "explain": "Tư tưởng Hồ Chí Minh được thể hiện thống nhất trong lý luận và thực tiễn."
+  },
+  {
+    "id": 106,
+    "chapter": 1,
+    "question": "Nguyên tắc phương pháp luận nào yêu cầu xem xét tư tưởng Hồ Chí Minh trong điều kiện lịch sử cụ thể?",
+    "options": [
+      "Quan điểm siêu hình",
+      "Quan điểm lịch sử - cụ thể",
+      "Quan điểm tuyệt đối hóa cá nhân",
+      "Quan điểm kinh nghiệm chủ nghĩa"
+    ],
+    "answer": 1,
+    "explain": "Quan điểm lịch sử - cụ thể giúp tránh tách tư tưởng khỏi hoàn cảnh ra đời và vận dụng."
+  },
+  {
+    "id": 107,
+    "chapter": 1,
+    "question": "Học tập môn Tư tưởng Hồ Chí Minh có ý nghĩa nào đối với sinh viên?",
+    "options": [
+      "Thay thế toàn bộ các môn chuyên ngành",
+      "Chỉ để ghi nhớ ngày tháng lịch sử",
+      "Nâng cao tư duy lý luận và rèn luyện đạo đức, lối sống",
+      "Chỉ phục vụ thi trắc nghiệm"
+    ],
+    "answer": 2,
+    "explain": "Môn học giúp sinh viên phát triển nhận thức, niềm tin, đạo đức và năng lực vận dụng."
+  },
+  {
+    "id": 108,
+    "chapter": 1,
+    "question": "Trong khái niệm Tư tưởng Hồ Chí Minh, nội dung “kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc” nhấn mạnh điều gì?",
+    "options": [
+      "Tính tách biệt với cách mạng Việt Nam",
+      "Việc phủ nhận truyền thống",
+      "Việc chỉ tiếp thu văn hóa phương Tây",
+      "Nguồn gốc dân tộc của tư tưởng"
+    ],
+    "answer": 3,
+    "explain": "Tư tưởng Hồ Chí Minh gắn sâu với truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc Việt Nam."
+  },
+  {
+    "id": 109,
+    "chapter": 1,
+    "question": "Tư tưởng Hồ Chí Minh có giá trị như thế nào đối với Đảng và dân tộc Việt Nam?",
+    "options": [
+      "Là tài sản tinh thần to lớn, soi đường cho cách mạng Việt Nam",
+      "Chỉ có giá trị trong giai đoạn trước năm 1945",
+      "Chỉ là tư liệu lịch sử không còn ý nghĩa hiện nay",
+      "Là học thuyết thay thế hoàn toàn chủ nghĩa Mác - Lênin"
+    ],
+    "answer": 0,
+    "explain": "Đảng khẳng định Tư tưởng Hồ Chí Minh là tài sản tinh thần to lớn của Đảng và dân tộc."
+  },
+  {
+    "id": 110,
+    "chapter": 1,
+    "question": "Phương pháp lôgíc trong nghiên cứu Tư tưởng Hồ Chí Minh nhằm mục đích gì?",
+    "options": [
+      "Chỉ liệt kê sự kiện theo năm tháng",
+      "Tìm ra bản chất, mối liên hệ và nội dung có tính quy luật",
+      "Loại bỏ bối cảnh lịch sử",
+      "Thay thế phương pháp lịch sử"
+    ],
+    "answer": 1,
+    "explain": "Phương pháp lôgíc giúp khái quát bản chất và mối liên hệ bên trong của vấn đề."
+  },
+  {
+    "id": 111,
+    "chapter": 1,
+    "question": "Phương pháp lịch sử trong nghiên cứu Tư tưởng Hồ Chí Minh chú trọng điều gì?",
+    "options": [
+      "Chỉ so sánh các định nghĩa",
+      "Chỉ học thuộc kết luận",
+      "Quá trình phát sinh, phát triển của tư tưởng theo thời gian",
+      "Chỉ phân tích thuật ngữ"
+    ],
+    "answer": 2,
+    "explain": "Phương pháp lịch sử xem xét tư tưởng trong tiến trình hình thành và phát triển."
+  },
+  {
+    "id": 112,
+    "chapter": 1,
+    "question": "Quan hệ giữa phương pháp lôgíc và phương pháp lịch sử nên được hiểu thế nào?",
+    "options": [
+      "Chỉ dùng một trong hai",
+      "Hai phương pháp loại trừ nhau",
+      "Không cần trong môn học này",
+      "Cần kết hợp chặt chẽ trong nghiên cứu"
+    ],
+    "answer": 3,
+    "explain": "Nghiên cứu Tư tưởng Hồ Chí Minh cần kết hợp lôgíc với lịch sử."
+  },
+  {
+    "id": 113,
+    "chapter": 1,
+    "question": "Khi học Tư tưởng Hồ Chí Minh, vì sao cần chống “lý luận suông”?",
+    "options": [
+      "Vì lý luận phải gắn với thực hành và giải quyết vấn đề thực tiễn",
+      "Vì lý luận không cần thiết",
+      "Vì chỉ cần kinh nghiệm cá nhân",
+      "Vì môn học không có nội dung ứng dụng"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh nhấn mạnh lý luận phải gắn với thực tiễn."
+  },
+  {
+    "id": 114,
+    "chapter": 1,
+    "question": "Nội dung nào thuộc ý nghĩa học tập môn Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Học kỹ thuật sản xuất công nghiệp",
+      "Giáo dục đạo đức cách mạng và bồi dưỡng lòng yêu nước",
+      "Rèn luyện nghiệp vụ kế toán",
+      "Thay thế học ngoại ngữ"
+    ],
+    "answer": 1,
+    "explain": "Môn học góp phần giáo dục đạo đức cách mạng, niềm tin và lòng yêu nước."
+  },
+  {
+    "id": 115,
+    "chapter": 1,
+    "question": "Bản chất khoa học của Tư tưởng Hồ Chí Minh thể hiện ở điểm nào?",
+    "options": [
+      "Chỉ dựa vào cảm tính cá nhân",
+      "Không gắn với thực tiễn",
+      "Phản ánh những vấn đề có tính quy luật của cách mạng Việt Nam",
+      "Phủ nhận chủ nghĩa Mác - Lênin"
+    ],
+    "answer": 2,
+    "explain": "Tư tưởng Hồ Chí Minh có cơ sở lý luận, thực tiễn và phản ánh quy luật cách mạng Việt Nam."
+  },
+  {
+    "id": 116,
+    "chapter": 1,
+    "question": "Bản chất cách mạng của Tư tưởng Hồ Chí Minh thể hiện ở mục tiêu nào?",
+    "options": [
+      "Duy trì áp bức thuộc địa",
+      "Bảo vệ đặc quyền phong kiến",
+      "Tách dân tộc khỏi thời đại",
+      "Giải phóng dân tộc, giải phóng xã hội, giải phóng con người"
+    ],
+    "answer": 3,
+    "explain": "Tư tưởng Hồ Chí Minh hướng tới giải phóng và phát triển con người."
+  },
+  {
+    "id": 117,
+    "chapter": 1,
+    "question": "Cụm từ “tư tưởng, đạo đức, phong cách Hồ Chí Minh” thường được học tập nhằm mục đích gì?",
+    "options": [
+      "Vận dụng vào xây dựng Đảng, xã hội và rèn luyện cá nhân",
+      "Chỉ để trưng bày khẩu hiệu",
+      "Thay thế mọi quy định pháp luật",
+      "Loại bỏ giáo dục đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Việc học tập hướng tới vận dụng trong nhận thức và hành động."
+  },
+  {
+    "id": 118,
+    "chapter": 1,
+    "question": "Nội dung nào không thuộc phạm vi nhập môn của Chương I?",
+    "options": [
+      "Khái niệm môn học",
+      "Kỹ thuật tính toán tài chính doanh nghiệp",
+      "Đối tượng nghiên cứu",
+      "Phương pháp nghiên cứu"
+    ],
+    "answer": 1,
+    "explain": "Kỹ thuật tính toán tài chính doanh nghiệp không thuộc nội dung Chương I của HCM202."
+  },
+  {
+    "id": 119,
+    "chapter": 1,
+    "question": "Khi nói Tư tưởng Hồ Chí Minh là “kim chỉ nam”, ý chính là gì?",
+    "options": [
+      "Là khẩu hiệu không cần vận dụng",
+      "Chỉ dùng trong nghiên cứu văn học",
+      "Có vai trò định hướng hành động cách mạng",
+      "Chỉ áp dụng cho một cá nhân"
+    ],
+    "answer": 2,
+    "explain": "Kim chỉ nam nghĩa là định hướng cho nhận thức và hành động cách mạng."
+  },
+  {
+    "id": 120,
+    "chapter": 1,
+    "question": "Yêu cầu quan trọng khi vận dụng Tư tưởng Hồ Chí Minh hiện nay là gì?",
+    "options": [
+      "Sao chép máy móc mọi hình thức cũ",
+      "Tách khỏi điều kiện đất nước",
+      "Chỉ học thuộc định nghĩa",
+      "Sáng tạo, phù hợp thực tiễn, tránh giáo điều"
+    ],
+    "answer": 3,
+    "explain": "Vận dụng tư tưởng phải gắn thực tiễn và phát triển sáng tạo."
   },
   {
     "id": 201,
     "chapter": 2,
-    "question": "Tính hai mặt của lao động sản xuất hàng hóa là gì?",
+    "question": "Thực tiễn Việt Nam cuối thế kỷ XIX đầu thế kỷ XX đặt ra yêu cầu gì?",
     "options": [
-      "Lao động chân tay và trí óc",
-      "Lao động cụ thể và lao động trừu tượng",
-      "Lao động giản đơn và phức tạp",
-      "Lao động tư nhân và xã hội"
+      "Tìm con đường cứu nước mới",
+      "Duy trì nguyên trạng chế độ thuộc địa",
+      "Từ bỏ độc lập dân tộc",
+      "Chỉ cải cách văn hóa"
     ],
-    "answer": 1,
-    "explain": "Lao động cụ thể tạo ra giá trị sử dụng, lao động trừu tượng tạo ra giá trị hàng hóa."
+    "answer": 0,
+    "explain": "Các phong trào yêu nước cũ thất bại đặt ra yêu cầu tìm đường cứu nước mới."
   },
   {
     "id": 202,
     "chapter": 2,
-    "question": "Khi năng suất lao động tăng, lượng giá trị của một đơn vị hàng hóa sẽ thay đổi thế nào?",
+    "question": "Sự kiện thế giới nào ảnh hưởng sâu sắc đến con đường cách mạng của Hồ Chí Minh?",
     "options": [
-      "Tăng lên",
-      "Giảm xuống",
-      "Không đổi",
-      "Tăng gấp đôi"
+      "Chiến tranh Nam - Bắc Hoa Kỳ",
+      "Cách mạng Tháng Mười Nga năm 1917",
+      "Cách mạng công nghiệp Anh lần thứ nhất",
+      "Sự thành lập Liên minh châu Âu"
     ],
     "answer": 1,
-    "explain": "Năng suất lao động tỉ lệ nghịch với lượng giá trị một đơn vị sản phẩm."
+    "explain": "Cách mạng Tháng Mười mở ra thời đại mới và con đường giải phóng cho các dân tộc bị áp bức."
   },
   {
     "id": 203,
     "chapter": 2,
-    "question": "Chức năng nào của tiền tệ được coi là quan trọng nhất để niêm yết giá hàng hóa?",
+    "question": "Nguồn gốc lý luận trực tiếp và chủ yếu của Tư tưởng Hồ Chí Minh là gì?",
     "options": [
-      "Phương tiện lưu thông",
-      "Phương tiện cất trữ",
-      "Thước đo giá trị",
-      "Phương tiện thanh toán"
+      "Chủ nghĩa dân túy",
+      "Chủ nghĩa vị lợi",
+      "Chủ nghĩa Mác - Lênin",
+      "Chủ nghĩa biệt lập"
     ],
     "answer": 2,
-    "explain": "Tiền dùng để đo lường và biểu hiện giá trị của các hàng hóa khác bằng tiền (giá cả)."
+    "explain": "Chủ nghĩa Mác - Lênin là nguồn gốc lý luận trực tiếp, chủ yếu."
+  },
+  {
+    "id": 204,
+    "chapter": 2,
+    "question": "Truyền thống tốt đẹp nào của dân tộc Việt Nam có vai trò nổi bật trong hình thành Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Tâm lý cục bộ địa phương",
+      "Tư tưởng cam chịu nô lệ",
+      "Thói quen khép kín văn hóa",
+      "Chủ nghĩa yêu nước"
+    ],
+    "answer": 3,
+    "explain": "Chủ nghĩa yêu nước là giá trị xuyên suốt và động lực ban đầu."
+  },
+  {
+    "id": 205,
+    "chapter": 2,
+    "question": "Hồ Chí Minh tiếp thu tinh hoa văn hóa nhân loại theo cách nào?",
+    "options": [
+      "Chọn lọc, phê phán, kế thừa những giá trị tiến bộ",
+      "Sao chép nguyên xi mọi học thuyết",
+      "Phủ nhận toàn bộ văn hóa phương Đông",
+      "Chỉ tiếp thu kỹ thuật quân sự"
+    ],
+    "answer": 0,
+    "explain": "Người tiếp thu có chọn lọc, phát triển các giá trị phù hợp cách mạng Việt Nam."
+  },
+  {
+    "id": 206,
+    "chapter": 2,
+    "question": "Yếu tố chủ quan nào góp phần quyết định sự hình thành Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Xuất thân quý tộc",
+      "Phẩm chất, trí tuệ, bản lĩnh và hoạt động thực tiễn của Hồ Chí Minh",
+      "May mắn ngẫu nhiên",
+      "Sự áp đặt của nước ngoài"
+    ],
+    "answer": 1,
+    "explain": "Nhân cách, trí tuệ và thực tiễn hoạt động phong phú của Người có vai trò quyết định."
+  },
+  {
+    "id": 207,
+    "chapter": 2,
+    "question": "Giai đoạn trước năm 1911 trong quá trình hình thành Tư tưởng Hồ Chí Minh có đặc điểm gì?",
+    "options": [
+      "Hoàn thiện toàn bộ đường lối cách mạng vô sản",
+      "Sáng lập Đảng Cộng sản Việt Nam",
+      "Hình thành lòng yêu nước và chí hướng cứu nước",
+      "Lãnh đạo kháng chiến chống Mỹ"
+    ],
+    "answer": 2,
+    "explain": "Trước 1911, Nguyễn Tất Thành hình thành lòng yêu nước và ý chí tìm đường cứu nước."
+  },
+  {
+    "id": 208,
+    "chapter": 2,
+    "question": "Giai đoạn 1911-1920 có ý nghĩa gì đối với Nguyễn Ái Quốc?",
+    "options": [
+      "Rút khỏi hoạt động chính trị",
+      "Hoàn thành xây dựng nhà nước mới",
+      "Lãnh đạo Tổng khởi nghĩa Tháng Tám",
+      "Tìm tòi và đến với con đường cách mạng vô sản"
+    ],
+    "answer": 3,
+    "explain": "Đây là giai đoạn Người khảo nghiệm thực tiễn thế giới và đến với chủ nghĩa Mác - Lênin."
+  },
+  {
+    "id": 209,
+    "chapter": 2,
+    "question": "Năm 1920, Nguyễn Ái Quốc tiếp cận văn kiện nào có ý nghĩa bước ngoặt?",
+    "options": [
+      "Luận cương của Lênin về vấn đề dân tộc và thuộc địa",
+      "Tuyên ngôn độc lập Hoa Kỳ",
+      "Bộ luật Hồng Đức",
+      "Hiệp định Paris"
+    ],
+    "answer": 0,
+    "explain": "Luận cương của Lênin giúp Người tìm thấy con đường giải phóng dân tộc."
+  },
+  {
+    "id": 210,
+    "chapter": 2,
+    "question": "Giai đoạn 1921-1930 trong quá trình phát triển tư tưởng Hồ Chí Minh nổi bật ở điểm nào?",
+    "options": [
+      "Kết thúc hoàn toàn sự nghiệp cách mạng",
+      "Hình thành cơ bản tư tưởng về cách mạng Việt Nam",
+      "Chỉ hoạt động văn hóa nghệ thuật",
+      "Không có hoạt động lý luận"
+    ],
+    "answer": 1,
+    "explain": "Giai đoạn này Người truyền bá chủ nghĩa Mác - Lênin và chuẩn bị thành lập Đảng."
+  },
+  {
+    "id": 211,
+    "chapter": 2,
+    "question": "Sự ra đời của Đảng Cộng sản Việt Nam năm 1930 gắn với vai trò nào của Hồ Chí Minh?",
+    "options": [
+      "Chỉ là người quan sát bên ngoài",
+      "Đại diện cho triều đình phong kiến",
+      "Chuẩn bị chính trị, tư tưởng, tổ chức và chủ trì hợp nhất các tổ chức cộng sản",
+      "Người phản đối thành lập Đảng"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh chuẩn bị và chủ trì Hội nghị thành lập Đảng."
+  },
+  {
+    "id": 212,
+    "chapter": 2,
+    "question": "Trong các nguồn gốc tư tưởng, chủ nghĩa yêu nước có vai trò gì?",
+    "options": [
+      "Yếu tố không liên quan",
+      "Nguyên nhân làm Người xa rời dân tộc",
+      "Chỉ là khẩu hiệu hình thức",
+      "Cơ sở ban đầu và động lực thúc đẩy Hồ Chí Minh đến với chủ nghĩa Mác - Lênin"
+    ],
+    "answer": 3,
+    "explain": "Chủ nghĩa yêu nước là động lực ban đầu trên hành trình tìm đường cứu nước."
+  },
+  {
+    "id": 213,
+    "chapter": 2,
+    "question": "Tinh hoa văn hóa phương Đông được Hồ Chí Minh tiếp thu chủ yếu ở phương diện nào?",
+    "options": [
+      "Các giá trị nhân nghĩa, vị tha, tu dưỡng, hòa hợp với con người",
+      "Tư tưởng đẳng cấp bảo thủ",
+      "Quan niệm thần quyền tuyệt đối",
+      "Chủ nghĩa bành trướng"
+    ],
+    "answer": 0,
+    "explain": "Người tiếp thu những yếu tố tích cực của Nho giáo, Phật giáo, Lão giáo và các tư tưởng tiến bộ."
+  },
+  {
+    "id": 214,
+    "chapter": 2,
+    "question": "Tinh hoa văn hóa phương Tây ảnh hưởng đến Hồ Chí Minh qua những giá trị nào?",
+    "options": [
+      "Chủ nghĩa phân biệt chủng tộc",
+      "Tự do, bình đẳng, dân chủ, quyền con người và tinh thần cách mạng",
+      "Tư tưởng nô dịch thuộc địa",
+      "Lối sống hưởng lạc cực đoan"
+    ],
+    "answer": 1,
+    "explain": "Người tiếp thu các giá trị tiến bộ của văn hóa dân chủ và cách mạng phương Tây."
+  },
+  {
+    "id": 215,
+    "chapter": 2,
+    "question": "Vì sao phong trào yêu nước cuối thế kỷ XIX đầu thế kỷ XX thất bại?",
+    "options": [
+      "Nhân dân không yêu nước",
+      "Không có kẻ thù xâm lược",
+      "Thiếu đường lối cứu nước đúng đắn và tổ chức lãnh đạo phù hợp thời đại",
+      "Do Việt Nam đã độc lập hoàn toàn"
+    ],
+    "answer": 2,
+    "explain": "Các phong trào rất anh dũng nhưng hạn chế về đường lối và hệ tư tưởng lãnh đạo."
+  },
+  {
+    "id": 216,
+    "chapter": 2,
+    "question": "Sự xuất hiện của giai cấp công nhân Việt Nam có ý nghĩa gì?",
+    "options": [
+      "Làm chấm dứt mọi mâu thuẫn dân tộc",
+      "Thay thế ngay nhà nước thuộc địa",
+      "Không liên quan đến cách mạng",
+      "Tạo điều kiện xã hội để chủ nghĩa Mác - Lênin gắn với phong trào yêu nước"
+    ],
+    "answer": 3,
+    "explain": "Giai cấp công nhân là cơ sở xã hội quan trọng cho sự ra đời của Đảng."
+  },
+  {
+    "id": 217,
+    "chapter": 2,
+    "question": "Tư tưởng Hồ Chí Minh hình thành như thế nào?",
+    "options": [
+      "Qua quá trình lâu dài, gắn với hoạt động lý luận và thực tiễn phong phú",
+      "Được hình thành tức thời trong một ngày",
+      "Do sao chép nguyên xi từ nước ngoài",
+      "Không cần thực tiễn kiểm nghiệm"
+    ],
+    "answer": 0,
+    "explain": "Tư tưởng Hồ Chí Minh phát triển qua nhiều giai đoạn và được kiểm nghiệm trong thực tiễn."
+  },
+  {
+    "id": 218,
+    "chapter": 2,
+    "question": "Nội dung nào thuộc cơ sở thực tiễn thế giới hình thành Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Việt Nam ban hành Hiến pháp 2013",
+      "Chủ nghĩa tư bản chuyển sang giai đoạn đế quốc chủ nghĩa và phong trào giải phóng dân tộc phát triển",
+      "Cuộc cách mạng công nghệ số",
+      "Sự ra đời ASEAN"
+    ],
+    "answer": 1,
+    "explain": "Bối cảnh đế quốc chủ nghĩa và phong trào cách mạng thế giới tác động sâu sắc đến Người."
+  },
+  {
+    "id": 219,
+    "chapter": 2,
+    "question": "Điểm sáng tạo của Hồ Chí Minh khi tiếp thu chủ nghĩa Mác - Lênin là gì?",
+    "options": [
+      "Sao chép máy móc mô hình nước khác",
+      "Tách khỏi vấn đề dân tộc",
+      "Vận dụng và phát triển phù hợp điều kiện cụ thể Việt Nam",
+      "Phủ nhận vai trò nhân dân"
+    ],
+    "answer": 2,
+    "explain": "Người vận dụng sáng tạo chủ nghĩa Mác - Lênin vào cách mạng thuộc địa và Việt Nam."
+  },
+  {
+    "id": 220,
+    "chapter": 2,
+    "question": "Nhận định nào đúng về nhân tố chủ quan Hồ Chí Minh?",
+    "options": [
+      "Nhân tố cá nhân không có vai trò gì",
+      "Chỉ hoàn cảnh khách quan tạo nên tư tưởng",
+      "Người không hoạt động thực tiễn",
+      "Lòng yêu nước, thương dân và tư duy độc lập giúp Người chọn lọc, sáng tạo tư tưởng"
+    ],
+    "answer": 3,
+    "explain": "Nhân tố chủ quan là điều kiện quyết định để chuyển hóa các nguồn gốc thành hệ thống tư tưởng."
   },
   {
     "id": 301,
     "chapter": 3,
-    "question": "Tại sao hàng hóa sức lao động là hàng hóa đặc biệt?",
+    "question": "Luận điểm trung tâm trong tư tưởng Hồ Chí Minh về vấn đề dân tộc là gì?",
     "options": [
-      "Vì nó khó mua hơn các hàng hóa khác",
-      "Vì GTSD của nó có khả năng tạo ra giá trị mới lớn hơn giá trị bản thân nó",
-      "Vì nó không có giá trị",
-      "Vì nó chỉ do nhà nước quản lý"
+      "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của mọi dân tộc",
+      "Dân tộc thuộc địa phải phụ thuộc lâu dài",
+      "Độc lập không cần gắn với nhân dân",
+      "Chỉ cần cải cách văn hóa là đủ"
     ],
-    "answer": 1,
-    "explain": "Đây là đặc điểm cốt yếu để tiền chuyển hóa thành tư bản và tạo ra giá trị thặng dư."
+    "answer": 0,
+    "explain": "Hồ Chí Minh khẳng định không có gì quý hơn độc lập, tự do."
   },
   {
     "id": 302,
     "chapter": 3,
-    "question": "Giá trị thặng dư siêu ngạch thu được là do đâu?",
+    "question": "Theo Hồ Chí Minh, độc lập dân tộc phải gắn với điều gì để có ý nghĩa đầy đủ?",
     "options": [
-      "Tăng năng suất lao động xã hội",
-      "Kéo dài ngày lao động",
-      "Tăng năng suất lao động cá biệt vượt trên năng suất lao động xã hội",
-      "Giảm chi phí vận chuyển"
+      "Lợi ích của một thiểu số",
+      "Tự do, hạnh phúc của nhân dân",
+      "Sự lệ thuộc vào nước ngoài",
+      "Chỉ thay đổi tên gọi nhà nước"
     ],
-    "answer": 2,
-    "explain": "m siêu ngạch là động lực mạnh mẽ nhất thúc đẩy các nhà tư bản cải tiến kỹ thuật."
+    "answer": 1,
+    "explain": "Độc lập thật sự phải đem lại quyền làm chủ và hạnh phúc cho nhân dân."
   },
   {
     "id": 303,
     "chapter": 3,
-    "question": "Cấu tạo hữu cơ của tư bản (c/v) có xu hướng thay đổi thế nào khi kỹ thuật phát triển?",
+    "question": "Con đường cứu nước đúng đắn mà Hồ Chí Minh lựa chọn là gì?",
     "options": [
-      "Giảm xuống",
-      "Tăng lên",
-      "Giữ nguyên",
-      "Biến thiên ngẫu nhiên"
+      "Con đường quân chủ lập hiến",
+      "Con đường cải lương thuộc địa",
+      "Con đường cách mạng vô sản",
+      "Con đường dựa hoàn toàn vào ngoại bang"
+    ],
+    "answer": 2,
+    "explain": "Người khẳng định cách mạng giải phóng dân tộc phải đi theo con đường cách mạng vô sản."
+  },
+  {
+    "id": 304,
+    "chapter": 3,
+    "question": "Cách mạng giải phóng dân tộc muốn thắng lợi trước hết phải có yếu tố nào?",
+    "options": [
+      "Một triều đình phong kiến mạnh",
+      "Một tầng lớp thống trị mới",
+      "Sự ban phát của thực dân",
+      "Đảng Cộng sản lãnh đạo"
+    ],
+    "answer": 3,
+    "explain": "Đảng Cộng sản là nhân tố lãnh đạo quyết định thắng lợi."
+  },
+  {
+    "id": 305,
+    "chapter": 3,
+    "question": "Lực lượng cách mạng giải phóng dân tộc theo Hồ Chí Minh là ai?",
+    "options": [
+      "Toàn dân tộc, trong đó công nông là gốc",
+      "Chỉ một nhóm trí thức",
+      "Chỉ giai cấp tư sản",
+      "Chỉ quân đội nước ngoài"
+    ],
+    "answer": 0,
+    "explain": "Cách mạng là sự nghiệp của toàn dân, công nông là lực lượng gốc."
+  },
+  {
+    "id": 306,
+    "chapter": 3,
+    "question": "Hồ Chí Minh cho rằng cách mạng thuộc địa có khả năng như thế nào so với cách mạng ở chính quốc?",
+    "options": [
+      "Luôn phải chờ chính quốc thắng trước",
+      "Có thể chủ động giành thắng lợi trước",
+      "Không thể thắng lợi",
+      "Không liên quan đến phong trào thế giới"
     ],
     "answer": 1,
-    "explain": "Khi kỹ thuật phát triển, máy móc (c) tăng nhanh hơn sức lao động (v), dẫn đến cấu tạo hữu cơ tăng lên."
+    "explain": "Đây là luận điểm sáng tạo về tính chủ động của cách mạng thuộc địa."
+  },
+  {
+    "id": 307,
+    "chapter": 3,
+    "question": "Mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội trong tư tưởng Hồ Chí Minh là gì?",
+    "options": [
+      "Hoàn toàn tách rời nhau",
+      "Độc lập dân tộc phủ nhận chủ nghĩa xã hội",
+      "Gắn bó chặt chẽ với nhau",
+      "Chủ nghĩa xã hội không cần độc lập dân tộc"
+    ],
+    "answer": 2,
+    "explain": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là con đường cách mạng Việt Nam."
+  },
+  {
+    "id": 308,
+    "chapter": 3,
+    "question": "Vì sao độc lập dân tộc là tiền đề đi lên chủ nghĩa xã hội?",
+    "options": [
+      "Độc lập chỉ là vấn đề hình thức",
+      "Độc lập làm mất vai trò nhân dân",
+      "Độc lập không liên quan phát triển",
+      "Có độc lập mới có điều kiện xây dựng xã hội mới do nhân dân làm chủ"
+    ],
+    "answer": 3,
+    "explain": "Độc lập tạo điều kiện chính trị để xây dựng chủ nghĩa xã hội."
+  },
+  {
+    "id": 309,
+    "chapter": 3,
+    "question": "Theo Hồ Chí Minh, chủ nghĩa xã hội trước hết nhằm mục tiêu gì?",
+    "options": [
+      "Làm cho nhân dân được ấm no, tự do, hạnh phúc",
+      "Tăng đặc quyền cho một nhóm người",
+      "Loại bỏ quyền làm chủ của dân",
+      "Tách văn hóa khỏi đời sống"
+    ],
+    "answer": 0,
+    "explain": "Mục tiêu xã hội chủ nghĩa là nâng cao đời sống và quyền làm chủ của nhân dân."
+  },
+  {
+    "id": 310,
+    "chapter": 3,
+    "question": "Đặc trưng nổi bật của chủ nghĩa xã hội trong tư tưởng Hồ Chí Minh là gì?",
+    "options": [
+      "Quyền lực thuộc về thực dân",
+      "Nhân dân là chủ và làm chủ",
+      "Kinh tế trì trệ là mục tiêu",
+      "Văn hóa bị xem nhẹ"
+    ],
+    "answer": 1,
+    "explain": "Xã hội xã hội chủ nghĩa là xã hội do nhân dân làm chủ."
+  },
+  {
+    "id": 311,
+    "chapter": 3,
+    "question": "Động lực quan trọng nhất của chủ nghĩa xã hội theo Hồ Chí Minh là gì?",
+    "options": [
+      "Sự áp đặt hành chính đơn thuần",
+      "Lợi ích cá nhân ích kỷ",
+      "Con người và nhân dân",
+      "Sự phụ thuộc bên ngoài"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh coi con người, nhân dân là động lực quyết định."
+  },
+  {
+    "id": 312,
+    "chapter": 3,
+    "question": "Việt Nam đi lên chủ nghĩa xã hội từ xuất phát điểm nào?",
+    "options": [
+      "Một nước tư bản phát triển cao",
+      "Một nước không có vấn đề dân tộc",
+      "Một xã hội đã công nghiệp hóa hoàn toàn",
+      "Một nước nông nghiệp lạc hậu, bỏ qua chế độ tư bản chủ nghĩa"
+    ],
+    "answer": 3,
+    "explain": "Đặc điểm lớn nhất là quá độ từ nước nông nghiệp lạc hậu, không kinh qua tư bản chủ nghĩa."
+  },
+  {
+    "id": 313,
+    "chapter": 3,
+    "question": "Trong xây dựng chủ nghĩa xã hội, Hồ Chí Minh nhấn mạnh cách làm nào?",
+    "options": [
+      "Phù hợp điều kiện Việt Nam, tránh rập khuôn máy móc",
+      "Sao chép nguyên xi mô hình nước khác",
+      "Chỉ dựa vào mệnh lệnh",
+      "Không cần phát huy sáng kiến"
+    ],
+    "answer": 0,
+    "explain": "Xây dựng chủ nghĩa xã hội phải sáng tạo và phù hợp thực tiễn Việt Nam."
+  },
+  {
+    "id": 314,
+    "chapter": 3,
+    "question": "Nội dung nào thuộc mục tiêu chính trị của chủ nghĩa xã hội?",
+    "options": [
+      "Khôi phục chế độ thuộc địa",
+      "Xây dựng chế độ do nhân dân lao động làm chủ",
+      "Tập trung quyền lực vào cá nhân",
+      "Xóa bỏ dân chủ"
+    ],
+    "answer": 1,
+    "explain": "Mục tiêu chính trị là bảo đảm quyền làm chủ của nhân dân."
+  },
+  {
+    "id": 315,
+    "chapter": 3,
+    "question": "Nội dung nào thuộc mục tiêu kinh tế của chủ nghĩa xã hội?",
+    "options": [
+      "Duy trì nghèo nàn lạc hậu",
+      "Chỉ dựa vào viện trợ",
+      "Phát triển kinh tế, nâng cao đời sống nhân dân",
+      "Không cần sản xuất"
+    ],
+    "answer": 2,
+    "explain": "Kinh tế phát triển là cơ sở nâng cao đời sống và xây dựng xã hội mới."
+  },
+  {
+    "id": 316,
+    "chapter": 3,
+    "question": "Hồ Chí Minh nhìn nhận quan hệ giữa lợi ích cá nhân và lợi ích tập thể thế nào?",
+    "options": [
+      "Luôn đối lập tuyệt đối",
+      "Chỉ thừa nhận lợi ích cá nhân",
+      "Chỉ thừa nhận mệnh lệnh hành chính",
+      "Cần kết hợp hài hòa để tạo động lực"
+    ],
+    "answer": 3,
+    "explain": "Kết hợp lợi ích là một động lực quan trọng trong xây dựng xã hội mới."
+  },
+  {
+    "id": 317,
+    "chapter": 3,
+    "question": "Biện pháp xây dựng chủ nghĩa xã hội nào phù hợp tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Kết hợp xây dựng với cải tạo, lấy xây dựng làm chính",
+      "Chỉ phá bỏ mà không xây dựng",
+      "Đốt cháy mọi giai đoạn bất chấp điều kiện",
+      "Tách Đảng khỏi nhân dân"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh nhấn mạnh xây dựng là nhiệm vụ chủ yếu, lâu dài."
+  },
+  {
+    "id": 318,
+    "chapter": 3,
+    "question": "Trong tư tưởng Hồ Chí Minh, chủ nghĩa yêu nước chân chính phải gắn với gì?",
+    "options": [
+      "Chủ nghĩa dân tộc hẹp hòi",
+      "Chủ nghĩa quốc tế trong sáng",
+      "Tư tưởng kỳ thị dân tộc",
+      "Sự biệt lập với thế giới"
+    ],
+    "answer": 1,
+    "explain": "Yêu nước chân chính gắn với đoàn kết quốc tế và tiến bộ nhân loại."
+  },
+  {
+    "id": 319,
+    "chapter": 3,
+    "question": "Khẩu hiệu “Không có gì quý hơn độc lập, tự do” thể hiện nội dung nào?",
+    "options": [
+      "Sự xem nhẹ chủ quyền",
+      "Quan điểm chỉ chú trọng kinh tế",
+      "Giá trị tối cao của độc lập dân tộc và tự do",
+      "Tư tưởng thỏa hiệp thuộc địa"
+    ],
+    "answer": 2,
+    "explain": "Khẩu hiệu kết tinh tư tưởng về độc lập, tự do của Hồ Chí Minh."
+  },
+  {
+    "id": 320,
+    "chapter": 3,
+    "question": "Điểm đúng về cách mạng giải phóng dân tộc theo Hồ Chí Minh là gì?",
+    "options": [
+      "Chỉ trông chờ sự giúp đỡ bên ngoài",
+      "Không cần tổ chức lãnh đạo",
+      "Không cần lực lượng nhân dân",
+      "Phải chủ động, sáng tạo, tự lực tự cường và tranh thủ sức mạnh quốc tế"
+    ],
+    "answer": 3,
+    "explain": "Người đề cao tự lực, chủ động đồng thời kết hợp sức mạnh thời đại."
   },
   {
     "id": 401,
     "chapter": 4,
-    "question": "Xuất khẩu tư bản là đặc điểm của giai đoạn nào?",
+    "question": "Theo Hồ Chí Minh, nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam là gì?",
     "options": [
-      "CNTB tự do cạnh tranh",
-      "CNTB độc quyền",
-      "Chủ nghĩa trọng thương",
-      "Kinh tế phong kiến"
+      "Sự lãnh đạo của Đảng Cộng sản Việt Nam",
+      "Sự tự phát của quần chúng",
+      "Sự giúp đỡ thay thế hoàn toàn từ bên ngoài",
+      "Sự tồn tại của chế độ phong kiến"
     ],
-    "answer": 1,
-    "explain": "Lênin xác định xuất khẩu tư bản (mang vốn sang nước khác) là một trong 5 đặc điểm cơ bản của độc quyền."
+    "answer": 0,
+    "explain": "Đảng lãnh đạo đúng đắn là nhân tố quyết định thắng lợi."
   },
   {
     "id": 402,
     "chapter": 4,
-    "question": "Mục đích cuối cùng của các tổ chức độc quyền là gì?",
+    "question": "Hồ Chí Minh nêu sự ra đời của Đảng Cộng sản Việt Nam là kết quả kết hợp những yếu tố nào?",
     "options": [
-      "Giúp đỡ cộng đồng",
-      "Thống trị thế giới",
-      "Thu lợi nhuận độc quyền cao",
-      "Cải tiến kỹ thuật"
+      "Nho giáo, Phật giáo và Lão giáo",
+      "Chủ nghĩa Mác - Lênin, phong trào công nhân và phong trào yêu nước",
+      "Phong trào tư sản và địa chủ",
+      "Chỉ phong trào công nhân tự phát"
+    ],
+    "answer": 1,
+    "explain": "Hồ Chí Minh bổ sung yếu tố phong trào yêu nước vào quy luật ra đời của Đảng ở Việt Nam."
+  },
+  {
+    "id": 403,
+    "chapter": 4,
+    "question": "Đảng Cộng sản Việt Nam mang bản chất giai cấp nào?",
+    "options": [
+      "Giai cấp địa chủ",
+      "Giai cấp tư sản mại bản",
+      "Giai cấp công nhân",
+      "Tầng lớp quan lại phong kiến"
     ],
     "answer": 2,
-    "explain": "Lợi nhuận độc quyền cao dựa trên việc khống chế giá cả và thị trường."
+    "explain": "Đảng mang bản chất giai cấp công nhân, đồng thời đại biểu cho lợi ích dân tộc và nhân dân."
+  },
+  {
+    "id": 404,
+    "chapter": 4,
+    "question": "Khi là Đảng cầm quyền, Đảng phải đồng thời là gì?",
+    "options": [
+      "Tổ chức đứng trên nhân dân",
+      "Cơ quan thay thế toàn bộ Nhà nước",
+      "Lực lượng tách khỏi xã hội",
+      "Người lãnh đạo và người đầy tớ thật trung thành của nhân dân"
+    ],
+    "answer": 3,
+    "explain": "Hồ Chí Minh nhấn mạnh Đảng vừa lãnh đạo vừa phục vụ nhân dân."
+  },
+  {
+    "id": 405,
+    "chapter": 4,
+    "question": "Nội dung xây dựng Đảng theo Hồ Chí Minh bao gồm những mặt nào?",
+    "options": [
+      "Tư tưởng, chính trị, tổ chức và đạo đức",
+      "Chỉ tài chính",
+      "Chỉ nghi lễ",
+      "Chỉ truyền thông"
+    ],
+    "answer": 0,
+    "explain": "Xây dựng Đảng phải toàn diện trên các mặt cơ bản."
+  },
+  {
+    "id": 406,
+    "chapter": 4,
+    "question": "Nền tảng tư tưởng của Đảng theo Hồ Chí Minh là gì?",
+    "options": [
+      "Chủ nghĩa cá nhân",
+      "Chủ nghĩa Mác - Lênin",
+      "Chủ nghĩa thực dụng",
+      "Chủ nghĩa cơ hội"
+    ],
+    "answer": 1,
+    "explain": "Đảng phải lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng."
+  },
+  {
+    "id": 407,
+    "chapter": 4,
+    "question": "Nguyên tắc tổ chức cơ bản của Đảng là gì?",
+    "options": [
+      "Tự do vô tổ chức",
+      "Gia trưởng cá nhân",
+      "Tập trung dân chủ",
+      "Phân tán cục bộ"
+    ],
+    "answer": 2,
+    "explain": "Tập trung dân chủ là nguyên tắc tổ chức cơ bản của Đảng."
+  },
+  {
+    "id": 408,
+    "chapter": 4,
+    "question": "Tự phê bình và phê bình trong Đảng nhằm mục đích gì?",
+    "options": [
+      "Chia rẽ nội bộ",
+      "Hạ thấp vai trò tổ chức",
+      "Thay thế kỷ luật",
+      "Làm cho Đảng trong sạch, vững mạnh"
+    ],
+    "answer": 3,
+    "explain": "Tự phê bình và phê bình là quy luật phát triển của Đảng."
+  },
+  {
+    "id": 409,
+    "chapter": 4,
+    "question": "Theo Hồ Chí Minh, nguy cơ lớn của Đảng cầm quyền nếu xa dân là gì?",
+    "options": [
+      "Quan liêu, tham ô, lãng phí và suy thoái",
+      "Tăng cường dân chủ",
+      "Gắn bó hơn với nhân dân",
+      "Nâng cao đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Đảng cầm quyền phải chống quan liêu, tham ô, lãng phí và xa dân."
+  },
+  {
+    "id": 410,
+    "chapter": 4,
+    "question": "Nhà nước trong tư tưởng Hồ Chí Minh là nhà nước như thế nào?",
+    "options": [
+      "Của một nhóm đặc quyền",
+      "Của nhân dân, do nhân dân, vì nhân dân",
+      "Của thực dân",
+      "Của nhà vua"
+    ],
+    "answer": 1,
+    "explain": "Nhà nước kiểu mới thuộc về nhân dân và phục vụ nhân dân."
+  },
+  {
+    "id": 411,
+    "chapter": 4,
+    "question": "“Nhà nước của dân” nghĩa là gì?",
+    "options": [
+      "Nhân dân không có quyền tham gia",
+      "Quyền lực chỉ thuộc về cá nhân",
+      "Mọi quyền lực nhà nước thuộc về nhân dân",
+      "Nhà nước không chịu trách nhiệm trước dân"
+    ],
+    "answer": 2,
+    "explain": "Của dân là quyền lực thuộc về nhân dân."
+  },
+  {
+    "id": 412,
+    "chapter": 4,
+    "question": "“Nhà nước do dân” nhấn mạnh điều gì?",
+    "options": [
+      "Nhà nước tự tồn tại ngoài nhân dân",
+      "Nhà nước do nước ngoài lập",
+      "Nhân dân chỉ phục tùng",
+      "Nhân dân lập nên, ủng hộ, kiểm soát và tham gia xây dựng nhà nước"
+    ],
+    "answer": 3,
+    "explain": "Do dân là nhà nước được nhân dân xây dựng và kiểm soát."
+  },
+  {
+    "id": 413,
+    "chapter": 4,
+    "question": "“Nhà nước vì dân” có nội dung gì?",
+    "options": [
+      "Hoạt động vì lợi ích và hạnh phúc của nhân dân",
+      "Hoạt động vì đặc quyền cá nhân",
+      "Chỉ lo hình thức",
+      "Không cần phục vụ xã hội"
+    ],
+    "answer": 0,
+    "explain": "Vì dân là mục tiêu phục vụ nhân dân."
+  },
+  {
+    "id": 414,
+    "chapter": 4,
+    "question": "Cán bộ, công chức theo Hồ Chí Minh là gì của nhân dân?",
+    "options": [
+      "Ông chủ đứng trên dân",
+      "Công bộc của dân",
+      "Người cai trị theo đặc quyền",
+      "Lực lượng tách khỏi dân"
+    ],
+    "answer": 1,
+    "explain": "Cán bộ là công bộc, phải phục vụ nhân dân."
+  },
+  {
+    "id": 415,
+    "chapter": 4,
+    "question": "Phẩm chất đạo đức quan trọng của cán bộ là gì?",
+    "options": [
+      "Quan liêu, xa dân",
+      "Tư lợi cá nhân",
+      "Cần, kiệm, liêm, chính, chí công vô tư",
+      "Lãng phí và hình thức"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh đặt yêu cầu cao về đạo đức công vụ."
+  },
+  {
+    "id": 416,
+    "chapter": 4,
+    "question": "Nhà nước pháp quyền theo tư tưởng Hồ Chí Minh phải quản lý xã hội bằng gì?",
+    "options": [
+      "Tình cảm cá nhân tùy tiện",
+      "Mệnh lệnh bí mật không kiểm soát",
+      "Phong tục thay cho luật pháp",
+      "Hiến pháp và pháp luật"
+    ],
+    "answer": 3,
+    "explain": "Nhà nước phải đề cao Hiến pháp, pháp luật và kỷ cương."
+  },
+  {
+    "id": 417,
+    "chapter": 4,
+    "question": "Quan hệ giữa pháp luật và đạo đức trong quản lý nhà nước theo Hồ Chí Minh là gì?",
+    "options": [
+      "Kết hợp chặt chẽ",
+      "Loại trừ nhau",
+      "Chỉ cần pháp luật, không cần đạo đức",
+      "Chỉ cần đạo đức, không cần pháp luật"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh coi trọng cả pháp luật và giáo dục đạo đức."
+  },
+  {
+    "id": 418,
+    "chapter": 4,
+    "question": "Dân chủ trong nhà nước kiểu mới thể hiện trước hết ở đâu?",
+    "options": [
+      "Nhân dân không được bày tỏ ý kiến",
+      "Nhân dân có quyền làm chủ và tham gia quản lý xã hội",
+      "Quyền lực không cần kiểm soát",
+      "Chỉ có hình thức bầu cử"
+    ],
+    "answer": 1,
+    "explain": "Dân chủ là bản chất của nhà nước của dân, do dân, vì dân."
+  },
+  {
+    "id": 419,
+    "chapter": 4,
+    "question": "Để xây dựng Đảng trong sạch, vững mạnh cần làm gì thường xuyên?",
+    "options": [
+      "Che giấu khuyết điểm",
+      "Tách Đảng khỏi nhân dân",
+      "Xây dựng, chỉnh đốn Đảng",
+      "Xem nhẹ kỷ luật"
+    ],
+    "answer": 2,
+    "explain": "Xây dựng, chỉnh đốn Đảng là yêu cầu thường xuyên."
+  },
+  {
+    "id": 420,
+    "chapter": 4,
+    "question": "Mối quan hệ đúng giữa Đảng, Nhà nước và nhân dân là gì?",
+    "options": [
+      "Đảng thay thế nhân dân làm chủ",
+      "Nhà nước đứng ngoài sự lãnh đạo",
+      "Nhân dân không có vai trò",
+      "Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ"
+    ],
+    "answer": 3,
+    "explain": "Đây là quan hệ chính trị cơ bản cần bảo đảm trong hệ thống chính trị."
   },
   {
     "id": 501,
     "chapter": 5,
-    "question": "Tại sao kinh tế nhà nước phải giữ vai trò chủ đạo ở Việt Nam?",
+    "question": "Theo Hồ Chí Minh, đại đoàn kết toàn dân tộc có vai trò gì?",
     "options": [
-      "Để cạnh tranh với tư nhân",
-      "Để nắm giữ các ngành then chốt và điều tiết định hướng XHCN",
-      "Vì nhà nước có nhiều tiền nhất",
-      "Để xóa bỏ các thành phần khác"
+      "Là vấn đề chiến lược quyết định thành công của cách mạng",
+      "Chỉ là sách lược tạm thời",
+      "Không liên quan đến thắng lợi cách mạng",
+      "Chỉ dùng trong ngoại giao"
     ],
-    "answer": 1,
-    "explain": "Kinh tế nhà nước là công cụ vật chất để định hướng phát triển kinh tế-xã hội theo con đường XHCN."
+    "answer": 0,
+    "explain": "Đại đoàn kết là chiến lược lâu dài, quyết định thắng lợi."
   },
   {
     "id": 502,
     "chapter": 5,
-    "question": "Quan hệ phân phối nào là cơ bản nhất trong KTTT định hướng XHCN?",
+    "question": "Chủ thể của khối đại đoàn kết toàn dân tộc là ai?",
     "options": [
-      "Phân phối bình quân",
-      "Phân phối theo nhu cầu",
-      "Phân phối theo lao động và hiệu quả kinh tế",
-      "Phân phối theo may mắn"
+      "Chỉ một giai cấp duy nhất",
+      "Toàn thể nhân dân Việt Nam yêu nước",
+      "Chỉ người ở đô thị",
+      "Chỉ người có chức vụ"
+    ],
+    "answer": 1,
+    "explain": "Chủ thể đại đoàn kết là toàn dân, mọi người Việt Nam yêu nước."
+  },
+  {
+    "id": 503,
+    "chapter": 5,
+    "question": "Nền tảng của khối đại đoàn kết toàn dân tộc là gì?",
+    "options": [
+      "Liên minh địa chủ và thực dân",
+      "Sự chia rẽ vùng miền",
+      "Liên minh công nhân, nông dân và trí thức dưới sự lãnh đạo của Đảng",
+      "Sự đối lập tôn giáo"
     ],
     "answer": 2,
-    "explain": "Phân phối theo lao động đảm bảo công bằng và tạo động lực phát triển."
+    "explain": "Liên minh công - nông - trí là nền tảng quan trọng của đại đoàn kết."
+  },
+  {
+    "id": 504,
+    "chapter": 5,
+    "question": "Hình thức tổ chức tiêu biểu của khối đại đoàn kết là gì?",
+    "options": [
+      "Một công ty thương mại",
+      "Một hội kín biệt lập",
+      "Một thiết chế phong kiến",
+      "Mặt trận dân tộc thống nhất"
+    ],
+    "answer": 3,
+    "explain": "Mặt trận dân tộc thống nhất là hình thức tổ chức của đại đoàn kết."
+  },
+  {
+    "id": 505,
+    "chapter": 5,
+    "question": "Điểm tương đồng để quy tụ lực lượng đoàn kết theo Hồ Chí Minh là gì?",
+    "options": [
+      "Lợi ích tối cao của dân tộc và quyền lợi cơ bản của nhân dân",
+      "Lợi ích cục bộ hẹp hòi",
+      "Đặc quyền của một nhóm",
+      "Sự khác biệt để chia rẽ"
+    ],
+    "answer": 0,
+    "explain": "Đoàn kết phải đặt lợi ích dân tộc và nhân dân lên trên hết."
+  },
+  {
+    "id": 506,
+    "chapter": 5,
+    "question": "Nguyên tắc quan trọng trong xây dựng Mặt trận là gì?",
+    "options": [
+      "Hoạt động không mục tiêu",
+      "Đặt dưới sự lãnh đạo của Đảng và hoạt động trên cơ sở hiệp thương dân chủ",
+      "Loại bỏ mọi tầng lớp ngoài công nhân",
+      "Tách khỏi nhân dân"
+    ],
+    "answer": 1,
+    "explain": "Mặt trận cần sự lãnh đạo của Đảng và phương thức dân chủ, đồng thuận."
+  },
+  {
+    "id": 507,
+    "chapter": 5,
+    "question": "Đoàn kết trong tư tưởng Hồ Chí Minh phải đi đôi với điều gì?",
+    "options": [
+      "Dung túng mọi biểu hiện sai trái",
+      "Xóa bỏ nguyên tắc",
+      "Đấu tranh chống chia rẽ, hẹp hòi, bè phái",
+      "Phủ nhận lợi ích dân tộc"
+    ],
+    "answer": 2,
+    "explain": "Đoàn kết rộng rãi nhưng có nguyên tắc, chống chia rẽ."
+  },
+  {
+    "id": 508,
+    "chapter": 5,
+    "question": "Hồ Chí Minh xem đoàn kết là gì?",
+    "options": [
+      "Yếu tố phụ không quan trọng",
+      "Công việc chỉ của ngoại giao",
+      "Vấn đề sau khi cách mạng thắng lợi mới cần",
+      "Sức mạnh, then chốt của thành công"
+    ],
+    "answer": 3,
+    "explain": "Người nhiều lần khẳng định đoàn kết là sức mạnh và then chốt thành công."
+  },
+  {
+    "id": 509,
+    "chapter": 5,
+    "question": "Đại đoàn kết toàn dân tộc phải gắn với yếu tố nào?",
+    "options": [
+      "Đoàn kết quốc tế",
+      "Biệt lập dân tộc",
+      "Tư tưởng kỳ thị",
+      "Cạnh tranh chia rẽ nội bộ"
+    ],
+    "answer": 0,
+    "explain": "Sức mạnh dân tộc cần kết hợp với sức mạnh thời đại."
+  },
+  {
+    "id": 510,
+    "chapter": 5,
+    "question": "Đoàn kết quốc tế trong tư tưởng Hồ Chí Minh bao gồm đoàn kết với lực lượng nào?",
+    "options": [
+      "Chỉ các thế lực áp bức thuộc địa",
+      "Phong trào cộng sản, công nhân quốc tế, phong trào giải phóng dân tộc và lực lượng tiến bộ",
+      "Chỉ một nhóm lợi ích kinh tế",
+      "Không cần bất kỳ lực lượng nào"
+    ],
+    "answer": 1,
+    "explain": "Đoàn kết quốc tế hướng tới các lực lượng cách mạng và tiến bộ trên thế giới."
+  },
+  {
+    "id": 511,
+    "chapter": 5,
+    "question": "Nguyên tắc đoàn kết quốc tế của Hồ Chí Minh là gì?",
+    "options": [
+      "Phụ thuộc tuyệt đối vào bên ngoài",
+      "Can thiệp vào nội bộ nước khác",
+      "Độc lập, tự chủ, bình đẳng, hữu nghị và hợp tác",
+      "Chỉ nhận giúp đỡ, không có trách nhiệm"
+    ],
+    "answer": 2,
+    "explain": "Đoàn kết quốc tế phải dựa trên độc lập tự chủ và tinh thần trong sáng."
+  },
+  {
+    "id": 512,
+    "chapter": 5,
+    "question": "Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh bao gồm yếu tố nào?",
+    "options": [
+      "Sự chia rẽ dân tộc",
+      "Tâm lý tự ti",
+      "Sự lệ thuộc thuộc địa",
+      "Chủ nghĩa yêu nước, ý chí độc lập, đoàn kết và sức sáng tạo của nhân dân"
+    ],
+    "answer": 3,
+    "explain": "Sức mạnh dân tộc bắt nguồn từ truyền thống và lực lượng nhân dân."
+  },
+  {
+    "id": 513,
+    "chapter": 5,
+    "question": "Sức mạnh thời đại trong tư tưởng Hồ Chí Minh là gì?",
+    "options": [
+      "Sức mạnh của xu thế cách mạng, hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội",
+      "Sự thống trị của chủ nghĩa thực dân",
+      "Sự cô lập quốc tế",
+      "Sự lạc hậu kỹ thuật"
+    ],
+    "answer": 0,
+    "explain": "Sức mạnh thời đại là các xu thế tiến bộ của thế giới mà cách mạng Việt Nam cần tranh thủ."
+  },
+  {
+    "id": 514,
+    "chapter": 5,
+    "question": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại nhằm mục đích gì?",
+    "options": [
+      "Làm suy yếu nội lực dân tộc",
+      "Tạo sức mạnh tổng hợp cho cách mạng Việt Nam",
+      "Thay thế nhân dân bằng ngoại lực",
+      "Tách Việt Nam khỏi phong trào thế giới"
+    ],
+    "answer": 1,
+    "explain": "Sự kết hợp tạo nên sức mạnh tổng hợp."
+  },
+  {
+    "id": 515,
+    "chapter": 5,
+    "question": "Trong đoàn kết, Hồ Chí Minh chủ trương xử lý khác biệt như thế nào?",
+    "options": [
+      "Khoét sâu mọi khác biệt",
+      "Loại bỏ mọi người có ý kiến khác",
+      "Tìm điểm tương đồng, tôn trọng khác biệt không trái lợi ích chung",
+      "Không cần mục tiêu chung"
+    ],
+    "answer": 2,
+    "explain": "Người nhấn mạnh nhân điểm tương đồng, hạn chế khác biệt để đoàn kết."
+  },
+  {
+    "id": 516,
+    "chapter": 5,
+    "question": "Đại đoàn kết có phạm vi như thế nào?",
+    "options": [
+      "Chỉ trong một thời điểm ngắn",
+      "Chỉ trong một địa phương",
+      "Chỉ trong một tầng lớp",
+      "Rộng rãi, lâu dài, bao gồm mọi người Việt Nam yêu nước trong và ngoài nước"
+    ],
+    "answer": 3,
+    "explain": "Đại đoàn kết là chiến lược rộng rãi, lâu dài của cách mạng."
+  },
+  {
+    "id": 517,
+    "chapter": 5,
+    "question": "Vai trò của Đảng trong đại đoàn kết là gì?",
+    "options": [
+      "Lãnh đạo, định hướng và tổ chức khối đoàn kết",
+      "Đứng ngoài khối đoàn kết",
+      "Chia rẽ các lực lượng",
+      "Thay thế Mặt trận bằng mệnh lệnh"
+    ],
+    "answer": 0,
+    "explain": "Đảng lãnh đạo để khối đoàn kết có mục tiêu và tổ chức đúng đắn."
+  },
+  {
+    "id": 518,
+    "chapter": 5,
+    "question": "Nội dung nào không phù hợp với tư tưởng đại đoàn kết của Hồ Chí Minh?",
+    "options": [
+      "Khoan dung và nhân ái",
+      "Phân biệt, chia rẽ dân tộc, tôn giáo, giai cấp",
+      "Tôn trọng lợi ích chung",
+      "Tập hợp mọi người yêu nước"
+    ],
+    "answer": 1,
+    "explain": "Chia rẽ và kỳ thị trái với tinh thần đại đoàn kết."
+  },
+  {
+    "id": 519,
+    "chapter": 5,
+    "question": "Đoàn kết quốc tế phải gắn với nhiệm vụ nào của cách mạng Việt Nam?",
+    "options": [
+      "Từ bỏ độc lập tự chủ",
+      "Đặt lợi ích nước ngoài lên trên dân tộc",
+      "Bảo vệ độc lập dân tộc và đóng góp vào hòa bình, tiến bộ của nhân loại",
+      "Không quan tâm hòa bình thế giới"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh kết hợp lợi ích dân tộc với nghĩa vụ quốc tế trong sáng."
+  },
+  {
+    "id": 520,
+    "chapter": 5,
+    "question": "Bài học vận dụng hiện nay từ tư tưởng đại đoàn kết là gì?",
+    "options": [
+      "Nuôi dưỡng chia rẽ",
+      "Xem nhẹ Mặt trận và đoàn thể",
+      "Tách người Việt Nam ở nước ngoài khỏi dân tộc",
+      "Phát huy đồng thuận xã hội, tôn trọng khác biệt, củng cố niềm tin của nhân dân"
+    ],
+    "answer": 3,
+    "explain": "Vận dụng tư tưởng đại đoàn kết giúp củng cố khối đại đoàn kết toàn dân trong điều kiện mới."
   },
   {
     "id": 601,
     "chapter": 6,
-    "question": "Trong Cách mạng công nghệ 4.0, tài nguyên nào được coi là quan trọng nhất?",
+    "question": "Theo Hồ Chí Minh, văn hóa có quan hệ như thế nào với chính trị, kinh tế, xã hội?",
     "options": [
-      "Dầu mỏ",
-      "Sắt thép",
-      "Tri thức và dữ liệu số",
-      "Lao động cơ bắp"
+      "Có quan hệ chặt chẽ, tác động qua lại",
+      "Hoàn toàn tách biệt",
+      "Chỉ phụ thuộc vào nghệ thuật",
+      "Không liên quan đến đời sống"
     ],
-    "answer": 2,
-    "explain": "Kinh tế tri thức lấy tri thức và dữ liệu làm lực lượng sản xuất trực tiếp và quan trọng nhất."
+    "answer": 0,
+    "explain": "Hồ Chí Minh xem chính trị, kinh tế, văn hóa, xã hội có quan hệ tác động lẫn nhau."
   },
   {
     "id": 602,
     "chapter": 6,
-    "question": "Hội nhập kinh tế quốc tế của Việt Nam thực hiện theo phương châm nào?",
+    "question": "Nền văn hóa mới Việt Nam theo Hồ Chí Minh có tính chất nào?",
     "options": [
-      "Chỉ chơi với các nước mạnh",
-      "Đóng cửa bảo vệ sản xuất trong nước",
-      "Đa phương hóa, đa dạng hóa quan hệ",
-      "Lệ thuộc vào một đối tác duy nhất"
+      "Thuộc địa, phong kiến, biệt lập",
+      "Dân tộc, khoa học, đại chúng",
+      "Xa rời nhân dân",
+      "Chỉ phục vụ thiểu số"
+    ],
+    "answer": 1,
+    "explain": "Hồ Chí Minh chủ trương xây dựng nền văn hóa dân tộc, khoa học, đại chúng."
+  },
+  {
+    "id": 603,
+    "chapter": 6,
+    "question": "Văn hóa trong tư tưởng Hồ Chí Minh có vai trò gì?",
+    "options": [
+      "Chỉ là hoạt động giải trí",
+      "Không cần trong xây dựng đất nước",
+      "Vừa là mục tiêu, vừa là động lực của cách mạng",
+      "Chỉ dành cho giới trí thức"
     ],
     "answer": 2,
-    "explain": "Việc đa dạng hóa giúp Việt Nam linh hoạt và bảo vệ độc lập tự chủ kinh tế."
+    "explain": "Văn hóa góp phần định hướng, giáo dục và thúc đẩy phát triển xã hội."
+  },
+  {
+    "id": 604,
+    "chapter": 6,
+    "question": "Hồ Chí Minh coi đạo đức có vị trí như thế nào đối với người cách mạng?",
+    "options": [
+      "Là yếu tố phụ không cần rèn luyện",
+      "Chỉ cần khi về già",
+      "Chỉ dùng trong đời tư",
+      "Là gốc của người cách mạng"
+    ],
+    "answer": 3,
+    "explain": "Người khẳng định đạo đức là gốc của người cách mạng."
+  },
+  {
+    "id": 605,
+    "chapter": 6,
+    "question": "Chuẩn mực “trung với nước, hiếu với dân” nghĩa là gì?",
+    "options": [
+      "Trung thành với Tổ quốc, tận tụy phục vụ nhân dân",
+      "Trung với cá nhân, xa dân",
+      "Chỉ trung với dòng họ",
+      "Chỉ phục vụ lợi ích riêng"
+    ],
+    "answer": 0,
+    "explain": "Đây là chuẩn mực bao trùm trong đạo đức cách mạng."
+  },
+  {
+    "id": 606,
+    "chapter": 6,
+    "question": "“Cần, kiệm, liêm, chính, chí công vô tư” thuộc nội dung nào?",
+    "options": [
+      "Kỹ thuật sản xuất",
+      "Chuẩn mực đạo đức cách mạng",
+      "Quy tắc ngoại giao thuần túy",
+      "Phương pháp thống kê"
+    ],
+    "answer": 1,
+    "explain": "Đó là các phẩm chất đạo đức cơ bản Hồ Chí Minh yêu cầu cán bộ, đảng viên rèn luyện."
+  },
+  {
+    "id": 607,
+    "chapter": 6,
+    "question": "Nguyên tắc rèn luyện đạo đức “nói đi đôi với làm” yêu cầu điều gì?",
+    "options": [
+      "Nói nhiều hơn làm",
+      "Chỉ tuyên truyền khẩu hiệu",
+      "Thống nhất lời nói với hành động, nêu gương bằng việc làm",
+      "Làm trái điều đã nói"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh đặc biệt coi trọng nêu gương và thực hành đạo đức."
+  },
+  {
+    "id": 608,
+    "chapter": 6,
+    "question": "Nguyên tắc “xây đi đôi với chống” trong rèn luyện đạo đức nghĩa là gì?",
+    "options": [
+      "Chỉ phê phán mà không xây dựng",
+      "Chỉ khen ngợi mà không sửa sai",
+      "Không cần tự rèn luyện",
+      "Xây dựng phẩm chất tốt đồng thời chống biểu hiện sai trái"
+    ],
+    "answer": 3,
+    "explain": "Rèn luyện đạo đức phải vừa bồi dưỡng cái tốt, vừa chống cái xấu."
+  },
+  {
+    "id": 609,
+    "chapter": 6,
+    "question": "Vì sao Hồ Chí Minh yêu cầu tu dưỡng đạo đức suốt đời?",
+    "options": [
+      "Vì đạo đức cách mạng phải được rèn luyện bền bỉ trong mọi hoàn cảnh",
+      "Vì đạo đức tự nhiên có sẵn và không đổi",
+      "Vì chỉ cần rèn luyện khi thi",
+      "Vì chỉ cán bộ cấp cao mới cần đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Tu dưỡng đạo đức là công việc thường xuyên, lâu dài."
+  },
+  {
+    "id": 610,
+    "chapter": 6,
+    "question": "Tình yêu thương con người trong đạo đức Hồ Chí Minh hướng tới ai?",
+    "options": [
+      "Chỉ người thân trong gia đình",
+      "Những người lao động, người bị áp bức và toàn thể nhân dân",
+      "Chỉ người cùng địa vị",
+      "Chỉ người có quyền lực"
+    ],
+    "answer": 1,
+    "explain": "Tình yêu thương con người của Hồ Chí Minh rộng lớn, gắn với giải phóng con người."
+  },
+  {
+    "id": 611,
+    "chapter": 6,
+    "question": "Tinh thần quốc tế trong sáng trong đạo đức Hồ Chí Minh là gì?",
+    "options": [
+      "Phục tùng nước ngoài",
+      "Kỳ thị dân tộc khác",
+      "Đoàn kết với các dân tộc và lực lượng tiến bộ vì hòa bình, độc lập, dân chủ",
+      "Chỉ quan tâm lợi ích cá nhân"
+    ],
+    "answer": 2,
+    "explain": "Tinh thần quốc tế trong sáng gắn với đoàn kết và tiến bộ nhân loại."
+  },
+  {
+    "id": 612,
+    "chapter": 6,
+    "question": "Theo Hồ Chí Minh, con người có vị trí gì trong cách mạng?",
+    "options": [
+      "Chỉ là phương tiện",
+      "Không có vai trò quyết định",
+      "Chỉ là đối tượng quản lý",
+      "Vừa là mục tiêu, vừa là động lực"
+    ],
+    "answer": 3,
+    "explain": "Con người là trung tâm trong tư tưởng Hồ Chí Minh."
+  },
+  {
+    "id": 613,
+    "chapter": 6,
+    "question": "Quan điểm “trồng người” của Hồ Chí Minh nhấn mạnh nhiệm vụ nào?",
+    "options": [
+      "Giáo dục, bồi dưỡng con người, nhất là thế hệ trẻ",
+      "Chỉ phát triển nông nghiệp",
+      "Chỉ đào tạo quân sự",
+      "Không cần giáo dục đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Trồng người là chiến lược giáo dục, bồi dưỡng con người lâu dài."
+  },
+  {
+    "id": 614,
+    "chapter": 6,
+    "question": "Xây dựng con người mới theo Hồ Chí Minh cần kết hợp những mặt nào?",
+    "options": [
+      "Chỉ tài năng chuyên môn",
+      "Đức và tài",
+      "Chỉ hình thức bên ngoài",
+      "Chỉ thành tích cá nhân"
+    ],
+    "answer": 1,
+    "explain": "Người coi trọng cả đạo đức và năng lực."
+  },
+  {
+    "id": 615,
+    "chapter": 6,
+    "question": "Văn hóa đời sống theo Hồ Chí Minh gắn với nội dung nào?",
+    "options": [
+      "Xa rời sinh hoạt nhân dân",
+      "Chỉ sao chép phong tục cũ",
+      "Xây dựng lối sống mới, nếp sống mới, đời sống mới",
+      "Chỉ chú trọng nghi lễ"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh quan tâm xây dựng đời sống mới trong sinh hoạt hằng ngày."
+  },
+  {
+    "id": 616,
+    "chapter": 6,
+    "question": "Trong tư tưởng Hồ Chí Minh, văn hóa phải phục vụ ai?",
+    "options": [
+      "Một thiểu số đặc quyền",
+      "Chính quyền thuộc địa",
+      "Cá nhân nghệ sĩ",
+      "Nhân dân"
+    ],
+    "answer": 3,
+    "explain": "Văn hóa phải gắn với nhân dân và phục vụ nhân dân."
+  },
+  {
+    "id": 617,
+    "chapter": 6,
+    "question": "Tư tưởng Hồ Chí Minh về văn hóa văn nghệ nhấn mạnh điều gì?",
+    "options": [
+      "Văn nghệ là một mặt trận, nghệ sĩ là chiến sĩ trên mặt trận ấy",
+      "Văn nghệ không liên quan xã hội",
+      "Văn nghệ chỉ để tiêu khiển",
+      "Văn nghệ không cần tính dân tộc"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh xem văn hóa văn nghệ có vai trò chiến đấu, giáo dục và xây dựng con người."
+  },
+  {
+    "id": 618,
+    "chapter": 6,
+    "question": "Biểu hiện trái với đạo đức cách mạng theo Hồ Chí Minh là gì?",
+    "options": [
+      "Cần kiệm liêm chính",
+      "Chủ nghĩa cá nhân, quan liêu, tham ô, lãng phí",
+      "Nói đi đôi với làm",
+      "Tận tụy phục vụ nhân dân"
+    ],
+    "answer": 1,
+    "explain": "Chủ nghĩa cá nhân là nguồn gốc của nhiều căn bệnh đạo đức."
+  },
+  {
+    "id": 619,
+    "chapter": 6,
+    "question": "Học tập đạo đức Hồ Chí Minh hiện nay cần chú trọng điều gì?",
+    "options": [
+      "Chỉ học thuộc khẩu hiệu",
+      "Chỉ yêu cầu người khác thay đổi",
+      "Rèn luyện bằng hành động cụ thể trong học tập, lao động và quan hệ xã hội",
+      "Không cần tự phê bình"
+    ],
+    "answer": 2,
+    "explain": "Học tập đạo đức phải gắn với thực hành thường xuyên."
+  },
+  {
+    "id": 620,
+    "chapter": 6,
+    "question": "Nội dung nào thuộc Chương VI của giáo trình HCM202?",
+    "options": [
+      "Kỹ năng lập ngân sách cá nhân",
+      "Phương pháp kế toán doanh nghiệp",
+      "Kỹ thuật phân tích thị trường",
+      "Văn hóa, đạo đức, con người"
+    ],
+    "answer": 3,
+    "explain": "Chương VI tập trung vào văn hóa, đạo đức và con người trong tư tưởng Hồ Chí Minh."
   }
 ]

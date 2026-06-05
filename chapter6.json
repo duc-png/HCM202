@@ -1,0 +1,262 @@
+[
+  {
+    "id": 601,
+    "chapter": 6,
+    "question": "Theo Hồ Chí Minh, văn hóa có quan hệ như thế nào với chính trị, kinh tế, xã hội?",
+    "options": [
+      "Có quan hệ chặt chẽ, tác động qua lại",
+      "Hoàn toàn tách biệt",
+      "Chỉ phụ thuộc vào nghệ thuật",
+      "Không liên quan đến đời sống"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh xem chính trị, kinh tế, văn hóa, xã hội có quan hệ tác động lẫn nhau."
+  },
+  {
+    "id": 602,
+    "chapter": 6,
+    "question": "Nền văn hóa mới Việt Nam theo Hồ Chí Minh có tính chất nào?",
+    "options": [
+      "Thuộc địa, phong kiến, biệt lập",
+      "Dân tộc, khoa học, đại chúng",
+      "Xa rời nhân dân",
+      "Chỉ phục vụ thiểu số"
+    ],
+    "answer": 1,
+    "explain": "Hồ Chí Minh chủ trương xây dựng nền văn hóa dân tộc, khoa học, đại chúng."
+  },
+  {
+    "id": 603,
+    "chapter": 6,
+    "question": "Văn hóa trong tư tưởng Hồ Chí Minh có vai trò gì?",
+    "options": [
+      "Chỉ là hoạt động giải trí",
+      "Không cần trong xây dựng đất nước",
+      "Vừa là mục tiêu, vừa là động lực của cách mạng",
+      "Chỉ dành cho giới trí thức"
+    ],
+    "answer": 2,
+    "explain": "Văn hóa góp phần định hướng, giáo dục và thúc đẩy phát triển xã hội."
+  },
+  {
+    "id": 604,
+    "chapter": 6,
+    "question": "Hồ Chí Minh coi đạo đức có vị trí như thế nào đối với người cách mạng?",
+    "options": [
+      "Là yếu tố phụ không cần rèn luyện",
+      "Chỉ cần khi về già",
+      "Chỉ dùng trong đời tư",
+      "Là gốc của người cách mạng"
+    ],
+    "answer": 3,
+    "explain": "Người khẳng định đạo đức là gốc của người cách mạng."
+  },
+  {
+    "id": 605,
+    "chapter": 6,
+    "question": "Chuẩn mực “trung với nước, hiếu với dân” nghĩa là gì?",
+    "options": [
+      "Trung thành với Tổ quốc, tận tụy phục vụ nhân dân",
+      "Trung với cá nhân, xa dân",
+      "Chỉ trung với dòng họ",
+      "Chỉ phục vụ lợi ích riêng"
+    ],
+    "answer": 0,
+    "explain": "Đây là chuẩn mực bao trùm trong đạo đức cách mạng."
+  },
+  {
+    "id": 606,
+    "chapter": 6,
+    "question": "“Cần, kiệm, liêm, chính, chí công vô tư” thuộc nội dung nào?",
+    "options": [
+      "Kỹ thuật sản xuất",
+      "Chuẩn mực đạo đức cách mạng",
+      "Quy tắc ngoại giao thuần túy",
+      "Phương pháp thống kê"
+    ],
+    "answer": 1,
+    "explain": "Đó là các phẩm chất đạo đức cơ bản Hồ Chí Minh yêu cầu cán bộ, đảng viên rèn luyện."
+  },
+  {
+    "id": 607,
+    "chapter": 6,
+    "question": "Nguyên tắc rèn luyện đạo đức “nói đi đôi với làm” yêu cầu điều gì?",
+    "options": [
+      "Nói nhiều hơn làm",
+      "Chỉ tuyên truyền khẩu hiệu",
+      "Thống nhất lời nói với hành động, nêu gương bằng việc làm",
+      "Làm trái điều đã nói"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh đặc biệt coi trọng nêu gương và thực hành đạo đức."
+  },
+  {
+    "id": 608,
+    "chapter": 6,
+    "question": "Nguyên tắc “xây đi đôi với chống” trong rèn luyện đạo đức nghĩa là gì?",
+    "options": [
+      "Chỉ phê phán mà không xây dựng",
+      "Chỉ khen ngợi mà không sửa sai",
+      "Không cần tự rèn luyện",
+      "Xây dựng phẩm chất tốt đồng thời chống biểu hiện sai trái"
+    ],
+    "answer": 3,
+    "explain": "Rèn luyện đạo đức phải vừa bồi dưỡng cái tốt, vừa chống cái xấu."
+  },
+  {
+    "id": 609,
+    "chapter": 6,
+    "question": "Vì sao Hồ Chí Minh yêu cầu tu dưỡng đạo đức suốt đời?",
+    "options": [
+      "Vì đạo đức cách mạng phải được rèn luyện bền bỉ trong mọi hoàn cảnh",
+      "Vì đạo đức tự nhiên có sẵn và không đổi",
+      "Vì chỉ cần rèn luyện khi thi",
+      "Vì chỉ cán bộ cấp cao mới cần đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Tu dưỡng đạo đức là công việc thường xuyên, lâu dài."
+  },
+  {
+    "id": 610,
+    "chapter": 6,
+    "question": "Tình yêu thương con người trong đạo đức Hồ Chí Minh hướng tới ai?",
+    "options": [
+      "Chỉ người thân trong gia đình",
+      "Những người lao động, người bị áp bức và toàn thể nhân dân",
+      "Chỉ người cùng địa vị",
+      "Chỉ người có quyền lực"
+    ],
+    "answer": 1,
+    "explain": "Tình yêu thương con người của Hồ Chí Minh rộng lớn, gắn với giải phóng con người."
+  },
+  {
+    "id": 611,
+    "chapter": 6,
+    "question": "Tinh thần quốc tế trong sáng trong đạo đức Hồ Chí Minh là gì?",
+    "options": [
+      "Phục tùng nước ngoài",
+      "Kỳ thị dân tộc khác",
+      "Đoàn kết với các dân tộc và lực lượng tiến bộ vì hòa bình, độc lập, dân chủ",
+      "Chỉ quan tâm lợi ích cá nhân"
+    ],
+    "answer": 2,
+    "explain": "Tinh thần quốc tế trong sáng gắn với đoàn kết và tiến bộ nhân loại."
+  },
+  {
+    "id": 612,
+    "chapter": 6,
+    "question": "Theo Hồ Chí Minh, con người có vị trí gì trong cách mạng?",
+    "options": [
+      "Chỉ là phương tiện",
+      "Không có vai trò quyết định",
+      "Chỉ là đối tượng quản lý",
+      "Vừa là mục tiêu, vừa là động lực"
+    ],
+    "answer": 3,
+    "explain": "Con người là trung tâm trong tư tưởng Hồ Chí Minh."
+  },
+  {
+    "id": 613,
+    "chapter": 6,
+    "question": "Quan điểm “trồng người” của Hồ Chí Minh nhấn mạnh nhiệm vụ nào?",
+    "options": [
+      "Giáo dục, bồi dưỡng con người, nhất là thế hệ trẻ",
+      "Chỉ phát triển nông nghiệp",
+      "Chỉ đào tạo quân sự",
+      "Không cần giáo dục đạo đức"
+    ],
+    "answer": 0,
+    "explain": "Trồng người là chiến lược giáo dục, bồi dưỡng con người lâu dài."
+  },
+  {
+    "id": 614,
+    "chapter": 6,
+    "question": "Xây dựng con người mới theo Hồ Chí Minh cần kết hợp những mặt nào?",
+    "options": [
+      "Chỉ tài năng chuyên môn",
+      "Đức và tài",
+      "Chỉ hình thức bên ngoài",
+      "Chỉ thành tích cá nhân"
+    ],
+    "answer": 1,
+    "explain": "Người coi trọng cả đạo đức và năng lực."
+  },
+  {
+    "id": 615,
+    "chapter": 6,
+    "question": "Văn hóa đời sống theo Hồ Chí Minh gắn với nội dung nào?",
+    "options": [
+      "Xa rời sinh hoạt nhân dân",
+      "Chỉ sao chép phong tục cũ",
+      "Xây dựng lối sống mới, nếp sống mới, đời sống mới",
+      "Chỉ chú trọng nghi lễ"
+    ],
+    "answer": 2,
+    "explain": "Hồ Chí Minh quan tâm xây dựng đời sống mới trong sinh hoạt hằng ngày."
+  },
+  {
+    "id": 616,
+    "chapter": 6,
+    "question": "Trong tư tưởng Hồ Chí Minh, văn hóa phải phục vụ ai?",
+    "options": [
+      "Một thiểu số đặc quyền",
+      "Chính quyền thuộc địa",
+      "Cá nhân nghệ sĩ",
+      "Nhân dân"
+    ],
+    "answer": 3,
+    "explain": "Văn hóa phải gắn với nhân dân và phục vụ nhân dân."
+  },
+  {
+    "id": 617,
+    "chapter": 6,
+    "question": "Tư tưởng Hồ Chí Minh về văn hóa văn nghệ nhấn mạnh điều gì?",
+    "options": [
+      "Văn nghệ là một mặt trận, nghệ sĩ là chiến sĩ trên mặt trận ấy",
+      "Văn nghệ không liên quan xã hội",
+      "Văn nghệ chỉ để tiêu khiển",
+      "Văn nghệ không cần tính dân tộc"
+    ],
+    "answer": 0,
+    "explain": "Hồ Chí Minh xem văn hóa văn nghệ có vai trò chiến đấu, giáo dục và xây dựng con người."
+  },
+  {
+    "id": 618,
+    "chapter": 6,
+    "question": "Biểu hiện trái với đạo đức cách mạng theo Hồ Chí Minh là gì?",
+    "options": [
+      "Cần kiệm liêm chính",
+      "Chủ nghĩa cá nhân, quan liêu, tham ô, lãng phí",
+      "Nói đi đôi với làm",
+      "Tận tụy phục vụ nhân dân"
+    ],
+    "answer": 1,
+    "explain": "Chủ nghĩa cá nhân là nguồn gốc của nhiều căn bệnh đạo đức."
+  },
+  {
+    "id": 619,
+    "chapter": 6,
+    "question": "Học tập đạo đức Hồ Chí Minh hiện nay cần chú trọng điều gì?",
+    "options": [
+      "Chỉ học thuộc khẩu hiệu",
+      "Chỉ yêu cầu người khác thay đổi",
+      "Rèn luyện bằng hành động cụ thể trong học tập, lao động và quan hệ xã hội",
+      "Không cần tự phê bình"
+    ],
+    "answer": 2,
+    "explain": "Học tập đạo đức phải gắn với thực hành thường xuyên."
+  },
+  {
+    "id": 620,
+    "chapter": 6,
+    "question": "Nội dung nào thuộc Chương VI của giáo trình HCM202?",
+    "options": [
+      "Kỹ năng lập ngân sách cá nhân",
+      "Phương pháp kế toán doanh nghiệp",
+      "Kỹ thuật phân tích thị trường",
+      "Văn hóa, đạo đức, con người"
+    ],
+    "answer": 3,
+    "explain": "Chương VI tập trung vào văn hóa, đạo đức và con người trong tư tưởng Hồ Chí Minh."
+  }
+]

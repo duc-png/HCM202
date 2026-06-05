@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const cwd = path.join(__dirname, '..');
-const files = ['chapter1.json','chapter2.json','chapter3.json','chapter4.json','chapter5.json'].map(f=>path.join(cwd,f));
+const files = ['chapter1.json','chapter2.json','chapter3.json','chapter4.json','chapter5.json','chapter6.json'].map(f=>path.join(cwd,f));
 
 files.forEach(file => {
   try {

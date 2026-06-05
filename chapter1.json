@@ -2,1301 +2,261 @@
   {
     "id": 101,
     "chapter": 1,
-    "question": "Ai là người đầu tiên đưa ra thuật ngữ 'Kinh tế chính trị'?",
+    "question": "Theo giáo trình, Tư tưởng Hồ Chí Minh được hiểu là gì?",
     "options": [
-      "Adam Smith",
-      "Antoine de Montchrétien",
-      "Karl Marx",
-      "David Ricardo"
+      "Một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam",
+      "Một tập hợp câu chuyện về cuộc đời Hồ Chí Minh",
+      "Một học thuyết kinh tế độc lập với chủ nghĩa Mác - Lênin",
+      "Một phương pháp nghiên cứu lịch sử thế giới"
     ],
-    "answer": 1,
-    "explain": "Antoine de Montchrétien"
+    "answer": 0,
+    "explain": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
   },
   {
     "id": 102,
     "chapter": 1,
-    "question": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là gì?",
+    "question": "Cơ sở quan trọng nhất về thế giới quan và phương pháp luận của Tư tưởng Hồ Chí Minh là gì?",
     "options": [
-      "Sản xuất vật chất",
-      "Quan hệ sản xuất trong mối liên hệ với lực lượng sản xuất và kiến trúc thượng tầng",
-      "Các quy luật tự nhiên",
-      "Các hiện tượng kinh tế rời rạc"
+      "Nho giáo",
+      "Chủ nghĩa Mác - Lênin",
+      "Chủ nghĩa Tam dân",
+      "Chủ nghĩa thực dụng"
     ],
     "answer": 1,
-    "explain": "Quan hệ sản xuất trong mối liên hệ với lực lượng sản xuất và kiến trúc thượng tầng"
+    "explain": "Chủ nghĩa Mác - Lênin cung cấp thế giới quan và phương pháp luận trực tiếp."
   },
   {
     "id": 103,
     "chapter": 1,
-    "question": "Chức năng nào của kinh tế chính trị giúp hình thành thế giới quan khoa học?",
+    "question": "Đại hội nào của Đảng nêu khái niệm Tư tưởng Hồ Chí Minh tương đối hoàn chỉnh trong giáo trình?",
     "options": [
-      "Chức năng nhận thức",
-      "Chức năng tư tưởng",
-      "Chức năng thực tiễn",
-      "Chức năng phương pháp luận"
+      "Đại hội V",
+      "Đại hội VII",
+      "Đại hội XI",
+      "Đại hội IX"
     ],
-    "answer": 1,
-    "explain": "Chức năng tư tưởng"
+    "answer": 2,
+    "explain": "Giáo trình sử dụng khái niệm được Đại hội XI của Đảng nêu rõ."
   },
   {
     "id": 104,
     "chapter": 1,
-    "question": "Sản xuất hàng hóa ra đời dựa trên mấy điều kiện?",
+    "question": "Đối tượng nghiên cứu của môn học Tư tưởng Hồ Chí Minh là gì?",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Chỉ các tác phẩm văn học của Hồ Chí Minh",
+      "Lịch sử các triều đại phong kiến Việt Nam",
+      "Các học thuyết chính trị phương Tây hiện đại",
+      "Hệ thống quan điểm Hồ Chí Minh và quá trình vận động của hệ thống đó trong thực tiễn"
     ],
-    "answer": 1,
-    "explain": "2"
+    "answer": 3,
+    "explain": "Môn học nghiên cứu cả hệ thống quan điểm và quá trình hiện thực hóa trong cách mạng Việt Nam."
   },
   {
     "id": 105,
     "chapter": 1,
-    "question": "Hàng hóa là gì?",
+    "question": "Vì sao cần gắn nghiên cứu văn bản với hoạt động thực tiễn của Hồ Chí Minh?",
     "options": [
-      "Sản phẩm dùng để tiêu dùng",
-      "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua trao đổi, mua bán",
-      "Vật phẩm tự nhiên hữu ích",
-      "Sản phẩm của lao động"
+      "Vì tư tưởng của Người thể hiện cả trong bài viết, bài nói và hành động cách mạng",
+      "Vì văn bản không có giá trị tham khảo",
+      "Vì chỉ hoạt động thực tiễn mới là đối tượng của môn học",
+      "Vì môn học không cần phương pháp luận"
     ],
-    "answer": 1,
-    "explain": "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua trao đổi, mua bán"
+    "answer": 0,
+    "explain": "Tư tưởng Hồ Chí Minh được thể hiện thống nhất trong lý luận và thực tiễn."
   },
   {
     "id": 106,
     "chapter": 1,
-    "question": "Giá trị sử dụng của hàng hóa là gì?",
+    "question": "Nguyên tắc phương pháp luận nào yêu cầu xem xét tư tưởng Hồ Chí Minh trong điều kiện lịch sử cụ thể?",
     "options": [
-      "Công dụng của vật chất thỏa mãn nhu cầu nào đó của con người",
-      "Lượng lao động kết tinh",
-      "Khả năng trao đổi",
-      "Giá bán trên thị trường"
+      "Quan điểm siêu hình",
+      "Quan điểm lịch sử - cụ thể",
+      "Quan điểm tuyệt đối hóa cá nhân",
+      "Quan điểm kinh nghiệm chủ nghĩa"
     ],
-    "answer": 0,
-    "explain": "Công dụng của vật chất thỏa mãn nhu cầu nào đó của con người"
+    "answer": 1,
+    "explain": "Quan điểm lịch sử - cụ thể giúp tránh tách tư tưởng khỏi hoàn cảnh ra đời và vận dụng."
   },
   {
     "id": 107,
     "chapter": 1,
-    "question": "Giá trị hàng hóa được tạo ra bởi yếu tố nào?",
+    "question": "Học tập môn Tư tưởng Hồ Chí Minh có ý nghĩa nào đối với sinh viên?",
     "options": [
-      "Máy móc",
-      "Nguyên liệu",
-      "Lao động trừu tượng của người sản xuất",
-      "Công nghệ"
+      "Thay thế toàn bộ các môn chuyên ngành",
+      "Chỉ để ghi nhớ ngày tháng lịch sử",
+      "Nâng cao tư duy lý luận và rèn luyện đạo đức, lối sống",
+      "Chỉ phục vụ thi trắc nghiệm"
     ],
     "answer": 2,
-    "explain": "Lao động trừu tượng của người sản xuất"
+    "explain": "Môn học giúp sinh viên phát triển nhận thức, niềm tin, đạo đức và năng lực vận dụng."
   },
   {
     "id": 108,
     "chapter": 1,
-    "question": "Tính hai mặt của lao động sản xuất hàng hóa gồm?",
+    "question": "Trong khái niệm Tư tưởng Hồ Chí Minh, nội dung “kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc” nhấn mạnh điều gì?",
     "options": [
-      "Lao động chân tay và trí óc",
-      "Lao động cụ thể và lao động trừu tượng",
-      "Lao động tư nhân và xã hội",
-      "Lao động giản đơn và phức tạp"
+      "Tính tách biệt với cách mạng Việt Nam",
+      "Việc phủ nhận truyền thống",
+      "Việc chỉ tiếp thu văn hóa phương Tây",
+      "Nguồn gốc dân tộc của tư tưởng"
     ],
-    "answer": 1,
-    "explain": "Lao động cụ thể và lao động trừu tượng"
+    "answer": 3,
+    "explain": "Tư tưởng Hồ Chí Minh gắn sâu với truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc Việt Nam."
   },
   {
     "id": 109,
     "chapter": 1,
-    "question": "Lượng giá trị của một đơn vị hàng hóa được đo bằng gì?",
+    "question": "Tư tưởng Hồ Chí Minh có giá trị như thế nào đối với Đảng và dân tộc Việt Nam?",
     "options": [
-      "Thời gian lao động cá biệt",
-      "Thời gian lao động xã hội cần thiết",
-      "Số lượng sản phẩm",
-      "Chi phí sản xuất"
+      "Là tài sản tinh thần to lớn, soi đường cho cách mạng Việt Nam",
+      "Chỉ có giá trị trong giai đoạn trước năm 1945",
+      "Chỉ là tư liệu lịch sử không còn ý nghĩa hiện nay",
+      "Là học thuyết thay thế hoàn toàn chủ nghĩa Mác - Lênin"
     ],
-    "answer": 1,
-    "explain": "Thời gian lao động xã hội cần thiết"
+    "answer": 0,
+    "explain": "Đảng khẳng định Tư tưởng Hồ Chí Minh là tài sản tinh thần to lớn của Đảng và dân tộc."
   },
   {
     "id": 110,
     "chapter": 1,
-    "question": "Khi năng suất lao động tăng, lượng giá trị của một đơn vị hàng hóa sẽ?",
+    "question": "Phương pháp lôgíc trong nghiên cứu Tư tưởng Hồ Chí Minh nhằm mục đích gì?",
     "options": [
-      "Tăng",
-      "Giảm",
-      "Không đổi",
-      "Tăng gấp đôi"
+      "Chỉ liệt kê sự kiện theo năm tháng",
+      "Tìm ra bản chất, mối liên hệ và nội dung có tính quy luật",
+      "Loại bỏ bối cảnh lịch sử",
+      "Thay thế phương pháp lịch sử"
     ],
     "answer": 1,
-    "explain": "Giảm"
+    "explain": "Phương pháp lôgíc giúp khái quát bản chất và mối liên hệ bên trong của vấn đề."
   },
   {
     "id": 111,
     "chapter": 1,
-    "question": "Cường độ lao động tăng thì lượng giá trị của một đơn vị hàng hóa?",
+    "question": "Phương pháp lịch sử trong nghiên cứu Tư tưởng Hồ Chí Minh chú trọng điều gì?",
     "options": [
-      "Tăng",
-      "Giảm",
-      "Không đổi",
-      "Thay đổi ngẫu nhiên"
+      "Chỉ so sánh các định nghĩa",
+      "Chỉ học thuộc kết luận",
+      "Quá trình phát sinh, phát triển của tư tưởng theo thời gian",
+      "Chỉ phân tích thuật ngữ"
     ],
     "answer": 2,
-    "explain": "Không đổi"
+    "explain": "Phương pháp lịch sử xem xét tư tưởng trong tiến trình hình thành và phát triển."
   },
   {
     "id": 112,
     "chapter": 1,
-    "question": "Tiền tệ có mấy chức năng chính theo Mác?",
+    "question": "Quan hệ giữa phương pháp lôgíc và phương pháp lịch sử nên được hiểu thế nào?",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6"
+      "Chỉ dùng một trong hai",
+      "Hai phương pháp loại trừ nhau",
+      "Không cần trong môn học này",
+      "Cần kết hợp chặt chẽ trong nghiên cứu"
     ],
-    "answer": 2,
-    "explain": "5"
+    "answer": 3,
+    "explain": "Nghiên cứu Tư tưởng Hồ Chí Minh cần kết hợp lôgíc với lịch sử."
   },
   {
     "id": 113,
     "chapter": 1,
-    "question": "Thước đo giá trị là chức năng tiền dùng để làm gì?",
+    "question": "Khi học Tư tưởng Hồ Chí Minh, vì sao cần chống “lý luận suông”?",
     "options": [
-      "Mua hàng",
-      "Trình bày và đo lường giá trị hàng hóa",
-      "Trả nợ",
-      "Để dành"
+      "Vì lý luận phải gắn với thực hành và giải quyết vấn đề thực tiễn",
+      "Vì lý luận không cần thiết",
+      "Vì chỉ cần kinh nghiệm cá nhân",
+      "Vì môn học không có nội dung ứng dụng"
     ],
-    "answer": 1,
-    "explain": "Trình bày và đo lường giá trị hàng hóa"
+    "answer": 0,
+    "explain": "Hồ Chí Minh nhấn mạnh lý luận phải gắn với thực tiễn."
   },
   {
     "id": 114,
     "chapter": 1,
-    "question": "Quy luật giá trị yêu cầu việc sản xuất và trao đổi hàng hóa phải dựa trên?",
+    "question": "Nội dung nào thuộc ý nghĩa học tập môn Tư tưởng Hồ Chí Minh?",
     "options": [
-      "Sở thích cá nhân",
-      "Hao phí lao động xã hội cần thiết",
-      "Hao phí lao động cá biệt",
-      "Quyết định của nhà nước"
+      "Học kỹ thuật sản xuất công nghiệp",
+      "Giáo dục đạo đức cách mạng và bồi dưỡng lòng yêu nước",
+      "Rèn luyện nghiệp vụ kế toán",
+      "Thay thế học ngoại ngữ"
     ],
     "answer": 1,
-    "explain": "Hao phí lao động xã hội cần thiết"
+    "explain": "Môn học góp phần giáo dục đạo đức cách mạng, niềm tin và lòng yêu nước."
   },
   {
     "id": 115,
     "chapter": 1,
-    "question": "Cơ chế tác động của quy luật giá trị là thông qua sự biến động của?",
+    "question": "Bản chất khoa học của Tư tưởng Hồ Chí Minh thể hiện ở điểm nào?",
     "options": [
-      "Cung và cầu",
-      "Giá cả thị trường xoay quanh giá trị",
-      "Lãi suất",
-      "Tỷ giá"
+      "Chỉ dựa vào cảm tính cá nhân",
+      "Không gắn với thực tiễn",
+      "Phản ánh những vấn đề có tính quy luật của cách mạng Việt Nam",
+      "Phủ nhận chủ nghĩa Mác - Lênin"
     ],
-    "answer": 1,
-    "explain": "Giá cả thị trường xoay quanh giá trị"
+    "answer": 2,
+    "explain": "Tư tưởng Hồ Chí Minh có cơ sở lý luận, thực tiễn và phản ánh quy luật cách mạng Việt Nam."
   },
   {
     "id": 116,
     "chapter": 1,
-    "question": "Chủ thể nào đóng vai trò cầu nối giữa sản xuất và tiêu dùng?",
+    "question": "Bản chất cách mạng của Tư tưởng Hồ Chí Minh thể hiện ở mục tiêu nào?",
     "options": [
-      "Người sản xuất",
-      "Người tiêu dùng",
-      "Các chủ thể trung gian",
-      "Nhà nước"
+      "Duy trì áp bức thuộc địa",
+      "Bảo vệ đặc quyền phong kiến",
+      "Tách dân tộc khỏi thời đại",
+      "Giải phóng dân tộc, giải phóng xã hội, giải phóng con người"
     ],
-    "answer": 2,
-    "explain": "Các chủ thể trung gian"
+    "answer": 3,
+    "explain": "Tư tưởng Hồ Chí Minh hướng tới giải phóng và phát triển con người."
   },
   {
     "id": 117,
     "chapter": 1,
-    "question": "Chủ thể nào kiểm soát và điều tiết vĩ mô nền kinh tế?",
+    "question": "Cụm từ “tư tưởng, đạo đức, phong cách Hồ Chí Minh” thường được học tập nhằm mục đích gì?",
     "options": [
-      "Người sản xuất",
-      "Nhà nước",
-      "Người tiêu dùng",
-      "Chủ ngân hàng"
+      "Vận dụng vào xây dựng Đảng, xã hội và rèn luyện cá nhân",
+      "Chỉ để trưng bày khẩu hiệu",
+      "Thay thế mọi quy định pháp luật",
+      "Loại bỏ giáo dục đạo đức"
     ],
-    "answer": 1,
-    "explain": "Nhà nước"
+    "answer": 0,
+    "explain": "Việc học tập hướng tới vận dụng trong nhận thức và hành động."
   },
   {
     "id": 118,
     "chapter": 1,
-    "question": "Thị trường có chức năng gì?",
+    "question": "Nội dung nào không thuộc phạm vi nhập môn của Chương I?",
     "options": [
-      "Thừa nhận giá trị của hàng hóa",
-      "Cung cấp thông tin",
-      "Kích thích hoặc hạn chế sản xuất/tiêu dùng",
-      "Cả 3 phương án trên"
+      "Khái niệm môn học",
+      "Kỹ thuật tính toán tài chính doanh nghiệp",
+      "Đối tượng nghiên cứu",
+      "Phương pháp nghiên cứu"
     ],
-    "answer": 3,
-    "explain": "Cả 3 phương án trên"
+    "answer": 1,
+    "explain": "Kỹ thuật tính toán tài chính doanh nghiệp không thuộc nội dung Chương I của HCM202."
   },
   {
     "id": 119,
     "chapter": 1,
-    "question": "Lao động cụ thể tạo ra gì?",
+    "question": "Khi nói Tư tưởng Hồ Chí Minh là “kim chỉ nam”, ý chính là gì?",
     "options": [
-      "Giá trị hàng hóa",
-      "Giá trị sử dụng",
-      "Tiền",
-      "Thời gian"
+      "Là khẩu hiệu không cần vận dụng",
+      "Chỉ dùng trong nghiên cứu văn học",
+      "Có vai trò định hướng hành động cách mạng",
+      "Chỉ áp dụng cho một cá nhân"
     ],
-    "answer": 1,
-    "explain": "Giá trị sử dụng"
+    "answer": 2,
+    "explain": "Kim chỉ nam nghĩa là định hướng cho nhận thức và hành động cách mạng."
   },
   {
     "id": 120,
     "chapter": 1,
-    "question": "Lao động trừu tượng là gì?",
+    "question": "Yêu cầu quan trọng khi vận dụng Tư tưởng Hồ Chí Minh hiện nay là gì?",
     "options": [
-      "Lao động có mục đích riêng",
-      "Lao động của người sản xuất hàng hóa xét về sự hao phí sức lực nói chung",
-      "Lao động trí óc",
-      "Lao động chân tay"
-    ],
-    "answer": 1,
-    "explain": "Lao động của người sản xuất hàng hóa xét về sự hao phí sức lực nói chung"
-  },
-  {
-    "id": 121,
-    "chapter": 1,
-    "question": "Sản xuất hàng hóa có ưu điểm gì so với tự cấp tự túc?",
-    "options": [
-      "Thúc đẩy phân công lao động",
-      "Tăng năng suất",
-      "Thỏa mãn nhu cầu đa dạng",
-      "Tất cả các ý trên"
+      "Sao chép máy móc mọi hình thức cũ",
+      "Tách khỏi điều kiện đất nước",
+      "Chỉ học thuộc định nghĩa",
+      "Sáng tạo, phù hợp thực tiễn, tránh giáo điều"
     ],
     "answer": 3,
-    "explain": "Tất cả các ý trên"
-  },
-  {
-    "id": 122,
-    "chapter": 1,
-    "question": "Điều kiện để tiền biến thành tư bản là gì?",
-    "options": [
-      "Có nhiều tiền",
-      "Sức lao động trở thành hàng hóa",
-      "Tiền được dùng để mua máy móc",
-      "Tiền được cất giữ"
-    ],
-    "answer": 1,
-    "explain": "Sức lao động trở thành hàng hóa"
-  },
-  {
-    "id": 123,
-    "chapter": 1,
-    "question": "Mối quan hệ giữa vật chất và ý chí trong kinh tế chính trị được hiểu là?",
-    "options": [
-      "Ý chí quyết định kinh tế",
-      "Kinh tế quyết định ý chí",
-      "Tự do tuyệt đối",
-      "Không liên quan"
-    ],
-    "answer": 1,
-    "explain": "Kinh tế quyết định ý chí"
-  },
-  {
-    "id": 124,
-    "chapter": 1,
-    "question": "Quy luật lưu thông tiền tệ xác định lượng tiền cần thiết dựa trên?",
-    "options": [
-      "Tổng số tiền ngân hàng có",
-      "Tổng giá cả hàng hóa / Tốc độ lưu thông tiền tệ",
-      "Số lượng dân số",
-      "Mức độ lạm phát"
-    ],
-    "answer": 1,
-    "explain": "Tổng giá cả hàng hóa / Tốc độ lưu thông tiền tệ"
-  },
-  {
-    "id": 125,
-    "chapter": 1,
-    "question": "Ai là người sáng lập ra trường phái Kinh tế chính trị cổ điển Anh?",
-    "options": [
-      "K. Marx",
-      "W. Petty",
-      "A. Smith",
-      "D. Ricardo"
-    ],
-    "answer": 1,
-    "explain": "W. Petty"
-  },
-  {
-    "id": 126,
-    "chapter": 1,
-    "question": "Đặc điểm của hàng hóa sức lao động là gì?",
-    "options": [
-      "Nó có thể tái sản xuất",
-      "GTSD của nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
-      "Nó vô hạn",
-      "Nó không có giá cả"
-    ],
-    "answer": 1,
-    "explain": "GTSD của nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó"
-  },
-  {
-    "id": 127,
-    "chapter": 1,
-    "question": "Giá trị sức lao động được đo bằng gì?",
-    "options": [
-      "Giá trị các tư liệu sinh hoạt cần thiết cho người lao động và gia đình họ",
-      "Sức mạnh của người lao động",
-      "Bằng cấp",
-      "Sự chăm chỉ"
-    ],
-    "answer": 0,
-    "explain": "Giá trị các tư liệu sinh hoạt cần thiết cho người lao động và gia đình họ"
-  },
-  {
-    "id": 128,
-    "chapter": 1,
-    "question": "Cạnh tranh có vai trò gì trong nền kinh tế?",
-    "options": [
-      "Động lực thúc đẩy cải tiến kỹ thuật",
-      "Làm phá sản doanh nghiệp yếu",
-      "Phân bổ nguồn lực",
-      "Tất cả phương án trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả phương án trên"
-  },
-  {
-    "id": 129,
-    "chapter": 1,
-    "question": "Thế nào là lao động phức tạp?",
-    "options": [
-      "Lao động nhiều bước",
-      "Lao động đòi hỏi phải được đào tạo mới làm được",
-      "Lao động nặng nhọc",
-      "Lao động trí óc"
-    ],
-    "answer": 1,
-    "explain": "Lao động đòi hỏi phải được đào tạo mới làm được"
-  },
-  {
-    "id": 130,
-    "chapter": 1,
-    "question": "Nhân tố nào quan trọng nhất ảnh hưởng đến lượng giá trị hàng hóa?",
-    "options": [
-      "Năng suất lao động",
-      "Thời tiết",
-      "Sở thích",
-      "May mắn"
-    ],
-    "answer": 0,
-    "explain": "Năng suất lao động"
-  },
-  {
-    "id": 131,
-    "chapter": 1,
-    "question": "Kinh tế thị trường là gì?",
-    "options": [
-      "Nền kinh tế tự sản tự tiêu",
-      "Nền kinh tế sản xuất hàng hóa phát triển cao, mọi quan hệ đều qua thị trường",
-      "Nền kinh tế chỉ có nhà nước",
-      "Nền kinh tế nông nghiệp"
-    ],
-    "answer": 1,
-    "explain": "Nền kinh tế sản xuất hàng hóa phát triển cao, mọi quan hệ đều qua thị trường"
-  },
-  {
-    "id": 132,
-    "chapter": 1,
-    "question": "Giá trị trao đổi là hình thức biểu hiện ra bên ngoài của?",
-    "options": [
-      "Giá trị sử dụng",
-      "Giá trị hàng hóa",
-      "Giá bán",
-      "Công nghệ"
-    ],
-    "answer": 1,
-    "explain": "Giá trị hàng hóa"
-  },
-  {
-    "id": 133,
-    "chapter": 1,
-    "question": "Lao động tư nhân và lao động xã hội là mâu thuẫn cơ bản của?",
-    "options": [
-      "Kinh tế tự nhiên",
-      "Sản xuất hàng hóa giản đơn",
-      "Kinh tế tập trung",
-      "Kinh tế chia sẻ"
-    ],
-    "answer": 1,
-    "explain": "Sản xuất hàng hóa giản đơn"
-  },
-  {
-    "id": 134,
-    "chapter": 1,
-    "question": "Tiền làm chức năng phương tiện lưu thông khi nào?",
-    "options": [
-      "Làm trung gian trong trao đổi H-T-H",
-      "Dùng để nộp thuế",
-      "Dùng để gửi tiết kiệm",
-      "Dùng để định giá"
-    ],
-    "answer": 0,
-    "explain": "Làm trung gian trong trao đổi H-T-H"
-  },
-  {
-    "id": 135,
-    "chapter": 1,
-    "question": "Lợi ích kinh tế là gì?",
-    "options": [
-      "Sự thỏa mãn nhu cầu vật chất",
-      "Lợi nhuận sau thuế",
-      "Tiền mặt",
-      "Sự vui vẻ"
-    ],
-    "answer": 0,
-    "explain": "Sự thỏa mãn nhu cầu vật chất"
-  },
-  {
-    "id": 136,
-    "chapter": 1,
-    "question": "Chủ thể nào có mục đích tối đa hóa lợi nhuận?",
-    "options": [
-      "Người tiêu dùng",
-      "Người sản xuất",
-      "Chủ ngân hàng",
-      "Cả B và C"
-    ],
-    "answer": 3,
-    "explain": "Cả B và C"
-  },
-  {
-    "id": 137,
-    "chapter": 1,
-    "question": "Hệ thống các quy luật của kinh tế thị trường bao gồm?",
-    "options": [
-      "Quy luật giá trị",
-      "Quy luật cung cầu",
-      "Quy luật cạnh tranh",
-      "Tất cả các mục trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả các mục trên"
-  },
-  {
-    "id": 138,
-    "chapter": 1,
-    "question": "Phân công lao động xã hội là gì?",
-    "options": [
-      "Mỗi người làm một phần việc",
-      "Sự phân chia lao động xã hội ra thành các ngành, nghề khác nhau",
-      "Giao việc cho cấp dưới",
-      "Làm việc theo nhóm"
-    ],
-    "answer": 1,
-    "explain": "Sự phân chia lao động xã hội ra thành các ngành, nghề khác nhau"
-  },
-  {
-    "id": 139,
-    "chapter": 1,
-    "question": "Cường độ lao động là nhân tố phản ánh?",
-    "options": [
-      "Mức độ khéo léo",
-      "Mức độ khẩn trương, nặng nhọc của lao động",
-      "Công nghệ hiện đại",
-      "Thời gian làm việc ngắn"
-    ],
-    "answer": 1,
-    "explain": "Mức độ khẩn trương, nặng nhọc của lao động"
-  },
-  {
-    "id": 140,
-    "chapter": 1,
-    "question": "Hình thái giá trị đầu tiên trong lịch sử là?",
-    "options": [
-      "Hình thái giá trị giản đơn hay ngẫu nhiên",
-      "Hình thái giá trị đầy đủ",
-      "Hình thái chung",
-      "Hình thái tiền tệ"
-    ],
-    "answer": 0,
-    "explain": "Hình thái giá trị giản đơn hay ngẫu nhiên"
-  },
-  {
-    "id": 141,
-    "chapter": 1,
-    "question": "Vật ngang giá chung là gì?",
-    "options": [
-      "Vàng",
-      "Mọi hàng hóa",
-      "Hàng hóa dùng để đo giá trị của mọi hàng hóa khác",
-      "Bạc"
-    ],
-    "answer": 2,
-    "explain": "Hàng hóa dùng để đo giá trị của mọi hàng hóa khác"
-  },
-  {
-    "id": 142,
-    "chapter": 1,
-    "question": "Lạm phát xảy ra khi?",
-    "options": [
-      "Tiền giấy phát hành quá nhiều so với lượng tiền cần thiết",
-      "Giá cả giảm",
-      "Sản xuất tăng nhanh",
-      "Dân số tăng"
-    ],
-    "answer": 0,
-    "explain": "Tiền giấy phát hành quá nhiều so với lượng tiền cần thiết"
-  },
-  {
-    "id": 143,
-    "chapter": 1,
-    "question": "Quan hệ giữa người sản xuất và người tiêu dùng là quan hệ?",
-    "options": [
-      "Đối kháng",
-      "Tác động qua lại, quy định lẫn nhau",
-      "Độc lập hoàn toàn",
-      "Chỉ có mua và bán"
-    ],
-    "answer": 1,
-    "explain": "Tác động qua lại, quy định lẫn nhau"
-  },
-  {
-    "id": 144,
-    "chapter": 1,
-    "question": "Các thành phần kinh tế ở Việt Nam bao gồm?",
-    "options": [
-      "Kinh tế nhà nước, tập thể, tư nhân, có vốn đầu tư nước ngoài",
-      "Chỉ có kinh tế nhà nước",
-      "Chỉ có tư nhân",
-      "Nhà nước và tập thể"
-    ],
-    "answer": 0,
-    "explain": "Kinh tế nhà nước, tập thể, tư nhân, có vốn đầu tư nước ngoài"
-  },
-  {
-    "id": 145,
-    "chapter": 1,
-    "question": "Vai trò của quan hệ sản xuất đối với lực lượng sản xuất?",
-    "options": [
-      "Không liên quan",
-      "Phù hợp sẽ thúc đẩy, không phù hợp sẽ kìm hãm",
-      "LLSX luôn phục tùng QHSX",
-      "QHSX quyết định trình độ LLSX"
-    ],
-    "answer": 1,
-    "explain": "Phù hợp sẽ thúc đẩy, không phù hợp sẽ kìm hãm"
-  },
-  {
-    "id": 146,
-    "chapter": 1,
-    "question": "Thuộc tính cơ bản nhất của hàng hóa là gì?",
-    "options": [
-      "Giá trị sử dụng",
-      "Giá trị",
-      "Cả 2 thuộc tính",
-      "Màu sắc"
-    ],
-    "answer": 2,
-    "explain": "Cả 2 thuộc tính"
-  },
-  {
-    "id": 147,
-    "chapter": 1,
-    "question": "Tại sao lao động của người sản xuất hàng hóa có tính xã hội?",
-    "options": [
-      "Vì họ làm việc cùng nhau",
-      "Vì sản phẩm làm ra để đáp ứng nhu cầu xã hội",
-      "Vì nhà nước quản lý",
-      "Vì họ dùng chung máy móc"
-    ],
-    "answer": 1,
-    "explain": "Vì sản phẩm làm ra để đáp ứng nhu cầu xã hội"
-  },
-  {
-    "id": 148,
-    "chapter": 1,
-    "question": "Ưu thế của kinh tế thị trường là?",
-    "options": [
-      "Tự động phát hiện lỗi",
-      "Phát huy tiềm năng các chủ thể, thúc đẩy sáng tạo",
-      "Loại bỏ hoàn toàn đói nghèo",
-      "Ổn định giá cả"
-    ],
-    "answer": 1,
-    "explain": "Phát huy tiềm năng các chủ thể, thúc đẩy sáng tạo"
-  },
-  {
-    "id": 149,
-    "chapter": 1,
-    "question": "Khuyết tật của kinh tế thị trường bao gồm?",
-    "options": [
-      "Phân hóa giàu nghèo",
-      "Ô nhiễm môi trường",
-      "Khủng hoảng kinh tế",
-      "Tất cả các ý trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả các ý trên"
-  },
-  {
-    "id": 150,
-    "chapter": 1,
-    "question": "Cơ chế thị trường là?",
-    "options": [
-      "Sự điều hành của chính phủ",
-      "Mối liên hệ tự nhiên khách quan giữa các yếu tố thị trường",
-      "Phần mềm quản lý",
-      "Chợ truyền thống"
-    ],
-    "answer": 1,
-    "explain": "Mối liên hệ tự nhiên khách quan giữa các yếu tố thị trường"
-  },
-  {
-    "id": 151,
-    "chapter": 1,
-    "question": "Giá cả hàng hóa do yếu tố nào quyết định?",
-    "options": [
-      "Giá trị hàng hóa",
-      "Quan hệ cung cầu",
-      "Giá trị của tiền",
-      "Cả A, B, C"
-    ],
-    "answer": 3,
-    "explain": "Cả A, B, C"
-  },
-  {
-    "id": 152,
-    "chapter": 1,
-    "question": "Người tiêu dùng có vai trò gì?",
-    "options": [
-      "Cung cấp vốn",
-      "Định hướng sản xuất thông qua nhu cầu",
-      "Làm từ thiện",
-      "Quyết định thuế"
-    ],
-    "answer": 1,
-    "explain": "Định hướng sản xuất thông qua nhu cầu"
-  },
-  {
-    "id": 153,
-    "chapter": 1,
-    "question": "Hợp tác kinh tế quốc tế mang lại gì?",
-    "options": [
-      "Mở rộng thị trường",
-      "Tiếp cận công nghệ",
-      "Tăng trưởng GDP",
-      "Tất cả phương án trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả phương án trên"
-  },
-  {
-    "id": 154,
-    "chapter": 1,
-    "question": "Thước đo giá trị của tiền tệ là?",
-    "options": [
-      "Tiền mặt",
-      "Tiền trong tâm tưởng (vàng lý tưởng)",
-      "Tiền ngân hàng",
-      "Tiền lẻ"
-    ],
-    "answer": 1,
-    "explain": "Tiền trong tâm tưởng (vàng lý tưởng)"
-  },
-  {
-    "id": 155,
-    "chapter": 1,
-    "question": "Tiền tệ thế giới thực hiện chức năng?",
-    "options": [
-      "Mua hàng quốc tế",
-      "Trả nợ quốc tế",
-      "Di chuyển của cải",
-      "Tất cả chức năng trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả chức năng trên"
-  },
-  {
-    "id": 156,
-    "chapter": 1,
-    "question": "Tính tư nhân của lao động sản xuất hàng hóa là?",
-    "options": [
-      "Làm việc tại nhà",
-      "Người sản xuất tự quyết định sản xuất cái gì, như thế nào",
-      "Sở hữu cá nhân về tư liệu sản xuất",
-      "Cả B và C"
-    ],
-    "answer": 3,
-    "explain": "Cả B và C"
-  },
-  {
-    "id": 157,
-    "chapter": 1,
-    "question": "Sản xuất hàng hóa là kiểu tổ chức kinh tế dựa trên?",
-    "options": [
-      "Trao đổi",
-      "Tự cung tự cấp",
-      "Lệnh của vua",
-      "Săn bắt hái lượm"
-    ],
-    "answer": 0,
-    "explain": "Trao đổi"
-  },
-  {
-    "id": 158,
-    "chapter": 1,
-    "question": "Vàng trở thành tiền tệ vì?",
-    "options": [
-      "Nó đẹp",
-      "Nó quý hiếm",
-      "Nó có thuộc tính tự nhiên phù hợp với vật ngang giá chung",
-      "Nó khó hỏng"
-    ],
-    "answer": 2,
-    "explain": "Nó có thuộc tính tự nhiên phù hợp với vật ngang giá chung"
-  },
-  {
-    "id": 159,
-    "chapter": 1,
-    "question": "Phương tiện thanh toán là chức năng tiền thực hiện khi?",
-    "options": [
-      "Mua hàng trả tiền ngay",
-      "Mua hàng trả chậm, nộp thuế, trả nợ",
-      "Trao đổi lấy vàng",
-      "Gửi tiền ngân hàng"
-    ],
-    "answer": 1,
-    "explain": "Mua hàng trả chậm, nộp thuế, trả nợ"
-  },
-  {
-    "id": 160,
-    "chapter": 1,
-    "question": "Quan hệ trao đổi hàng hóa được thực hiện theo nguyên tắc?",
-    "options": [
-      "Bắt buộc",
-      "Ngang giá",
-      "Ưu tiên người nghèo",
-      "Giá rẻ nhất"
-    ],
-    "answer": 1,
-    "explain": "Ngang giá"
-  },
-  {
-    "id": 161,
-    "chapter": 1,
-    "question": "Quy luật giá trị có tác dụng gì?",
-    "options": [
-      "Điều tiết sản xuất và lưu thông",
-      "Kích thích cải tiến kỹ thuật",
-      "Phân hóa người sản xuất",
-      "Tất cả các mục trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả các mục trên"
-  },
-  {
-    "id": 162,
-    "chapter": 1,
-    "question": "Thương mại là gì?",
-    "options": [
-      "Hoạt động sản xuất",
-      "Hoạt động lưu thông hàng hóa trên thị trường",
-      "Hoạt động nông nghiệp",
-      "Hoạt động của nhà nước"
-    ],
-    "answer": 1,
-    "explain": "Hoạt động lưu thông hàng hóa trên thị trường"
-  },
-  {
-    "id": 163,
-    "chapter": 1,
-    "question": "Sự khác biệt giữa NSLĐ và CĐLĐ là?",
-    "options": [
-      "NSLĐ làm giảm giá trị 1 đơn vị, CĐLĐ không đổi",
-      "NSLĐ làm tăng giá trị 1 đơn vị",
-      "Giống nhau hoàn toàn",
-      "CĐLĐ làm giảm giá trị 1 đơn vị"
-    ],
-    "answer": 0,
-    "explain": "NSLĐ làm giảm giá trị 1 đơn vị, CĐLĐ không đổi"
-  },
-  {
-    "id": 164,
-    "chapter": 1,
-    "question": "Lao động giản đơn là gì?",
-    "options": [
-      "Lao động không cần đào tạo chuyên môn",
-      "Lao động làm những việc dễ",
-      "Lao động ít tốn sức",
-      "Lao động chân tay"
-    ],
-    "answer": 0,
-    "explain": "Lao động không cần đào tạo chuyên môn"
-  },
-  {
-    "id": 165,
-    "chapter": 1,
-    "question": "Giá trị thặng dư là đóng góp của ai?",
-    "options": [
-      "Adam Smith",
-      "Karl Marx",
-      "David Ricardo",
-      "Lenin"
-    ],
-    "answer": 1,
-    "explain": "Karl Marx"
-  },
-  {
-    "id": 166,
-    "chapter": 1,
-    "question": "Hàng hóa dịch vụ khác hàng hóa vật chất ở điểm nào?",
-    "options": [
-      "Giá quá đắt",
-      "Sản xuất và tiêu dùng diễn ra đồng thời",
-      "Không thể trao đổi",
-      "Chỉ có nhà nước cung cấp"
-    ],
-    "answer": 1,
-    "explain": "Sản xuất và tiêu dùng diễn ra đồng thời"
-  },
-  {
-    "id": 167,
-    "chapter": 1,
-    "question": "Chủ thể trung gian bao gồm?",
-    "options": [
-      "Nhà trung gian thương mại",
-      "Các sàn giao dịch",
-      "Môi giới bất động sản",
-      "Tất cả các ý trên"
-    ],
-    "answer": 3,
-    "explain": "Tất cả các ý trên"
-  },
-  {
-    "id": 168,
-    "chapter": 1,
-    "question": "Người tiêu dùng đóng vai trò gì trong sự phát triển kinh tế?",
-    "options": [
-      "Tiết kiệm tiền",
-      "Động lực thúc đẩy sản xuất sáng tạo nội dung mới",
-      "Làm việc chăm chỉ",
-      "Không có vai trò gì"
-    ],
-    "answer": 1,
-    "explain": "Động lực thúc đẩy sản xuất sáng tạo nội dung mới"
-  },
-  {
-    "id": 169,
-    "chapter": 1,
-    "question": "Quy luật cạnh tranh yêu cầu các doanh nghiệp?",
-    "options": [
-      "Hợp tác với nhau để tăng giá",
-      "Không ngừng cải tiến để đứng vững trên thị trường",
-      "Nhờ nhà nước hỗ trợ",
-      "Chờ đợi cơ hội"
-    ],
-    "answer": 1,
-    "explain": "Không ngừng cải tiến để đứng vững trên thị trường"
-  },
-  {
-    "id": 170,
-    "chapter": 1,
-    "question": "Cạnh tranh trong nội bộ ngành dẫn đến?",
-    "options": [
-      "Hình thành giá trị thị trường",
-      "Giá trị cá biệt giảm",
-      "Hình thành lợi nhuận bình quân",
-      "Phân chia lại thị trường"
-    ],
-    "answer": 0,
-    "explain": "Hình thành giá trị thị trường"
-  },
-  {
-    "id": 171,
-    "chapter": 1,
-    "question": "Cạnh tranh giữa các ngành dẫn đến?",
-    "options": [
-      "Sản phẩm rẻ hơn",
-      "Hình thành tỷ suất lợi nhuận bình quân",
-      "Máy móc hiện đại hơn",
-      "Phân hóa giàu nghèo"
-    ],
-    "answer": 1,
-    "explain": "Hình thành tỷ suất lợi nhuận bình quân"
-  },
-  {
-    "id": 172,
-    "chapter": 1,
-    "question": "Lợi ích kinh tế cá nhân là?",
-    "options": [
-      "Lợi ích của cộng đồng",
-      "Lợi ích của từng người sản xuất, tiêu dùng",
-      "Của cải của nhà nước",
-      "Đóng thuế đầy đủ"
-    ],
-    "answer": 1,
-    "explain": "Lợi ích của từng người sản xuất, tiêu dùng"
-  },
-  {
-    "id": 173,
-    "chapter": 1,
-    "question": "Lợi ích kinh tế xã hội là?",
-    "options": [
-      "Lợi ích mang tính tổng thể của cả nền kinh tế",
-      "Của cải của các tập đoàn",
-      "Thu nhập của công nhân",
-      "Sự giàu có của các quan chức"
-    ],
-    "answer": 0,
-    "explain": "Lợi ích mang tính tổng thể của cả nền kinh tế"
-  },
-  {
-    "id": 174,
-    "chapter": 1,
-    "question": "Mối quan hệ giữa các lợi ích kinh tế là gì?",
-    "options": [
-      "Luôn mâu thuẫn",
-      "Thống nhất và mâu thuẫn",
-      "Luôn thống nhất",
-      "Độc lập hoàn toàn"
-    ],
-    "answer": 1,
-    "explain": "Thống nhất và mâu thuẫn"
-  },
-  {
-    "id": 175,
-    "chapter": 1,
-    "question": "Chức năng phương tiện cất trữ đòi hỏi tiền phải?",
-    "options": [
-      "Là tiền vàng, bạc hoặc vật có giá trị thực",
-      "Là tiền giấy",
-      "Là tiền ảo",
-      "Là séc"
-    ],
-    "answer": 0,
-    "explain": "Là tiền vàng, bạc hoặc vật có giá trị thực"
-  },
-  {
-    "id": 176,
-    "chapter": 1,
-    "question": "Mọi vật phẩm có GTSD đều là hàng hóa?",
-    "options": [
-      "Đúng",
-      "Sai",
-      "Tùy quốc gia",
-      "Chỉ ở Việt Nam"
-    ],
-    "answer": 1,
-    "explain": "Sai"
-  },
-  {
-    "id": 177,
-    "chapter": 1,
-    "question": "Giá trị thặng dư được tạo ra ở đâu?",
-    "options": [
-      "Lưu thông",
-      "Sản xuất",
-      "Ngõ cụt của trao đổi",
-      "Ngân hàng"
-    ],
-    "answer": 1,
-    "explain": "Sản xuất"
-  },
-  {
-    "id": 178,
-    "chapter": 1,
-    "question": "Học thuyết giá trị thặng dư vạch trần bản chất gì?",
-    "options": [
-      "Sự giàu có",
-      "Sự bóc lột của chủ tư bản đối với công nhân làm thuê",
-      "Sự tiến bộ của kỹ thuật",
-      "Sự công bằng xã hội"
-    ],
-    "answer": 1,
-    "explain": "Sự bóc lột của chủ tư bản đối với công nhân làm thuê"
-  },
-  {
-    "id": 179,
-    "chapter": 1,
-    "question": "KTTT Mác - Lênin kế thừa trực tiếp từ trường phái nào?",
-    "options": [
-      "Trọng nông",
-      "Trọng thương",
-      "Cổ điển Anh",
-      "Tân cổ điển"
-    ],
-    "answer": 2,
-    "explain": "Cổ điển Anh"
-  },
-  {
-    "id": 180,
-    "chapter": 1,
-    "question": "Phương pháp nghiên cứu đặc trưng nhất của kinh tế chính trị là?",
-    "options": [
-      "Thực nghiệm",
-      "Trừu tượng hóa khoa học",
-      "Phân tích thống kê",
-      "Duy vật lịch sử"
-    ],
-    "answer": 1,
-    "explain": "Trừu tượng hóa khoa học"
-  },
-  {
-    "id": 181,
-    "chapter": 1,
-    "question": "Mâu thuẫn cơ bản của kinh tế hàng hóa là gì?",
-    "options": [
-      "Giàu và nghèo",
-      "Lao động tư nhân và lao động xã hội",
-      "Chủ và thợ",
-      "Mua và bán"
-    ],
-    "answer": 1,
-    "explain": "Lao động tư nhân và lao động xã hội"
-  },
-  {
-    "id": 182,
-    "chapter": 1,
-    "question": "Sự phát triển các hình thái giá trị phản ánh?",
-    "options": [
-      "Lịch sử loài người",
-      "Sự phát triển của sản xuất và trao đổi hàng hóa",
-      "Sự ra đời của máy tính",
-      "Lòng tham của con người"
-    ],
-    "answer": 1,
-    "explain": "Sự phát triển của sản xuất và trao đổi hàng hóa"
-  },
-  {
-    "id": 183,
-    "chapter": 1,
-    "question": "Vai trò của nhà nước trong kinh tế thị trường là gì?",
-    "options": [
-      "Làm thay doanh nghiệp",
-      "Kiến tạo môi trường pháp lý, khắc phục khuyết tật thị trường",
-      "Chỉ thu thuế",
-      "Không làm gì"
-    ],
-    "answer": 1,
-    "explain": "Kiến tạo môi trường pháp lý, khắc phục khuyết tật thị trường"
-  },
-  {
-    "id": 184,
-    "chapter": 1,
-    "question": "Lợi nhuận là hình thức biểu hiện của?",
-    "options": [
-      "Giá trị hàng hóa",
-      "Giá trị thặng dư",
-      "Số tiền tiết kiệm",
-      "Chi phí bỏ ra"
-    ],
-    "answer": 1,
-    "explain": "Giá trị thặng dư"
-  },
-  {
-    "id": 185,
-    "chapter": 1,
-    "question": "Cạnh tranh không lành mạnh bao gồm?",
-    "options": [
-      "Giảm giá",
-      "Hàng giả, hàng nhái, quảng cáo sai sự thật",
-      "Mở nhiều chi nhánh",
-      "Thuê nhân viên giỏi"
-    ],
-    "answer": 1,
-    "explain": "Hàng giả, hàng nhái, quảng cáo sai sự thật"
-  },
-  {
-    "id": 186,
-    "chapter": 1,
-    "question": "Khi lạm phát cao, chức năng nào của tiền bị suy yếu nhất?",
-    "options": [
-      "Thước đo giá trị",
-      "Phương tiện lưu thông",
-      "Phương tiện cất trữ",
-      "Tiền tệ thế giới"
-    ],
-    "answer": 2,
-    "explain": "Phương tiện cất trữ"
-  },
-  {
-    "id": 187,
-    "chapter": 1,
-    "question": "Kinh tế tri thức là giai đoạn phát triển cao của?",
-    "options": [
-      "Kinh tế nông nghiệp",
-      "Kinh tế công nghiệp",
-      "Kinh tế thị trường",
-      "Kinh tế hái lượm"
-    ],
-    "answer": 1,
-    "explain": "Kinh tế công nghiệp"
-  },
-  {
-    "id": 188,
-    "chapter": 1,
-    "question": "Thế nào là trao đổi ngang giá?",
-    "options": [
-      "Giá bán bằng giá mua",
-      "Trao đổi theo hao phí lao động xã hội cần thiết",
-      "Trao đổi lấy cùng 1 cân nặng",
-      "Hai người thấy vui là được"
-    ],
-    "answer": 1,
-    "explain": "Trao đổi theo hao phí lao động xã hội cần thiết"
-  },
-  {
-    "id": 189,
-    "chapter": 1,
-    "question": "Đối tượng nào mua hàng để tiêu dùng?",
-    "options": [
-      "Người sản xuất",
-      "Người tiêu dùng",
-      "Thương nhân",
-      "Nhà nước"
-    ],
-    "answer": 1,
-    "explain": "Người tiêu dùng"
-  },
-  {
-    "id": 190,
-    "chapter": 1,
-    "question": "Cạnh tranh có mấy loại chính?",
-    "options": [
-      "Cạnh tranh nội bộ ngành",
-      "Cạnh tranh giữa các ngành",
-      "Cả A và B",
-      "Cạnh tranh gia đình"
-    ],
-    "answer": 2,
-    "explain": "Cả A và B"
-  },
-  {
-    "id": 191,
-    "chapter": 1,
-    "question": "Chức năng phương tiện lưu thông của tiền có rủi ro gì?",
-    "options": [
-      "Tiền bị rách",
-      "Khả năng tách rời thời gian và không gian mua - bán dễ dẫn đến khủng hoảng",
-      "Tiền bị mất",
-      "Ngân hàng phá sản"
-    ],
-    "answer": 1,
-    "explain": "Khả năng tách rời thời gian và không gian mua - bán dễ dẫn đến khủng hoảng"
-  },
-  {
-    "id": 192,
-    "chapter": 1,
-    "question": "Giá trị cũ (c) chuyển vào sản phẩm bằng cách nào?",
-    "options": [
-      "Sáng tạo mới",
-      "Bảo tồn và chuyển nguyên vẹn",
-      "Bị mất đi",
-      "Tăng thêm"
-    ],
-    "answer": 1,
-    "explain": "Bảo tồn và chuyển nguyên vẹn"
-  },
-  {
-    "id": 193,
-    "chapter": 1,
-    "question": "Ai tạo ra giá trị mới (v+m)?",
-    "options": [
-      "Người quản lý",
-      "Công nhân trực tiếp sản xuất",
-      "Máy móc tự động",
-      "Chủ ngân hàng"
-    ],
-    "answer": 1,
-    "explain": "Công nhân trực tiếp sản xuất"
-  },
-  {
-    "id": 194,
-    "chapter": 1,
-    "question": "Một người thợ làm ra 10 sản phẩm/ngày. Nếu tăng năng suất lên 20 sản phẩm/ngày thì tổng giá trị ngày đó?",
-    "options": [
-      "Tăng gấp đôi",
-      "Không đổi",
-      "Giảm 50%",
-      "Tăng 100%"
-    ],
-    "answer": 1,
-    "explain": "Không đổi"
-  },
-  {
-    "id": 195,
-    "chapter": 1,
-    "question": "Tại sao hàng hóa có hai thuộc tính?",
-    "options": [
-      "Vì người mua muốn thế",
-      "Vì lao động sản xuất hàng hóa có tính hai mặt",
-      "Vì quy định của nhà nước",
-      "Vì nó đẹp"
-    ],
-    "answer": 1,
-    "explain": "Vì lao động sản xuất hàng hóa có tính hai mặt"
-  },
-  {
-    "id": 196,
-    "chapter": 1,
-    "question": "Ưu thế của cạnh tranh hoàn hảo là?",
-    "options": [
-      "Nhiều người mua, nhiều người bán, không ai thao túng được giá",
-      "Chỉ một người bán",
-      "Giá rất cao",
-      "Nhà nước quản lý toàn bộ"
-    ],
-    "answer": 0,
-    "explain": "Nhiều người mua, nhiều người bán, không ai thao túng được giá"
-  },
-  {
-    "id": 197,
-    "chapter": 1,
-    "question": "Cấu tạo kỹ thuật của tư bản là?",
-    "options": [
-      "Số lượng máy móc / số lượng công nhân",
-      "Giá trị máy móc / giá trị sức lao động",
-      "Kích thước nhà xưởng",
-      "Tốc độ sản xuất"
-    ],
-    "answer": 0,
-    "explain": "Số lượng máy móc / số lượng công nhân"
-  },
-  {
-    "id": 198,
-    "chapter": 1,
-    "question": "Quy luật giá trị là quy luật kinh tế của?",
-    "options": [
-      "Kinh tế tự nhiên",
-      "Kinh tế hàng hóa",
-      "Kinh tế chỉ huy",
-      "Mọi nền kinh tế"
-    ],
-    "answer": 1,
-    "explain": "Kinh tế hàng hóa"
-  },
-  {
-    "id": 199,
-    "chapter": 1,
-    "question": "Lao động xã hội là gì?",
-    "options": [
-      "Làm việc cho nhà nước",
-      "Lao động là bộ phận hợp thành lao động tổng hợp của xã hội",
-      "Lao động thiện nguyện",
-      "Làm việc theo nhóm lớn"
-    ],
-    "answer": 1,
-    "explain": "Lao động là bộ phận hợp thành lao động tổng hợp của xã hội"
-  },
-  {
-    "id": 200,
-    "chapter": 1,
-    "question": "Tự do kinh doanh là?",
-    "options": [
-      "Thích làm gì thì làm phá luật",
-      "Quyền được kinh doanh những gì pháp luật không cấm",
-      "Mọi người đều phải mở công ty",
-      "Kinh doanh không cần nộp thuế"
-    ],
-    "answer": 1,
-    "explain": "Quyền được kinh doanh những gì pháp luật không cấm"
+    "explain": "Vận dụng tư tưởng phải gắn thực tiễn và phát triển sáng tạo."
   }
 ]
