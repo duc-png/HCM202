@@ -1,123 +1,105 @@
 {
   "id": "root",
-  "name": "TƯ TƯỞNG HỒ CHÍ MINH\nHCM202",
+  "name": "CHỦ NGHĨA XÃ HỘI KHOA HỌC\nMLN131",
   "level": 0,
   "icon": "vietnam1.png",
-  "description": "<b>HCM202 - Tư tưởng Hồ Chí Minh</b> hệ thống hóa những quan điểm cơ bản của Hồ Chí Minh về cách mạng Việt Nam. Nội dung project được sắp xếp theo 6 chương của giáo trình 2019, kết hợp trọng tâm ôn tập trong đề cương lý thuyết.",
+  "description": "<b>MLN131 - Chủ nghĩa xã hội khoa học</b> hệ thống hóa những nội dung cơ bản về sự ra đời, phát triển và các quy luật chính trị - xã hội của quá trình hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
   "vietnam_example": "",
-  "meaning": "Mục tiêu học tập: nắm khái niệm, cơ sở hình thành, nội dung cốt lõi và giá trị vận dụng của Tư tưởng Hồ Chí Minh trong học tập, rèn luyện và thực tiễn xây dựng đất nước.",
+  "meaning": "Mục tiêu học tập: nắm hoàn cảnh ra đời, vai trò của C. Mác và Ph. Ăngghen, các giai đoạn phát triển và đối tượng nghiên cứu của chủ nghĩa xã hội khoa học.",
   "children": [
     {
       "id": "ch1",
-      "name": "CHƯƠNG I: KHÁI NIỆM, ĐỐI TƯỢNG, PHƯƠNG PHÁP NGHIÊN CỨU VÀ Ý NGHĨA HỌC TẬP",
-      "shortName": "Khái niệm và phương pháp",
+      "name": "CHƯƠNG I: NHẬP MÔN CHỦ NGHĨA XÃ HỘI KHOA HỌC",
+      "shortName": "Nhập môn CNXH khoa học",
       "level": 1,
       "color": "#22c55e",
       "icon": "khoahoc.png",
-      "description": "<b>Chương I</b> giới thiệu những vấn đề nhập môn của học phần Tư tưởng Hồ Chí Minh: khái niệm, đối tượng nghiên cứu, phương pháp nghiên cứu và ý nghĩa học tập. Trọng tâm là hiểu Tư tưởng Hồ Chí Minh như một hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam.",
+      "description": "<b>Chương I</b> làm rõ hoàn cảnh lịch sử ra đời của chủ nghĩa xã hội khoa học, vai trò sáng lập của C. Mác và Ph. Ăngghen, các giai đoạn phát triển và đối tượng nghiên cứu của môn học.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: hiểu vì sao chủ nghĩa xã hội khoa học ra đời như một tất yếu lịch sử và vì sao Mác - Ăngghen đã biến chủ nghĩa xã hội từ không tưởng thành khoa học.",
       "children": [
         {
           "id": "ch1_1",
-          "name": "Khái niệm Tư tưởng Hồ Chí Minh",
+          "name": "Hoàn cảnh lịch sử ra đời",
           "level": 2,
           "color": "#22c55e",
-          "description": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam; là kết quả vận dụng, phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta; kế thừa truyền thống dân tộc và tinh hoa văn hóa nhân loại.",
+          "description": "Vào những năm 40 của thế kỷ XIX, cách mạng công nghiệp phát triển mạnh ở Tây Âu, thúc đẩy mâu thuẫn giữa lực lượng sản xuất xã hội hóa cao và quan hệ sản xuất tư bản chủ nghĩa dựa trên tư hữu tư nhân. Giai cấp công nhân ra đời, lớn mạnh và đấu tranh độc lập, đòi hỏi một lý luận khoa học soi đường.",
           "meaning": "",
           "children": [
             {
               "id": "ch1_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Điều kiện kinh tế - xã hội",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam; là kết quả vận dụng, phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta; kế thừa truyền thống dân tộc và tinh hoa văn hóa nhân loại.",
+              "description": "Đại công nghiệp tư bản chủ nghĩa làm xuất hiện và phát triển giai cấp công nhân; các phong trào như Hiến chương ở Anh, khởi nghĩa công nhân dệt ở Xilêdi và Lyon cho thấy nhu cầu cấp thiết về lý luận cách mạng.",
               "meaning": ""
             },
             {
               "id": "ch1_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Tiền đề khoa học tự nhiên",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Học thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tế bào đã góp phần chứng minh tính duy vật và biện chứng của tự nhiên.",
+              "meaning": ""
+            },
+            {
+              "id": "ch1_1_c",
+              "name": "Tiền đề tư tưởng lý luận",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Chủ nghĩa xã hội khoa học kế thừa triết học cổ điển Đức, kinh tế chính trị học cổ điển Anh và chủ nghĩa xã hội không tưởng phê phán Pháp - Anh.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch1_2",
-          "name": "Đối tượng nghiên cứu",
+          "name": "Vai trò của C. Mác và Ph. Ăngghen",
           "level": 2,
           "color": "#22c55e",
-          "description": "Nghiên cứu hệ thống quan điểm của Hồ Chí Minh và quá trình các quan điểm ấy được vận dụng, hiện thực hóa trong cách mạng Việt Nam. Đối tượng không chỉ là văn bản, bài nói, bài viết mà còn là hoạt động thực tiễn của Người.",
+          "description": "C. Mác và Ph. Ăngghen chuyển từ thế giới quan duy tâm sang duy vật, từ lập trường dân chủ cách mạng sang cộng sản chủ nghĩa; qua đó xây dựng nền tảng khoa học cho chủ nghĩa xã hội khoa học.",
           "meaning": "",
           "children": [
             {
               "id": "ch1_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Hai phát kiến vĩ đại",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Nghiên cứu hệ thống quan điểm của Hồ Chí Minh và quá trình các quan điểm ấy được vận dụng, hiện thực hóa trong cách mạng Việt Nam. Đối tượng không chỉ là văn bản, bài nói, bài viết mà còn là hoạt động thực tiễn của Người.",
+              "description": "Chủ nghĩa duy vật lịch sử chỉ ra quy luật phát triển của lịch sử loài người; học thuyết giá trị thặng dư chỉ ra bản chất bóc lột của chủ nghĩa tư bản.",
               "meaning": ""
             },
             {
               "id": "ch1_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Tuyên ngôn của Đảng Cộng sản",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Tác phẩm Tuyên ngôn của Đảng Cộng sản năm 1848 đánh dấu sự hình thành chính thức của chủ nghĩa xã hội khoa học.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch1_3",
-          "name": "Phương pháp nghiên cứu",
+          "name": "Các giai đoạn phát triển và đối tượng nghiên cứu",
           "level": 2,
           "color": "#22c55e",
-          "description": "Cần dựa trên thế giới quan, phương pháp luận Mác - Lênin; quán triệt nguyên tắc thống nhất lý luận với thực tiễn, quan điểm lịch sử - cụ thể, toàn diện - hệ thống và kế thừa - phát triển.",
+          "description": "Chủ nghĩa xã hội khoa học phát triển qua các giai đoạn: Mác - Ăngghen sáng lập và phát triển, V.I. Lênin vận dụng và phát triển trong điều kiện mới, các Đảng Cộng sản hiện đại tiếp tục bổ sung.",
           "meaning": "",
           "children": [
             {
               "id": "ch1_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Các giai đoạn phát triển",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Cần dựa trên thế giới quan, phương pháp luận Mác - Lênin; quán triệt nguyên tắc thống nhất lý luận với thực tiễn, quan điểm lịch sử - cụ thể, toàn diện - hệ thống và kế thừa - phát triển.",
+              "description": "Từ giai đoạn Mác - Ăngghen (1848 - 1895), đến Lênin trong thời kỳ chủ nghĩa tư bản độc quyền và xây dựng chủ nghĩa xã hội hiện thực, rồi tiếp tục được bổ sung trong phong trào cộng sản hiện đại.",
               "meaning": ""
             },
             {
               "id": "ch1_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Đối tượng nghiên cứu",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
-              "meaning": ""
-            }
-          ]
-        },
-        {
-          "id": "ch1_4",
-          "name": "Ý nghĩa học tập",
-          "level": 2,
-          "color": "#22c55e",
-          "description": "Học tập môn học giúp nâng cao năng lực tư duy lý luận, củng cố niềm tin khoa học, bồi dưỡng lòng yêu nước, đạo đức cách mạng và năng lực vận dụng tư tưởng Hồ Chí Minh vào học tập, rèn luyện, cuộc sống.",
-          "meaning": "",
-          "children": [
-            {
-              "id": "ch1_4_a",
-              "name": "Ý chính cần nhớ",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Học tập môn học giúp nâng cao năng lực tư duy lý luận, củng cố niềm tin khoa học, bồi dưỡng lòng yêu nước, đạo đức cách mạng và năng lực vận dụng tư tưởng Hồ Chí Minh vào học tập, rèn luyện, cuộc sống.",
-              "meaning": ""
-            },
-            {
-              "id": "ch1_4_b",
-              "name": "Gợi ý ôn tập",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Môn học nghiên cứu những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
               "meaning": ""
             }
           ]
@@ -126,115 +108,113 @@
     },
     {
       "id": "ch2",
-      "name": "CHƯƠNG II: CƠ SỞ, QUÁ TRÌNH HÌNH THÀNH VÀ PHÁT TRIỂN TƯ TƯỞNG HỒ CHÍ MINH",
-      "shortName": "Cơ sở và quá trình hình thành",
+      "name": "CHƯƠNG II: SỨ MỆNH LỊCH SỬ CỦA GIAI CẤP CÔNG NHÂN",
+      "shortName": "Sứ mệnh GCCN",
       "level": 1,
       "color": "#0ea5e9",
       "icon": "vietnam.png",
-      "description": "<b>Chương II</b> làm rõ các cơ sở thực tiễn, cơ sở lý luận, nhân tố chủ quan và các giai đoạn hình thành, phát triển tư tưởng Hồ Chí Minh. Đây là chương nền để hiểu vì sao tư tưởng của Người vừa dân tộc, vừa khoa học, vừa cách mạng.",
+      "description": "<b>Chương II</b> trình bày khái niệm, đặc điểm của giai cấp công nhân; nội dung sứ mệnh lịch sử của giai cấp công nhân trên các lĩnh vực kinh tế, chính trị - xã hội, văn hóa - tư tưởng; và các điều kiện để thực hiện sứ mệnh lịch sử đó.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: hiểu vì sao giai cấp công nhân có sứ mệnh lịch sử xóa bỏ chủ nghĩa tư bản, xây dựng xã hội mới và vì sao Đảng Cộng sản là nhân tố chủ quan quyết định nhất.",
       "children": [
         {
           "id": "ch2_1",
-          "name": "Cơ sở thực tiễn",
+          "name": "Khái niệm và đặc điểm của giai cấp công nhân",
           "level": 2,
           "color": "#0ea5e9",
-          "description": "Thực tiễn Việt Nam cuối thế kỷ XIX đầu thế kỷ XX đặt ra yêu cầu tìm con đường cứu nước mới. Thực tiễn thế giới, đặc biệt Cách mạng Tháng Mười Nga và phong trào giải phóng dân tộc, tạo điều kiện để Hồ Chí Minh tiếp cận con đường cách mạng vô sản.",
+          "description": "Giai cấp công nhân là những người trực tiếp hoặc gián tiếp vận hành công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao. Trong chủ nghĩa tư bản, họ không có tư liệu sản xuất, phải bán sức lao động và bị bóc lột giá trị thặng dư.",
           "meaning": "",
           "children": [
             {
               "id": "ch2_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Phương thức lao động",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Thực tiễn Việt Nam cuối thế kỷ XIX đầu thế kỷ XX đặt ra yêu cầu tìm con đường cứu nước mới. Thực tiễn thế giới, đặc biệt Cách mạng Tháng Mười Nga và phong trào giải phóng dân tộc, tạo điều kiện để Hồ Chí Minh tiếp cận con đường cách mạng vô sản.",
+              "description": "Giai cấp công nhân gắn với nền sản xuất công nghiệp hiện đại, vận hành các công cụ sản xuất ngày càng xã hội hóa cao.",
               "meaning": ""
             },
             {
               "id": "ch2_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Vị trí trong quan hệ sản xuất",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Trong chế độ tư bản chủ nghĩa, công nhân không có tư liệu sản xuất, phải bán sức lao động cho nhà tư bản và bị bóc lột giá trị thặng dư.",
+              "meaning": ""
+            },
+            {
+              "id": "ch2_1_c",
+              "name": "Đặc điểm chính trị - xã hội",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Giai cấp công nhân có tính tổ chức, kỷ luật cao, tinh thần cách mạng triệt để và bản chất quốc tế.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch2_2",
-          "name": "Cơ sở lý luận",
+          "name": "Nội dung sứ mệnh lịch sử của giai cấp công nhân",
           "level": 2,
           "color": "#0ea5e9",
-          "description": "Tư tưởng Hồ Chí Minh được hình thành từ chủ nghĩa Mác - Lênin, truyền thống tốt đẹp của dân tộc Việt Nam và tinh hoa văn hóa nhân loại. Trong đó, chủ nghĩa Mác - Lênin là cơ sở thế giới quan và phương pháp luận trực tiếp.",
+          "description": "Sứ mệnh lịch sử của giai cấp công nhân thể hiện trên ba lĩnh vực: kinh tế; chính trị - xã hội; văn hóa, tư tưởng.",
           "meaning": "",
           "children": [
             {
               "id": "ch2_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Kinh tế",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Tư tưởng Hồ Chí Minh được hình thành từ chủ nghĩa Mác - Lênin, truyền thống tốt đẹp của dân tộc Việt Nam và tinh hoa văn hóa nhân loại. Trong đó, chủ nghĩa Mác - Lênin là cơ sở thế giới quan và phương pháp luận trực tiếp.",
+              "description": "Giai cấp công nhân là nhân tố hàng đầu thúc đẩy lực lượng sản xuất phát triển và xác lập quan hệ sản xuất mới dựa trên chế độ công hữu tư liệu sản xuất.",
               "meaning": ""
             },
             {
               "id": "ch2_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Chính trị - xã hội",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Giai cấp công nhân tiến hành cách mạng giành chính quyền, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ và xây dựng xã hội mới.",
+              "meaning": ""
+            },
+            {
+              "id": "ch2_2_c",
+              "name": "Văn hóa, tư tưởng",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Giai cấp công nhân xây dựng hệ tư tưởng mới là chủ nghĩa Mác - Lênin, xây dựng nền văn hóa tiên tiến, đậm đà bản sắc và cải tạo tư tưởng lạc hậu cũ.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch2_3",
-          "name": "Nhân tố chủ quan",
+          "name": "Điều kiện thực hiện sứ mệnh lịch sử",
           "level": 2,
           "color": "#0ea5e9",
-          "description": "Phẩm chất, trí tuệ, bản lĩnh, lòng yêu nước thương dân, năng lực tự học, tư duy độc lập và hoạt động thực tiễn phong phú của Hồ Chí Minh là nhân tố quyết định khả năng tiếp thu, chọn lọc và sáng tạo.",
+          "description": "Việc thực hiện sứ mệnh lịch sử của giai cấp công nhân phụ thuộc vào các điều kiện khách quan và chủ quan.",
           "meaning": "",
           "children": [
             {
               "id": "ch2_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Điều kiện khách quan",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Phẩm chất, trí tuệ, bản lĩnh, lòng yêu nước thương dân, năng lực tự học, tư duy độc lập và hoạt động thực tiễn phong phú của Hồ Chí Minh là nhân tố quyết định khả năng tiếp thu, chọn lọc và sáng tạo.",
+              "description": "Do địa vị kinh tế là đại biểu cho lực lượng sản xuất tiên tiến và địa vị chính trị - xã hội là giai cấp tiên tiến, nghèo khổ nhất nhưng có tổ chức nhất quy định.",
               "meaning": ""
             },
             {
               "id": "ch2_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Điều kiện chủ quan",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
-              "meaning": ""
-            }
-          ]
-        },
-        {
-          "id": "ch2_4",
-          "name": "Quá trình phát triển",
-          "level": 2,
-          "color": "#0ea5e9",
-          "description": "Tư tưởng Hồ Chí Minh hình thành và phát triển qua nhiều giai đoạn: trước năm 1911, tìm đường cứu nước; 1911-1920, tìm thấy con đường cách mạng vô sản; 1921-1930, hình thành cơ bản tư tưởng về cách mạng Việt Nam; 1930-1969, bổ sung và phát triển toàn diện.",
-          "meaning": "",
-          "children": [
-            {
-              "id": "ch2_4_a",
-              "name": "Ý chính cần nhớ",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Tư tưởng Hồ Chí Minh hình thành và phát triển qua nhiều giai đoạn: trước năm 1911, tìm đường cứu nước; 1911-1920, tìm thấy con đường cách mạng vô sản; 1921-1930, hình thành cơ bản tư tưởng về cách mạng Việt Nam; 1930-1969, bổ sung và phát triển toàn diện.",
+              "description": "Giai cấp công nhân phải phát triển về số lượng, chất lượng; thành lập Đảng Cộng sản; và xây dựng liên minh giữa công nhân, nông dân với các tầng lớp lao động khác.",
               "meaning": ""
             },
             {
-              "id": "ch2_4_b",
-              "name": "Gợi ý ôn tập",
+              "id": "ch2_3_c",
+              "name": "Vai trò quyết định của Đảng Cộng sản",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Đảng Cộng sản là đội tiên phong của giai cấp công nhân, lấy chủ nghĩa Mác - Lênin làm kim chỉ nam và là nhân tố quyết định nhất trong các điều kiện chủ quan.",
               "meaning": ""
             }
           ]
@@ -243,115 +223,97 @@
     },
     {
       "id": "ch3",
-      "name": "CHƯƠNG III: TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐỘC LẬP DÂN TỘC VÀ CHỦ NGHĨA XÃ HỘI",
-      "shortName": "Độc lập dân tộc và CNXH",
+      "name": "CHƯƠNG III: CHỦ NGHĨA XÃ HỘI VÀ THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI",
+      "shortName": "CNXH và thời kỳ quá độ",
       "level": 1,
       "color": "#f97316",
       "icon": "vietnam1.png",
-      "description": "<b>Chương III</b> trình bày tư tưởng Hồ Chí Minh về độc lập dân tộc, cách mạng giải phóng dân tộc, chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam. Trọng tâm là mối quan hệ độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+      "description": "<b>Chương III</b> trình bày chủ nghĩa xã hội như giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa, các đặc trưng cơ bản của chủ nghĩa xã hội, tính tất yếu và đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội, trong đó có hình thức quá độ gián tiếp ở Việt Nam.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: nắm các đặc trưng cơ bản của chủ nghĩa xã hội, hiểu vì sao phải có thời kỳ quá độ và hiểu đúng nội dung bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam.",
       "children": [
         {
           "id": "ch3_1",
-          "name": "Độc lập dân tộc",
+          "name": "Chủ nghĩa xã hội - giai đoạn đầu của hình thái cộng sản chủ nghĩa",
           "level": 2,
-          "color": "#f97316",
-          "description": "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của mọi dân tộc. Độc lập phải là độc lập thật sự, gắn với quyền làm chủ, hạnh phúc của nhân dân và toàn vẹn chủ quyền quốc gia.",
+          "color": "#f59e0b",
+          "description": "Chủ nghĩa xã hội là giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa, có cơ sở vật chất là nền đại công nghiệp phát triển cao và hướng tới giải phóng con người khỏi áp bức, bất công.",
           "meaning": "",
           "children": [
             {
               "id": "ch3_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Cơ sở kinh tế - kỹ thuật",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của mọi dân tộc. Độc lập phải là độc lập thật sự, gắn với quyền làm chủ, hạnh phúc của nhân dân và toàn vẹn chủ quyền quốc gia.",
+              "description": "Cơ sở vật chất của chủ nghĩa xã hội là nền đại công nghiệp phát triển cao; chế độ tư hữu tư bản chủ nghĩa bị xóa bỏ, chế độ công hữu về tư liệu sản xuất chủ yếu được thiết lập.",
               "meaning": ""
             },
             {
               "id": "ch3_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Tổ chức lao động và phân phối",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Lao động được tổ chức, quản lý có kế hoạch trên quy mô toàn xã hội; nguyên tắc phân phối chủ đạo là làm theo năng lực, hưởng theo lao động.",
+              "meaning": ""
+            },
+            {
+              "id": "ch3_1_c",
+              "name": "Nhà nước và con người",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Nhà nước mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi; mục tiêu là giải phóng con người khỏi áp bức, bất công và tạo điều kiện phát triển toàn diện.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch3_2",
-          "name": "Cách mạng giải phóng dân tộc",
+          "name": "Thời kỳ quá độ lên chủ nghĩa xã hội",
           "level": 2,
-          "color": "#f97316",
-          "description": "Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản, do Đảng Cộng sản lãnh đạo, dựa vào lực lượng toàn dân, tiến hành chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng chính quốc.",
+          "color": "#f59e0b",
+          "description": "Thời kỳ quá độ là tất yếu vì cần thời gian xây dựng cơ sở vật chất của xã hội mới và cải tạo các tàn dư của xã hội cũ.",
           "meaning": "",
           "children": [
             {
               "id": "ch3_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Tính tất yếu",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản, do Đảng Cộng sản lãnh đạo, dựa vào lực lượng toàn dân, tiến hành chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng chính quốc.",
+              "description": "Bất kỳ xã hội nào muốn tiến lên chủ nghĩa xã hội cũng phải trải qua thời kỳ quá độ để xây dựng cơ sở vật chất - kỹ thuật và cải tạo những tàn dư cũ.",
               "meaning": ""
             },
             {
               "id": "ch3_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Đặc điểm cơ bản",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Trong thời kỳ quá độ tồn tại sự đan xen và đấu tranh quyết liệt giữa cái cũ và cái mới trên các lĩnh vực kinh tế, chính trị, tư tưởng và văn hóa.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch3_3",
-          "name": "Chủ nghĩa xã hội",
+          "name": "Quá độ lên chủ nghĩa xã hội ở Việt Nam",
           "level": 2,
-          "color": "#f97316",
-          "description": "Theo Hồ Chí Minh, chủ nghĩa xã hội là xã hội do nhân dân làm chủ, có kinh tế phát triển, văn hóa - đạo đức tiến bộ, con người được giải phóng, cuộc sống ấm no, tự do, hạnh phúc.",
+          "color": "#f59e0b",
+          "description": "Việt Nam quá độ gián tiếp lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa nhưng không bỏ qua những thành tựu tiến bộ của nhân loại.",
           "meaning": "",
           "children": [
             {
               "id": "ch3_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Hình thức quá độ gián tiếp",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Theo Hồ Chí Minh, chủ nghĩa xã hội là xã hội do nhân dân làm chủ, có kinh tế phát triển, văn hóa - đạo đức tiến bộ, con người được giải phóng, cuộc sống ấm no, tự do, hạnh phúc.",
+              "description": "Việt Nam đi lên chủ nghĩa xã hội từ một xã hội tiền tư bản chủ nghĩa, không trải qua việc xác lập đầy đủ chế độ tư bản chủ nghĩa với tư cách một chế độ thống trị.",
               "meaning": ""
             },
             {
               "id": "ch3_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Bản chất của bỏ qua chế độ tư bản chủ nghĩa",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
-              "meaning": ""
-            }
-          ]
-        },
-        {
-          "id": "ch3_4",
-          "name": "Con đường đi lên CNXH ở Việt Nam",
-          "level": 2,
-          "color": "#f97316",
-          "description": "Việt Nam quá độ lên chủ nghĩa xã hội từ một nước nông nghiệp lạc hậu, bỏ qua chế độ tư bản chủ nghĩa. Quá trình này phải phù hợp điều kiện cụ thể, phát huy động lực con người, kết hợp cải tạo với xây dựng.",
-          "meaning": "",
-          "children": [
-            {
-              "id": "ch3_4_a",
-              "name": "Ý chính cần nhớ",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Việt Nam quá độ lên chủ nghĩa xã hội từ một nước nông nghiệp lạc hậu, bỏ qua chế độ tư bản chủ nghĩa. Quá trình này phải phù hợp điều kiện cụ thể, phát huy động lực con người, kết hợp cải tạo với xây dựng.",
-              "meaning": ""
-            },
-            {
-              "id": "ch3_4_b",
-              "name": "Gợi ý ôn tập",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Bỏ qua là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, đồng thời tiếp thu, kế thừa thành tựu khoa học, công nghệ của nhân loại.",
               "meaning": ""
             }
           ]
@@ -360,115 +322,105 @@
     },
     {
       "id": "ch4",
-      "name": "CHƯƠNG IV: TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẢNG CỘNG SẢN VIỆT NAM VÀ NHÀ NƯỚC CỦA NHÂN DÂN, DO NHÂN DÂN, VÌ NHÂN DÂN",
-      "shortName": "Đảng và Nhà nước",
+      "name": "CHƯƠNG IV: DÂN CHỦ XÃ HỘI CHỦ NGHĨA VÀ NHÀ NƯỚC XÃ HỘI CHỦ NGHĨA",
+      "shortName": "Dân chủ và nhà nước XHCN",
       "level": 1,
       "color": "#a855f7",
       "icon": "map.png",
-      "description": "<b>Chương IV</b> tập trung vào tư tưởng Hồ Chí Minh về xây dựng Đảng Cộng sản Việt Nam cầm quyền và xây dựng Nhà nước kiểu mới của nhân dân, do nhân dân, vì nhân dân. Đây là nội dung trực tiếp liên quan đến vai trò lãnh đạo, quản lý và phục vụ nhân dân.",
+      "description": "<b>Chương IV</b> làm rõ bản chất của nền dân chủ xã hội chủ nghĩa, bản chất và chức năng của nhà nước xã hội chủ nghĩa, cùng mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: nắm dân chủ xã hội chủ nghĩa là cơ sở của nhà nước xã hội chủ nghĩa, còn nhà nước xã hội chủ nghĩa là công cụ pháp lý để thực hiện và bảo vệ quyền dân chủ của nhân dân.",
       "children": [
         {
           "id": "ch4_1",
-          "name": "Đảng Cộng sản Việt Nam",
+          "name": "Nền dân chủ xã hội chủ nghĩa",
           "level": 2,
-          "color": "#a855f7",
-          "description": "Đảng là nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam. Đảng phải lấy chủ nghĩa Mác - Lênin làm nền tảng, gắn bó với nhân dân, có đường lối đúng, tổ chức chặt chẽ và đạo đức cách mạng trong sáng.",
+          "color": "#ef4444",
+          "description": "Nền dân chủ xã hội chủ nghĩa mang bản chất giai cấp công nhân, phục vụ lợi ích của đại đa số nhân dân lao động và khẳng định quyền lực nhà nước thuộc về nhân dân.",
           "meaning": "",
           "children": [
             {
               "id": "ch4_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Bản chất chính trị",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Đảng là nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam. Đảng phải lấy chủ nghĩa Mác - Lênin làm nền tảng, gắn bó với nhân dân, có đường lối đúng, tổ chức chặt chẽ và đạo đức cách mạng trong sáng.",
+              "description": "Mang bản chất của giai cấp công nhân nhưng phục vụ lợi ích của đại đa số nhân dân lao động; quyền lực nhà nước thuộc về nhân dân.",
               "meaning": ""
             },
             {
               "id": "ch4_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Bản chất kinh tế",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu, nhằm thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội.",
+              "meaning": ""
+            },
+            {
+              "id": "ch4_1_c",
+              "name": "Bản chất tư tưởng - văn hóa",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Lấy chủ nghĩa Mác - Lênin làm nền tảng ý thức xã hội, kết hợp hài hòa lợi ích cá nhân, tập thể và xã hội.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch4_2",
-          "name": "Đảng cầm quyền",
+          "name": "Nhà nước xã hội chủ nghĩa",
           "level": 2,
-          "color": "#a855f7",
-          "description": "Khi trở thành Đảng cầm quyền, Đảng vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân. Đảng phải thường xuyên tự chỉnh đốn, chống quan liêu, tham ô, lãng phí, xa dân.",
+          "color": "#ef4444",
+          "description": "Nhà nước xã hội chủ nghĩa là tổ chức thực hiện quyền lực của nhân dân, do Đảng Cộng sản lãnh đạo và hoạt động vì lợi ích của nhân dân.",
           "meaning": "",
           "children": [
             {
               "id": "ch4_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Bản chất",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi trở thành Đảng cầm quyền, Đảng vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân. Đảng phải thường xuyên tự chỉnh đốn, chống quan liêu, tham ô, lãng phí, xa dân.",
+              "description": "Nhà nước xã hội chủ nghĩa là tổ chức thực hiện quyền lực của nhân dân dưới sự lãnh đạo của Đảng Cộng sản.",
               "meaning": ""
             },
             {
               "id": "ch4_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Chức năng trấn áp",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Trấn áp các thế lực đi ngược lại lợi ích của nhân dân, bảo vệ thành quả cách mạng và trật tự xã hội mới.",
+              "meaning": ""
+            },
+            {
+              "id": "ch4_2_c",
+              "name": "Chức năng tổ chức, xây dựng",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Tổ chức và xây dựng là chức năng căn bản, căn cốt nhất nhằm phát triển kinh tế - xã hội và xây dựng xã hội mới.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch4_3",
-          "name": "Nhà nước của dân, do dân, vì dân",
+          "name": "Mối quan hệ giữa dân chủ XHCN và nhà nước XHCN",
           "level": 2,
-          "color": "#a855f7",
-          "description": "Nhà nước trong tư tưởng Hồ Chí Minh thuộc về nhân dân, do nhân dân lập nên và hoạt động vì lợi ích của nhân dân. Quyền lực nhà nước phải được tổ chức, thực thi và kiểm soát trên nền tảng dân chủ.",
+          "color": "#ef4444",
+          "description": "Dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa có quan hệ biện chứng, tác động qua lại và bổ sung cho nhau.",
           "meaning": "",
           "children": [
             {
               "id": "ch4_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Dân chủ là cơ sở, nền tảng",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Nhà nước trong tư tưởng Hồ Chí Minh thuộc về nhân dân, do nhân dân lập nên và hoạt động vì lợi ích của nhân dân. Quyền lực nhà nước phải được tổ chức, thực thi và kiểm soát trên nền tảng dân chủ.",
+              "description": "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng nhà nước xã hội chủ nghĩa.",
               "meaning": ""
             },
             {
               "id": "ch4_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Nhà nước là công cụ pháp lý",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
-              "meaning": ""
-            }
-          ]
-        },
-        {
-          "id": "ch4_4",
-          "name": "Cán bộ và pháp quyền",
-          "level": 2,
-          "color": "#a855f7",
-          "description": "Cán bộ, công chức là công bộc của dân, phải cần, kiệm, liêm, chính, chí công vô tư. Nhà nước phải quản lý bằng Hiến pháp, pháp luật, đồng thời kết hợp pháp luật với đạo đức và giáo dục.",
-          "meaning": "",
-          "children": [
-            {
-              "id": "ch4_4_a",
-              "name": "Ý chính cần nhớ",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Cán bộ, công chức là công bộc của dân, phải cần, kiệm, liêm, chính, chí công vô tư. Nhà nước phải quản lý bằng Hiến pháp, pháp luật, đồng thời kết hợp pháp luật với đạo đức và giáo dục.",
-              "meaning": ""
-            },
-            {
-              "id": "ch4_4_b",
-              "name": "Gợi ý ôn tập",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Nhà nước xã hội chủ nghĩa là công cụ pháp lý để thực hiện và bảo vệ quyền dân chủ của nhân dân.",
               "meaning": ""
             }
           ]
@@ -477,115 +429,113 @@
     },
     {
       "id": "ch5",
-      "name": "CHƯƠNG V: TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẠI ĐOÀN KẾT TOÀN DÂN TỘC VÀ ĐOÀN KẾT QUỐC TẾ",
-      "shortName": "Đại đoàn kết",
+      "name": "CHƯƠNG V: CƠ CẤU XÃ HỘI - GIAI CẤP VÀ LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI",
+      "shortName": "Cơ cấu xã hội và liên minh giai cấp",
       "level": 1,
       "color": "#eab308",
       "icon": "vietnam.png",
-      "description": "<b>Chương V</b> làm rõ đại đoàn kết toàn dân tộc là chiến lược cơ bản, lâu dài, quyết định thành công của cách mạng; đồng thời phân tích đoàn kết quốc tế và sự kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+      "description": "<b>Chương V</b> trình bày sự biến đổi của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội, tính tất yếu của liên minh giai cấp, tầng lớp và các nội dung cơ bản của liên minh chính trị, kinh tế, văn hóa - xã hội.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: hiểu cơ cấu xã hội - giai cấp biến đổi do nền kinh tế nhiều thành phần, giai cấp công nhân giữ vai trò chủ đạo, và liên minh công nhân - nông dân - trí thức là yêu cầu khách quan trong thời kỳ quá độ.",
       "children": [
         {
           "id": "ch5_1",
-          "name": "Vai trò đại đoàn kết",
+          "name": "Sự biến đổi của cơ cấu xã hội - giai cấp",
           "level": 2,
-          "color": "#eab308",
-          "description": "Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng. Đoàn kết tạo nên sức mạnh tổng hợp để vượt qua khó khăn và giành thắng lợi.",
+          "color": "#8b5cf6",
+          "description": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi liên tục, đa dạng và phức tạp do nền kinh tế có nhiều thành phần kinh tế.",
           "meaning": "",
           "children": [
             {
               "id": "ch5_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Nguyên nhân biến đổi",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng. Đoàn kết tạo nên sức mạnh tổng hợp để vượt qua khó khăn và giành thắng lợi.",
+              "description": "Sự tồn tại của nền kinh tế nhiều thành phần trong thời kỳ quá độ làm cho cơ cấu xã hội - giai cấp biến đổi liên tục, đa dạng và phức tạp.",
               "meaning": ""
             },
             {
               "id": "ch5_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Xu hướng biến đổi chính",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Các giai cấp, tầng lớp có xu hướng xích lại gần nhau hơn về địa vị kinh tế, chính trị và văn hóa.",
+              "meaning": ""
+            },
+            {
+              "id": "ch5_1_c",
+              "name": "Vai trò chủ đạo của giai cấp công nhân",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Trong quá trình biến đổi cơ cấu xã hội - giai cấp, giai cấp công nhân giữ vai trò chủ đạo.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch5_2",
-          "name": "Lực lượng và hình thức tổ chức",
+          "name": "Tính tất yếu của liên minh giai cấp, tầng lớp",
           "level": 2,
-          "color": "#eab308",
-          "description": "Chủ thể đại đoàn kết là toàn thể nhân dân Việt Nam yêu nước. Hình thức tổ chức tiêu biểu là Mặt trận dân tộc thống nhất, đặt dưới sự lãnh đạo của Đảng và hoạt động trên nền tảng lợi ích dân tộc.",
+          "color": "#8b5cf6",
+          "description": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ là tất yếu cả về chính trị và kinh tế.",
           "meaning": "",
           "children": [
             {
               "id": "ch5_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Tính tất yếu chính trị",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Chủ thể đại đoàn kết là toàn thể nhân dân Việt Nam yêu nước. Hình thức tổ chức tiêu biểu là Mặt trận dân tộc thống nhất, đặt dưới sự lãnh đạo của Đảng và hoạt động trên nền tảng lợi ích dân tộc.",
+              "description": "Liên minh tạo lực lượng chính trị hùng hậu để giành và giữ vững chính quyền.",
               "meaning": ""
             },
             {
               "id": "ch5_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Tính tất yếu kinh tế",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Liên minh xuất phát từ yêu cầu gắn kết khách quan giữa công nghiệp, nông nghiệp và khoa học công nghệ trong quá trình sản xuất.",
+              "meaning": ""
+            },
+            {
+              "id": "ch5_2_c",
+              "name": "Các lực lượng trong liên minh",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Công nhân gắn với công nghiệp, nông dân gắn với nông nghiệp, trí thức gắn với khoa học công nghệ.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch5_3",
-          "name": "Nguyên tắc đoàn kết",
+          "name": "Nội dung của liên minh giai cấp, tầng lớp",
           "level": 2,
-          "color": "#eab308",
-          "description": "Đoàn kết phải dựa trên mục tiêu chung, lấy lợi ích tối cao của dân tộc và quyền lợi cơ bản của nhân dân làm điểm tương đồng; vừa đoàn kết rộng rãi, vừa đấu tranh với những biểu hiện chia rẽ, hẹp hòi.",
+          "color": "#8b5cf6",
+          "description": "Nội dung liên minh gồm liên minh chính trị, liên minh kinh tế và liên minh văn hóa - xã hội; trong đó liên minh kinh tế là nội dung cơ bản quyết định nhất.",
           "meaning": "",
           "children": [
             {
               "id": "ch5_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Liên minh chính trị",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Đoàn kết phải dựa trên mục tiêu chung, lấy lợi ích tối cao của dân tộc và quyền lợi cơ bản của nhân dân làm điểm tương đồng; vừa đoàn kết rộng rãi, vừa đấu tranh với những biểu hiện chia rẽ, hẹp hòi.",
+              "description": "Giữ vững sự lãnh đạo của Đảng, bảo vệ chế độ và củng cố khối lực lượng chính trị của nhân dân.",
               "meaning": ""
             },
             {
               "id": "ch5_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Liên minh kinh tế",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
-              "meaning": ""
-            }
-          ]
-        },
-        {
-          "id": "ch5_4",
-          "name": "Đoàn kết quốc tế",
-          "level": 2,
-          "color": "#eab308",
-          "description": "Đoàn kết quốc tế là kết hợp sức mạnh dân tộc với sức mạnh thời đại; tranh thủ sự đồng tình, ủng hộ của các lực lượng tiến bộ, đồng thời tôn trọng độc lập, tự chủ, hữu nghị và hợp tác.",
-          "meaning": "",
-          "children": [
-            {
-              "id": "ch5_4_a",
-              "name": "Ý chính cần nhớ",
-              "level": 3,
-              "color": "#ca8a04",
-              "description": "Đoàn kết quốc tế là kết hợp sức mạnh dân tộc với sức mạnh thời đại; tranh thủ sự đồng tình, ủng hộ của các lực lượng tiến bộ, đồng thời tôn trọng độc lập, tự chủ, hữu nghị và hợp tác.",
+              "description": "Đây là nội dung cơ bản quyết định nhất, thể hiện ở hợp tác trong sản xuất, kinh doanh, phân phối lợi ích hài hòa và nâng cao đời sống.",
               "meaning": ""
             },
             {
-              "id": "ch5_4_b",
-              "name": "Gợi ý ôn tập",
+              "id": "ch5_3_c",
+              "name": "Liên minh văn hóa - xã hội",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Xây dựng nếp sống văn minh, phát triển giáo dục, y tế và nâng cao đời sống văn hóa - xã hội của nhân dân.",
               "meaning": ""
             }
           ]
@@ -594,115 +544,220 @@
     },
     {
       "id": "ch6",
-      "name": "CHƯƠNG VI: TƯ TƯỞNG HỒ CHÍ MINH VỀ VĂN HÓA, ĐẠO ĐỨC, CON NGƯỜI",
-      "shortName": "Văn hóa, đạo đức, con người",
+      "name": "CHƯƠNG VI: VẤN ĐỀ DÂN TỘC VÀ TÔN GIÁO TRONG THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI",
+      "shortName": "Dân tộc và tôn giáo",
       "level": 1,
       "color": "#ef4444",
       "icon": "macimg.png",
-      "description": "<b>Chương VI</b> trình bày tư tưởng Hồ Chí Minh về văn hóa, đạo đức và con người. Nội dung trọng tâm là xây dựng nền văn hóa mới, đạo đức cách mạng và con người Việt Nam phát triển toàn diện.",
+      "description": "<b>Chương VI</b> trình bày vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội, bao gồm hai xu hướng khách quan của phong trào dân tộc, Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, bản chất tôn giáo, nguyên nhân tồn tại của tôn giáo và nguyên tắc giải quyết vấn đề tôn giáo.",
       "vietnam_example": "",
-      "meaning": "",
+      "meaning": "Trọng tâm: nắm ba nguyên tắc trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, hiểu bản chất và nguyên nhân tồn tại của tôn giáo, đồng thời phân biệt mặt chính trị và mặt tư tưởng trong giải quyết vấn đề tôn giáo.",
       "children": [
         {
           "id": "ch6_1",
-          "name": "Tư tưởng về văn hóa",
+          "name": "Vấn đề dân tộc",
           "level": 2,
-          "color": "#ef4444",
-          "description": "Văn hóa có quan hệ chặt chẽ với chính trị, kinh tế, xã hội; vừa là mục tiêu, vừa là động lực của cách mạng. Hồ Chí Minh chủ trương xây dựng nền văn hóa dân tộc, khoa học, đại chúng.",
+          "color": "#14b8a6",
+          "description": "Vấn đề dân tộc trong thời kỳ quá độ cần được nhìn nhận qua hai xu hướng khách quan của phong trào dân tộc và Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin.",
           "meaning": "",
           "children": [
             {
               "id": "ch6_1_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Xu hướng tách ra",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Văn hóa có quan hệ chặt chẽ với chính trị, kinh tế, xã hội; vừa là mục tiêu, vừa là động lực của cách mạng. Hồ Chí Minh chủ trương xây dựng nền văn hóa dân tộc, khoa học, đại chúng.",
+              "description": "Các cộng đồng dân cư muốn tách ra để thành lập các quốc gia độc lập, thể hiện rõ ở giai đoạn đầu của chủ nghĩa tư bản.",
               "meaning": ""
             },
             {
               "id": "ch6_1_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Xu hướng liên hiệp lại",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Các dân tộc muốn xóa bỏ hàng rào biệt lập để xích lại gần nhau, mở rộng thị trường, thể hiện rõ trong thời đại hiện nay.",
+              "meaning": ""
+            },
+            {
+              "id": "ch6_1_c",
+              "name": "Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Cương lĩnh gồm ba nguyên tắc: các dân tộc hoàn toàn bình đẳng; các dân tộc được quyền tự quyết; liên hiệp công nhân tất cả các dân tộc.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch6_2",
-          "name": "Tư tưởng về đạo đức",
+          "name": "Vấn đề tôn giáo",
           "level": 2,
-          "color": "#ef4444",
-          "description": "Đạo đức là gốc của người cách mạng. Những chuẩn mực cơ bản gồm trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chí công vô tư; thương yêu con người; tinh thần quốc tế trong sáng.",
+          "color": "#14b8a6",
+          "description": "Tôn giáo là một hình thái ý thức xã hội phản ánh hư ảo, hoang đường hiện thực khách quan vào đầu óc con người và có tính lịch sử.",
           "meaning": "",
           "children": [
             {
               "id": "ch6_2_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Bản chất tôn giáo",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Đạo đức là gốc của người cách mạng. Những chuẩn mực cơ bản gồm trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chí công vô tư; thương yêu con người; tinh thần quốc tế trong sáng.",
+              "description": "Tôn giáo phản ánh hiện thực khách quan một cách hư ảo, hoang đường; tôn giáo có tính lịch sử và sẽ mất đi khi các nguyên nhân sinh ra nó tiêu vong.",
               "meaning": ""
             },
             {
               "id": "ch6_2_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Nguyên nhân tồn tại trong thời kỳ quá độ",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Tôn giáo còn tồn tại do nguyên nhân kinh tế, nhận thức, tâm lý - văn hóa và chính trị, trong đó có việc bị các thế lực thù địch lợi dụng.",
               "meaning": ""
             }
           ]
         },
         {
           "id": "ch6_3",
-          "name": "Nguyên tắc rèn luyện đạo đức",
+          "name": "Nguyên tắc giải quyết vấn đề tôn giáo",
           "level": 2,
-          "color": "#ef4444",
-          "description": "Rèn luyện đạo đức phải nói đi đôi với làm, nêu gương; xây đi đôi với chống; tu dưỡng suốt đời trong học tập, lao động, quan hệ với nhân dân và trong tự phê bình, phê bình.",
+          "color": "#14b8a6",
+          "description": "Giải quyết vấn đề tôn giáo trong thời kỳ quá độ phải tôn trọng quyền tự do tín ngưỡng, khắc phục dần ảnh hưởng tiêu cực và phân biệt rõ mặt chính trị với mặt tư tưởng.",
           "meaning": "",
           "children": [
             {
               "id": "ch6_3_a",
-              "name": "Ý chính cần nhớ",
+              "name": "Tôn trọng tự do tín ngưỡng và không tín ngưỡng",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Rèn luyện đạo đức phải nói đi đôi với làm, nêu gương; xây đi đôi với chống; tu dưỡng suốt đời trong học tập, lao động, quan hệ với nhân dân và trong tự phê bình, phê bình.",
+              "description": "Tôn trọng và bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của công dân.",
               "meaning": ""
             },
             {
               "id": "ch6_3_b",
-              "name": "Gợi ý ôn tập",
+              "name": "Khắc phục ảnh hưởng tiêu cực",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Khắc phục dần ảnh hưởng tiêu cực của tôn giáo gắn với cải tạo xã hội cũ, xây dựng xã hội mới; không dùng biện pháp hành chính cưỡng bức để xóa bỏ tôn giáo.",
+              "meaning": ""
+            },
+            {
+              "id": "ch6_3_c",
+              "name": "Phân biệt mặt chính trị và mặt tư tưởng",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Mặt chính trị là việc lợi dụng tôn giáo chống phá cần đấu tranh xử lý; mặt tư tưởng là niềm tin tôn giáo cần vận động, giáo dục.",
+              "meaning": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch7",
+      "name": "CHƯƠNG VII: VẤN ĐỀ GIA ĐÌNH TRONG THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI",
+      "shortName": "Gia đình trong thời kỳ quá độ",
+      "level": 1,
+      "color": "#ec4899",
+      "icon": "vietnam.png",
+      "description": "<b>Chương VII</b> trình bày các chức năng cơ bản của gia đình và những cơ sở xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội, bao gồm cơ sở kinh tế - xã hội, chính trị - xã hội, văn hóa và chế độ hôn nhân tiến bộ.",
+      "vietnam_example": "",
+      "meaning": "Trọng tâm: nắm bốn chức năng cơ bản của gia đình, hiểu các cơ sở xây dựng gia đình mới trong thời kỳ quá độ và đặc điểm của chế độ hôn nhân tiến bộ.",
+      "children": [
+        {
+          "id": "ch7_1",
+          "name": "Chức năng của gia đình",
+          "level": 2,
+          "color": "#ec4899",
+          "description": "Gia đình có các chức năng cơ bản: tái sản xuất ra con người, nuôi dưỡng và giáo dục, kinh tế và tổ chức tiêu dùng, thỏa mãn nhu cầu tâm - sinh lý và duy trì tình cảm.",
+          "meaning": "",
+          "children": [
+            {
+              "id": "ch7_1_a",
+              "name": "Tái sản xuất ra con người",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Gia đình duy trì nòi giống và cung cấp sức lao động cho xã hội.",
+              "meaning": ""
+            },
+            {
+              "id": "ch7_1_b",
+              "name": "Nuôi dưỡng, giáo dục",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Gia đình góp phần hình thành nhân cách cho thế hệ trẻ thông qua chăm sóc, nuôi dưỡng và giáo dục.",
+              "meaning": ""
+            },
+            {
+              "id": "ch7_1_c",
+              "name": "Kinh tế, tiêu dùng và tình cảm",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Gia đình là đơn vị kinh tế tiêu dùng cơ bản, đồng thời thỏa mãn nhu cầu tâm - sinh lý và duy trì tình cảm giữa các thành viên.",
               "meaning": ""
             }
           ]
         },
         {
-          "id": "ch6_4",
-          "name": "Tư tưởng về con người",
+          "id": "ch7_2",
+          "name": "Cơ sở xây dựng gia đình trong thời kỳ quá độ",
           "level": 2,
-          "color": "#ef4444",
-          "description": "Con người vừa là mục tiêu, vừa là động lực của cách mạng. Xây dựng con người mới là nhiệm vụ lâu dài, gắn với giáo dục, bồi dưỡng thế hệ trẻ, phát huy nhân dân và chiến lược trồng người.",
+          "color": "#ec4899",
+          "description": "Gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội được xây dựng trên các cơ sở kinh tế - xã hội, chính trị - xã hội, văn hóa và chế độ hôn nhân tiến bộ.",
           "meaning": "",
           "children": [
             {
-              "id": "ch6_4_a",
-              "name": "Ý chính cần nhớ",
+              "id": "ch7_2_a",
+              "name": "Cơ sở kinh tế - xã hội",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Con người vừa là mục tiêu, vừa là động lực của cách mạng. Xây dựng con người mới là nhiệm vụ lâu dài, gắn với giáo dục, bồi dưỡng thế hệ trẻ, phát huy nhân dân và chiến lược trồng người.",
+              "description": "Xóa bỏ chế độ tư hữu, thiết lập chế độ công hữu tư liệu sản xuất, góp phần giải phóng phụ nữ khỏi sự lệ thuộc kinh tế vào đàn ông.",
               "meaning": ""
             },
             {
-              "id": "ch6_4_b",
-              "name": "Gợi ý ôn tập",
+              "id": "ch7_2_b",
+              "name": "Cơ sở chính trị - xã hội",
               "level": 3,
               "color": "#ca8a04",
-              "description": "Khi ôn phần này, hãy trả lời được: khái niệm trung tâm là gì, vì sao nội dung này quan trọng trong tư tưởng Hồ Chí Minh, và có thể vận dụng như thế nào trong nhận thức, học tập hoặc thực tiễn hiện nay.",
+              "description": "Thiết lập nhà nước xã hội chủ nghĩa và hệ thống pháp luật bảo vệ quyền bình đẳng giới, quyền trẻ em và quyền của các thành viên gia đình.",
+              "meaning": ""
+            },
+            {
+              "id": "ch7_2_c",
+              "name": "Cơ sở văn hóa",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Nâng cao trình độ dân trí, hình thành các giá trị đạo đức tiến bộ mới trong gia đình và xã hội.",
+              "meaning": ""
+            }
+          ]
+        },
+        {
+          "id": "ch7_3",
+          "name": "Chế độ hôn nhân tiến bộ",
+          "level": 2,
+          "color": "#ec4899",
+          "description": "Chế độ hôn nhân tiến bộ gồm hôn nhân tự nguyện dựa trên tình yêu, một vợ một chồng, vợ chồng bình đẳng và hôn nhân được bảo đảm về mặt pháp lý.",
+          "meaning": "",
+          "children": [
+            {
+              "id": "ch7_3_a",
+              "name": "Hôn nhân tự nguyện, tiến bộ",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Hôn nhân dựa trên tình yêu và sự tự nguyện của nam nữ.",
+              "meaning": ""
+            },
+            {
+              "id": "ch7_3_b",
+              "name": "Một vợ một chồng, bình đẳng",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Hôn nhân tiến bộ bảo đảm chế độ một vợ một chồng và sự bình đẳng giữa vợ và chồng.",
+              "meaning": ""
+            },
+            {
+              "id": "ch7_3_c",
+              "name": "Bảo đảm pháp lý",
+              "level": 3,
+              "color": "#ca8a04",
+              "description": "Hôn nhân phải được bảo đảm về mặt pháp lý thông qua đăng ký kết hôn.",
               "meaning": ""
             }
           ]

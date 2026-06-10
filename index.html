@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HCM202 — Tư tưởng Hồ Chí Minh</title>
+    <title>MLN131 — Chủ nghĩa xã hội khoa học</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
@@ -1583,8 +1583,8 @@
                 <img src="vietnam1.png" alt="Icon">
             </div>
             <div class="logo-text">
-                <div class="main-title">TƯ TƯỞNG HỒ CHÍ MINH</div>
-                <div class="sub-title">HCM202</div>
+                <div class="main-title">CHỦ NGHĨA XÃ HỘI KHOA HỌC</div>
+                <div class="sub-title">MLN131</div>
             </div>
         </div>
 
@@ -1600,6 +1600,8 @@
             <div class="nav-item" data-branch="ch5">Chương V</div>
             <div class="nav-sep">•</div>
             <div class="nav-item" data-branch="ch6">Chương VI</div>
+            <div class="nav-sep">•</div>
+            <div class="nav-item" data-branch="ch7">Chương VII</div>
             <div class="nav-sep-alt"></div>
             <div class="nav-item nav-item-timeline" id="nav-timeline-btn">
                 <i class="bi bi-grid-3x3-gap-fill"></i> Mục lục
@@ -1634,6 +1636,7 @@
             <div class="timeline-mark" data-id="ch4" title="Chương IV"><span class="timeline-label">IV</span></div>
             <div class="timeline-mark" data-id="ch5" title="Chương V"><span class="timeline-label">V</span></div>
             <div class="timeline-mark" data-id="ch6" title="Chương VI"><span class="timeline-label">VI</span></div>
+            <div class="timeline-mark" data-id="ch7" title="Chương VII"><span class="timeline-label">VII</span></div>
         </div>
     </div>
 
@@ -1676,12 +1679,12 @@
         <div id="quiz-box">
             <button class="quiz-close-top" title="Đóng cửa sổ"><i class="bi bi-x"></i></button>
             <div id="quiz-start">
-                <h2>Thi thử HCM202 - Tư tưởng Hồ Chí Minh</h2>
+                <h2>Thi thử MLN131 - Chủ nghĩa xã hội khoa học</h2>
                 <p>Chọn chủ đề để bắt đầu. Hệ thống sẽ chọn ngẫu nhiên <strong>20 câu mỗi lần</strong>.</p>
                 <div class="topic-grid">
                     <div class="topic-card" onclick="startQuizByTopic(1)">
                         <h3>Chương I: Khái niệm, đối tượng, phương pháp nghiên cứu</h3>
-                        <p>Nhập môn Tư tưởng Hồ Chí Minh và ý nghĩa học tập.</p>
+                        <p>Hoàn cảnh ra đời, vai trò của Mác - Ăngghen và đối tượng nghiên cứu.</p>
                     </div>
                     <div class="topic-card" onclick="startQuizByTopic(2)">
                         <h3>Chương II: Cơ sở, quá trình hình thành và phát triển</h3>
@@ -1703,9 +1706,13 @@
                         <h3>Chương VI: Văn hóa, đạo đức, con người</h3>
                         <p>Văn hóa mới, đạo đức cách mạng và chiến lược xây dựng con người.</p>
                     </div>
+                    <div class="topic-card" onclick="startQuizByTopic(7)">
+                        <h3>Chương VII: Vấn đề gia đình trong thời kỳ quá độ</h3>
+                        <p>Chức năng gia đình, cơ sở xây dựng gia đình và hôn nhân tiến bộ.</p>
+                    </div>
                     <div class="topic-card general" onclick="startQuizByTopic('all')">
                         <h3>Tổng ôn tập toàn bộ kiến thức</h3>
-                        <p>Random 20 câu từ ngân hàng HCM202 của cả 6 chương.</p>
+                        <p>Random 20 câu từ ngân hàng MLN131 của cả 7 chương.</p>
                     </div>
                 </div>
             </div>
@@ -1745,12 +1752,12 @@
         <div class="chat-header">
             <div class="header-info">
                 <i class="bi bi-robot"></i>
-                <span>Trợ lý AI - HCM202</span>
+                <span>Trợ lý AI - MLN131</span>
             </div>
             <button id="close-chat"><i class="bi bi-x-lg"></i></button>
         </div>
         <div id="chat-messages">
-            <div class="message system">Chào bạn! Tôi có thể giúp gì cho bạn về học phần Tư tưởng Hồ Chí Minh?</div>
+            <div class="message system">Chào bạn! Tôi có thể giúp gì cho bạn về học phần MLN131 - Chủ nghĩa xã hội khoa học?</div>
         </div>
         <div class="chat-input-area">
             <input type="text" id="chat-input" placeholder="Nhập câu hỏi của bạn...">

@@ -1,5 +1,5 @@
 /**
- * HCM202 Map — Tư tưởng Hồ Chí Minh
+ * MLN131 Map — Chủ nghĩa xã hội khoa học
  * Full-featured: Mind Map + Progress Tracking + Quiz System
  */
 document.addEventListener('DOMContentLoaded', async function () {
@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     const labels = branchData.map(function (branch, i) {
       const angle = (-90 + (360 / branchData.length) * i) * Math.PI / 180;
       return {
-        text: 'Chương ' + ['I', 'II', 'III', 'IV', 'V', 'VI'][i],
+        text: 'Chương ' + ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII'][i],
         x: Math.cos(angle) * radius,
         y: Math.sin(angle) * radius
       };
@@ -898,7 +898,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     let qData = [];
     try {
       if (topic === 'all') {
-        const indices = [1, 2, 3, 4, 5, 6];
+        const indices = [1, 2, 3, 4, 5, 6, 7];
         const loads = indices.map(i => d3.json(`chapter${i}.json`));
         const results = await Promise.all(loads);
         qData = results.flat();
@@ -1055,7 +1055,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     }
 
     const topics = wrongQuestions.map(q => q.question).join(", ");
-    const prompt = `Người dùng vừa làm bài thi trắc nghiệm HCM202 - Tư tưởng Hồ Chí Minh.
+    const prompt = `Người dùng vừa làm bài thi trắc nghiệm MLN131 - Chủ nghĩa xã hội khoa học.
     Kết quả: đúng ${correct}/${total} câu.
     Những nội dung người dùng trả lời sai hoặc chưa vững: ${topics}.
     Hãy đưa ra lời khuyên ngắn gọn (khoảng 3-4 câu), tập trung vào những mảng kiến thức cần ôn tập lại và động viên người dùng.
@@ -1067,7 +1067,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           messages: [
-            { role: 'system', content: 'Bạn là chuyên gia về học phần HCM202 - Tư tưởng Hồ Chí Minh, hãy phân tích kết quả thi và đưa ra lời khuyên học tập.' },
+            { role: 'system', content: 'Bạn là chuyên gia về học phần MLN131 - Chủ nghĩa xã hội khoa học, hãy phân tích kết quả thi và đưa ra lời khuyên học tập.' },
             { role: 'user', content: prompt }
           ]
         })
@@ -1116,7 +1116,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     let chatHistory = [
       {
         role: 'system',
-        content: 'Bạn là một trợ lý học tập am hiểu học phần HCM202 - Tư tưởng Hồ Chí Minh. Bạn chỉ trả lời các câu hỏi liên quan đến Tư tưởng Hồ Chí Minh, cuộc đời và sự nghiệp Hồ Chí Minh, hoặc nội dung 6 chương của giáo trình HCM202. Với câu hỏi ngoài phạm vi này, hãy lịch sự từ chối và nhắc rằng bạn tập trung hỗ trợ học phần HCM202.'
+        content: 'Bạn là một trợ lý học tập am hiểu học phần MLN131 - Chủ nghĩa xã hội khoa học. Bạn chỉ trả lời các câu hỏi liên quan đến Chủ nghĩa xã hội khoa học hoặc nội dung 7 chương của học phần MLN131. Với câu hỏi ngoài phạm vi này, hãy lịch sự từ chối và nhắc rằng bạn tập trung hỗ trợ học phần MLN131 - Chủ nghĩa xã hội khoa học.'
       }
     ];
 

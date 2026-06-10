@@ -2,261 +2,261 @@
   {
     "id": 201,
     "chapter": 2,
-    "question": "Thực tiễn Việt Nam cuối thế kỷ XIX đầu thế kỷ XX đặt ra yêu cầu gì?",
+    "question": "Về phương thức lao động, giai cấp công nhân là những người trực tiếp hoặc gián tiếp vận hành các công cụ sản xuất có đặc điểm gì?",
     "options": [
-      "Tìm con đường cứu nước mới",
-      "Duy trì nguyên trạng chế độ thuộc địa",
-      "Từ bỏ độc lập dân tộc",
-      "Chỉ cải cách văn hóa"
+      "Có tính chất thủ công, lạc hậu và quy mô nhỏ gia đình",
+      "Có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao",
+      "Mang tính độc lập tuyệt đối và không phụ thuộc vào công nghệ",
+      "Chủ yếu dựa trên sức người và công cụ thô sơ"
     ],
-    "answer": 0,
-    "explain": "Các phong trào yêu nước cũ thất bại đặt ra yêu cầu tìm đường cứu nước mới."
+    "answer": 1,
+    "explain": "Về phương thức lao động, giai cấp công nhân trực tiếp hoặc gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao."
   },
   {
     "id": 202,
     "chapter": 2,
-    "question": "Sự kiện thế giới nào ảnh hưởng sâu sắc đến con đường cách mạng của Hồ Chí Minh?",
+    "question": "Trong chế độ tư bản chủ nghĩa, vị trí của giai cấp công nhân trong hệ thống quan hệ sản xuất được biểu hiện như thế nào?",
     "options": [
-      "Chiến tranh Nam - Bắc Hoa Kỳ",
-      "Cách mạng Tháng Mười Nga năm 1917",
-      "Cách mạng công nghiệp Anh lần thứ nhất",
-      "Sự thành lập Liên minh châu Âu"
+      "Là những người sở hữu phần lớn tư liệu sản xuất của xã hội",
+      "Là những người không có tư liệu sản xuất, phải bán sức lao động và bị bóc lột giá trị thặng dư",
+      "Là giai cấp nắm giữ huyết mạch kinh tế và điều hành bộ máy nhà nước tư sản",
+      "Là những người lao động tự do, tự làm chủ tư liệu sản xuất của chính mình"
     ],
     "answer": 1,
-    "explain": "Cách mạng Tháng Mười mở ra thời đại mới và con đường giải phóng cho các dân tộc bị áp bức."
+    "explain": "Dưới chế độ tư bản chủ nghĩa, công nhân không có tư liệu sản xuất, phải bán sức lao động cho nhà tư bản và bị bóc lột giá trị thặng dư."
   },
   {
     "id": 203,
     "chapter": 2,
-    "question": "Nguồn gốc lý luận trực tiếp và chủ yếu của Tư tưởng Hồ Chí Minh là gì?",
+    "question": "Đặc điểm chính trị - xã hội nào sau đây không phải của giai cấp công nhân?",
     "options": [
-      "Chủ nghĩa dân túy",
-      "Chủ nghĩa vị lợi",
-      "Chủ nghĩa Mác - Lênin",
-      "Chủ nghĩa biệt lập"
+      "Có tính tổ chức và kỷ luật cao",
+      "Có tinh thần cách mạng triệt để",
+      "Mang tính ích kỷ và bảo thủ giai cấp",
+      "Có bản chất quốc tế"
     ],
     "answer": 2,
-    "explain": "Chủ nghĩa Mác - Lênin là nguồn gốc lý luận trực tiếp, chủ yếu."
+    "explain": "Đặc điểm chính trị - xã hội của giai cấp công nhân gồm tính tổ chức, kỷ luật cao, tinh thần cách mạng triệt để và bản chất quốc tế."
   },
   {
     "id": 204,
     "chapter": 2,
-    "question": "Truyền thống tốt đẹp nào của dân tộc Việt Nam có vai trò nổi bật trong hình thành Tư tưởng Hồ Chí Minh?",
+    "question": "Trong nội dung sứ mệnh lịch sử về mặt kinh tế, giai cấp công nhân xác lập quan hệ sản xuất mới dựa trên chế độ nào?",
     "options": [
-      "Tâm lý cục bộ địa phương",
-      "Tư tưởng cam chịu nô lệ",
-      "Thói quen khép kín văn hóa",
-      "Chủ nghĩa yêu nước"
+      "Chế độ tư hữu tư nhân tư bản chủ nghĩa",
+      "Chế độ công hữu tư liệu sản xuất",
+      "Chế độ chiếm hữu nô lệ",
+      "Chế độ tư hữu nhỏ của người sản xuất hàng hóa tập thể"
     ],
-    "answer": 3,
-    "explain": "Chủ nghĩa yêu nước là giá trị xuyên suốt và động lực ban đầu."
+    "answer": 1,
+    "explain": "Về kinh tế, sứ mệnh lịch sử của giai cấp công nhân gắn với xác lập quan hệ sản xuất mới dựa trên chế độ công hữu tư liệu sản xuất."
   },
   {
     "id": 205,
     "chapter": 2,
-    "question": "Hồ Chí Minh tiếp thu tinh hoa văn hóa nhân loại theo cách nào?",
+    "question": "Nội dung sứ mệnh lịch sử của giai cấp công nhân về mặt chính trị - xã hội bao gồm nhiệm vụ nào?",
     "options": [
-      "Chọn lọc, phê phán, kế thừa những giá trị tiến bộ",
-      "Sao chép nguyên xi mọi học thuyết",
-      "Phủ nhận toàn bộ văn hóa phương Đông",
-      "Chỉ tiếp thu kỹ thuật quân sự"
+      "Tiến hành cách mạng giành chính quyền, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ, xây dựng xã hội mới",
+      "Duy trì nguyên vẹn bộ máy nhà nước tư sản để quản lý xã hội",
+      "Thỏa hiệp với giai cấp tư sản để cùng chia sẻ quyền lực chính trị",
+      "Xóa bỏ mọi hình thức nhà nước ngay lập tức mà không cần giai đoạn quá độ"
     ],
     "answer": 0,
-    "explain": "Người tiếp thu có chọn lọc, phát triển các giá trị phù hợp cách mạng Việt Nam."
+    "explain": "Về chính trị - xã hội, giai cấp công nhân có sứ mệnh giành chính quyền, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ và xây dựng xã hội mới."
   },
   {
     "id": 206,
     "chapter": 2,
-    "question": "Yếu tố chủ quan nào góp phần quyết định sự hình thành Tư tưởng Hồ Chí Minh?",
+    "question": "Về nội dung văn hóa, tư tưởng, giai cấp công nhân có sứ mệnh xây dựng hệ tư tưởng mới nào làm nền tảng?",
     "options": [
-      "Xuất thân quý tộc",
-      "Phẩm chất, trí tuệ, bản lĩnh và hoạt động thực tiễn của Hồ Chí Minh",
-      "May mắn ngẫu nhiên",
-      "Sự áp đặt của nước ngoài"
+      "Chủ nghĩa sinh thái học hiện đại",
+      "Triết học duy tâm cổ điển Đức",
+      "Chủ nghĩa Mác - Lênin",
+      "Học thuyết kinh tế tự do mới"
     ],
-    "answer": 1,
-    "explain": "Nhân cách, trí tuệ và thực tiễn hoạt động phong phú của Người có vai trò quyết định."
+    "answer": 2,
+    "explain": "Sứ mệnh văn hóa, tư tưởng của giai cấp công nhân là xây dựng hệ tư tưởng mới, lấy chủ nghĩa Mác - Lênin làm nền tảng."
   },
   {
     "id": 207,
     "chapter": 2,
-    "question": "Giai đoạn trước năm 1911 trong quá trình hình thành Tư tưởng Hồ Chí Minh có đặc điểm gì?",
+    "question": "Địa vị kinh tế và địa vị chính trị - xã hội của giai cấp công nhân cấu thành điều kiện nào trong việc thực hiện sứ mệnh lịch sử?",
     "options": [
-      "Hoàn thiện toàn bộ đường lối cách mạng vô sản",
-      "Sáng lập Đảng Cộng sản Việt Nam",
-      "Hình thành lòng yêu nước và chí hướng cứu nước",
-      "Lãnh đạo kháng chiến chống Mỹ"
+      "Điều kiện chủ quan",
+      "Điều kiện khách quan",
+      "Nhân tố quyết định nhất",
+      "Điều kiện tiền đề văn hóa"
     ],
-    "answer": 2,
-    "explain": "Trước 1911, Nguyễn Tất Thành hình thành lòng yêu nước và ý chí tìm đường cứu nước."
+    "answer": 1,
+    "explain": "Điều kiện khách quan gồm địa vị kinh tế và địa vị chính trị - xã hội của giai cấp công nhân."
   },
   {
     "id": 208,
     "chapter": 2,
-    "question": "Giai đoạn 1911-1920 có ý nghĩa gì đối với Nguyễn Ái Quốc?",
+    "question": "Nhân tố nào được coi là quyết định nhất trong các điều kiện chủ quan để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử?",
     "options": [
-      "Rút khỏi hoạt động chính trị",
-      "Hoàn thành xây dựng nhà nước mới",
-      "Lãnh đạo Tổng khởi nghĩa Tháng Tám",
-      "Tìm tòi và đến với con đường cách mạng vô sản"
+      "Sự tăng trưởng nhanh chóng về số lượng công nhân cơ khí",
+      "Sự sụp đổ tự phát của các tập đoàn tư bản độc quyền",
+      "Thành lập được Đảng Cộng sản - đội tiên phong của giai cấp công nhân, lấy chủ nghĩa Mác - Lênin làm kim chỉ nam",
+      "Sự viện trợ tài chính từ các tổ chức phi chính phủ quốc tế"
     ],
-    "answer": 3,
-    "explain": "Đây là giai đoạn Người khảo nghiệm thực tiễn thế giới và đến với chủ nghĩa Mác - Lênin."
+    "answer": 2,
+    "explain": "Nhân tố chủ quan quyết định nhất là thành lập được Đảng Cộng sản, đội tiên phong của giai cấp công nhân, lấy chủ nghĩa Mác - Lênin làm kim chỉ nam."
   },
   {
     "id": 209,
     "chapter": 2,
-    "question": "Năm 1920, Nguyễn Ái Quốc tiếp cận văn kiện nào có ý nghĩa bước ngoặt?",
+    "question": "Để thực hiện sứ mệnh lịch sử, giai cấp công nhân phải thực hiện khối liên minh với các tầng lớp nào?",
     "options": [
-      "Luận cương của Lênin về vấn đề dân tộc và thuộc địa",
-      "Tuyên ngôn độc lập Hoa Kỳ",
-      "Bộ luật Hồng Đức",
-      "Hiệp định Paris"
+      "Liên minh giữa công nhân, nông dân và các tầng lớp lao động khác",
+      "Liên minh giữa công nhân và các nhà tư bản công nghiệp lớn",
+      "Liên minh giữa công nhân và tầng lớp quý tộc phong kiến cũ",
+      "Liên minh giữa công nhân và các chủ bóc lột tài chính quốc tế"
     ],
     "answer": 0,
-    "explain": "Luận cương của Lênin giúp Người tìm thấy con đường giải phóng dân tộc."
+    "explain": "Giai cấp công nhân phải thực hiện khối liên minh giữa công nhân, nông dân và các tầng lớp lao động khác."
   },
   {
     "id": 210,
     "chapter": 2,
-    "question": "Giai đoạn 1921-1930 trong quá trình phát triển tư tưởng Hồ Chí Minh nổi bật ở điểm nào?",
+    "question": "Điểm khác biệt cốt lõi về địa vị chính trị - xã hội khiến giai cấp công nhân có tinh thần cách mạng triệt để là gì?",
     "options": [
-      "Kết thúc hoàn toàn sự nghiệp cách mạng",
-      "Hình thành cơ bản tư tưởng về cách mạng Việt Nam",
-      "Chỉ hoạt động văn hóa nghệ thuật",
-      "Không có hoạt động lý luận"
+      "Họ có số lượng đông đảo nhất trong mọi hình thái xã hội lịch sử",
+      "Họ là giai cấp tiên tiến, nghèo khổ nhất dưới chế độ cũ nhưng được rèn luyện tính tổ chức, kỷ luật cao thông qua nền đại công nghiệp",
+      "Họ không cần liên minh với bất kỳ ai vẫn có thể giành thắng lợi",
+      "Họ có nguồn tài sản tích lũy lớn từ phương thức sản xuất thủ công"
     ],
     "answer": 1,
-    "explain": "Giai đoạn này Người truyền bá chủ nghĩa Mác - Lênin và chuẩn bị thành lập Đảng."
+    "explain": "Do là giai cấp tiên tiến, bị áp bức trong chế độ cũ và được rèn luyện bởi nền đại công nghiệp, giai cấp công nhân có tinh thần cách mạng triệt để."
   },
   {
     "id": 211,
     "chapter": 2,
-    "question": "Sự ra đời của Đảng Cộng sản Việt Nam năm 1930 gắn với vai trò nào của Hồ Chí Minh?",
+    "question": "Theo khái niệm trong chương 2, giai cấp công nhân được xem xét từ những phương diện cơ bản nào?",
     "options": [
-      "Chỉ là người quan sát bên ngoài",
-      "Đại diện cho triều đình phong kiến",
-      "Chuẩn bị chính trị, tư tưởng, tổ chức và chủ trì hợp nhất các tổ chức cộng sản",
-      "Người phản đối thành lập Đảng"
+      "Phương thức lao động và vị trí trong hệ thống quan hệ sản xuất",
+      "Tuổi đời và nơi cư trú",
+      "Mức thu nhập và trình độ tiêu dùng",
+      "Tôn giáo và nguồn gốc gia đình"
     ],
-    "answer": 2,
-    "explain": "Hồ Chí Minh chuẩn bị và chủ trì Hội nghị thành lập Đảng."
+    "answer": 0,
+    "explain": "Khái niệm giai cấp công nhân được nhận diện qua phương thức lao động và vị trí trong hệ thống quan hệ sản xuất."
   },
   {
     "id": 212,
     "chapter": 2,
-    "question": "Trong các nguồn gốc tư tưởng, chủ nghĩa yêu nước có vai trò gì?",
+    "question": "Vì sao giai cấp công nhân là đại biểu cho lực lượng sản xuất tiên tiến?",
     "options": [
-      "Yếu tố không liên quan",
-      "Nguyên nhân làm Người xa rời dân tộc",
-      "Chỉ là khẩu hiệu hình thức",
-      "Cơ sở ban đầu và động lực thúc đẩy Hồ Chí Minh đến với chủ nghĩa Mác - Lênin"
+      "Vì gắn với nền đại công nghiệp hiện đại và quá trình xã hội hóa sản xuất",
+      "Vì tách khỏi mọi công cụ sản xuất hiện đại",
+      "Vì chỉ lao động trong sản xuất nhỏ thủ công",
+      "Vì sở hữu toàn bộ tư liệu sản xuất trong chủ nghĩa tư bản"
     ],
-    "answer": 3,
-    "explain": "Chủ nghĩa yêu nước là động lực ban đầu trên hành trình tìm đường cứu nước."
+    "answer": 0,
+    "explain": "Giai cấp công nhân gắn với nền sản xuất công nghiệp hiện đại, có tính xã hội hóa cao nên đại biểu cho lực lượng sản xuất tiên tiến."
   },
   {
     "id": 213,
     "chapter": 2,
-    "question": "Tinh hoa văn hóa phương Đông được Hồ Chí Minh tiếp thu chủ yếu ở phương diện nào?",
+    "question": "Trong chủ nghĩa tư bản, việc công nhân phải bán sức lao động cho nhà tư bản dẫn đến hệ quả nào?",
     "options": [
-      "Các giá trị nhân nghĩa, vị tha, tu dưỡng, hòa hợp với con người",
-      "Tư tưởng đẳng cấp bảo thủ",
-      "Quan niệm thần quyền tuyệt đối",
-      "Chủ nghĩa bành trướng"
+      "Bị bóc lột giá trị thặng dư",
+      "Trở thành chủ sở hữu tư liệu sản xuất",
+      "Không còn phụ thuộc vào quan hệ sản xuất",
+      "Tự động nắm quyền lực nhà nước"
     ],
     "answer": 0,
-    "explain": "Người tiếp thu những yếu tố tích cực của Nho giáo, Phật giáo, Lão giáo và các tư tưởng tiến bộ."
+    "explain": "Do không có tư liệu sản xuất, công nhân phải bán sức lao động và bị nhà tư bản bóc lột giá trị thặng dư."
   },
   {
     "id": 214,
     "chapter": 2,
-    "question": "Tinh hoa văn hóa phương Tây ảnh hưởng đến Hồ Chí Minh qua những giá trị nào?",
+    "question": "Nội dung kinh tế trong sứ mệnh lịch sử của giai cấp công nhân trước hết thể hiện ở vai trò nào?",
     "options": [
-      "Chủ nghĩa phân biệt chủng tộc",
-      "Tự do, bình đẳng, dân chủ, quyền con người và tinh thần cách mạng",
-      "Tư tưởng nô dịch thuộc địa",
-      "Lối sống hưởng lạc cực đoan"
+      "Nhân tố hàng đầu thúc đẩy lực lượng sản xuất phát triển",
+      "Lực lượng duy trì quan hệ sản xuất tư bản chủ nghĩa",
+      "Lực lượng phủ nhận mọi hình thức sản xuất xã hội",
+      "Nhân tố bảo vệ chế độ chiếm hữu nô lệ"
     ],
-    "answer": 1,
-    "explain": "Người tiếp thu các giá trị tiến bộ của văn hóa dân chủ và cách mạng phương Tây."
+    "answer": 0,
+    "explain": "Về kinh tế, giai cấp công nhân là nhân tố hàng đầu thúc đẩy lực lượng sản xuất phát triển."
   },
   {
     "id": 215,
     "chapter": 2,
-    "question": "Vì sao phong trào yêu nước cuối thế kỷ XIX đầu thế kỷ XX thất bại?",
+    "question": "Nhà nước chuyên chính vô sản trong nội dung sứ mệnh chính trị - xã hội được hiểu là nhà nước của ai?",
     "options": [
-      "Nhân dân không yêu nước",
-      "Không có kẻ thù xâm lược",
-      "Thiếu đường lối cứu nước đúng đắn và tổ chức lãnh đạo phù hợp thời đại",
-      "Do Việt Nam đã độc lập hoàn toàn"
+      "Nhà nước của nhân dân",
+      "Nhà nước riêng của giai cấp tư sản",
+      "Nhà nước của tầng lớp quý tộc phong kiến",
+      "Nhà nước của các tập đoàn tài chính độc quyền"
     ],
-    "answer": 2,
-    "explain": "Các phong trào rất anh dũng nhưng hạn chế về đường lối và hệ tư tưởng lãnh đạo."
+    "answer": 0,
+    "explain": "Trong nội dung chương, nhà nước chuyên chính vô sản được nêu là nhà nước của nhân dân."
   },
   {
     "id": 216,
     "chapter": 2,
-    "question": "Sự xuất hiện của giai cấp công nhân Việt Nam có ý nghĩa gì?",
+    "question": "Nội dung văn hóa, tư tưởng của sứ mệnh lịch sử giai cấp công nhân còn bao gồm nhiệm vụ nào?",
     "options": [
-      "Làm chấm dứt mọi mâu thuẫn dân tộc",
-      "Thay thế ngay nhà nước thuộc địa",
-      "Không liên quan đến cách mạng",
-      "Tạo điều kiện xã hội để chủ nghĩa Mác - Lênin gắn với phong trào yêu nước"
+      "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc và cải tạo tư tưởng lạc hậu cũ",
+      "Phủ nhận mọi giá trị văn hóa dân tộc",
+      "Duy trì hệ tư tưởng tư sản làm nền tảng duy nhất",
+      "Tách văn hóa ra khỏi quá trình xây dựng xã hội mới"
     ],
-    "answer": 3,
-    "explain": "Giai cấp công nhân là cơ sở xã hội quan trọng cho sự ra đời của Đảng."
+    "answer": 0,
+    "explain": "Giai cấp công nhân có nhiệm vụ xây dựng nền văn hóa tiên tiến, đậm đà bản sắc và cải tạo những tư tưởng lạc hậu cũ."
   },
   {
     "id": 217,
     "chapter": 2,
-    "question": "Tư tưởng Hồ Chí Minh hình thành như thế nào?",
+    "question": "Điều kiện khách quan về địa vị chính trị - xã hội của giai cấp công nhân được thể hiện như thế nào?",
     "options": [
-      "Qua quá trình lâu dài, gắn với hoạt động lý luận và thực tiễn phong phú",
-      "Được hình thành tức thời trong một ngày",
-      "Do sao chép nguyên xi từ nước ngoài",
-      "Không cần thực tiễn kiểm nghiệm"
+      "Là giai cấp tiên tiến, nghèo khổ nhất nhưng có tổ chức nhất",
+      "Là giai cấp sở hữu toàn bộ tư bản tài chính",
+      "Là tầng lớp đứng ngoài mọi quan hệ xã hội",
+      "Là lực lượng bảo thủ, phân tán và thiếu kỷ luật"
     ],
     "answer": 0,
-    "explain": "Tư tưởng Hồ Chí Minh phát triển qua nhiều giai đoạn và được kiểm nghiệm trong thực tiễn."
+    "explain": "Địa vị chính trị - xã hội quy định giai cấp công nhân là giai cấp tiên tiến, nghèo khổ nhất trong chế độ cũ nhưng có tổ chức nhất."
   },
   {
     "id": 218,
     "chapter": 2,
-    "question": "Nội dung nào thuộc cơ sở thực tiễn thế giới hình thành Tư tưởng Hồ Chí Minh?",
+    "question": "Điều kiện chủ quan đầu tiên để giai cấp công nhân thực hiện sứ mệnh lịch sử là gì?",
     "options": [
-      "Việt Nam ban hành Hiến pháp 2013",
-      "Chủ nghĩa tư bản chuyển sang giai đoạn đế quốc chủ nghĩa và phong trào giải phóng dân tộc phát triển",
-      "Cuộc cách mạng công nghệ số",
-      "Sự ra đời ASEAN"
+      "Sự phát triển về số lượng và chất lượng của giai cấp công nhân",
+      "Sự suy giảm vai trò của tổ chức chính trị",
+      "Sự tách rời khỏi nông dân và các tầng lớp lao động khác",
+      "Sự phụ thuộc vào hệ tư tưởng tư sản"
     ],
-    "answer": 1,
-    "explain": "Bối cảnh đế quốc chủ nghĩa và phong trào cách mạng thế giới tác động sâu sắc đến Người."
+    "answer": 0,
+    "explain": "Một điều kiện chủ quan quan trọng là giai cấp công nhân phải phát triển cả về số lượng và chất lượng."
   },
   {
     "id": 219,
     "chapter": 2,
-    "question": "Điểm sáng tạo của Hồ Chí Minh khi tiếp thu chủ nghĩa Mác - Lênin là gì?",
+    "question": "Đảng Cộng sản có vai trò gì đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân?",
     "options": [
-      "Sao chép máy móc mô hình nước khác",
-      "Tách khỏi vấn đề dân tộc",
-      "Vận dụng và phát triển phù hợp điều kiện cụ thể Việt Nam",
-      "Phủ nhận vai trò nhân dân"
+      "Là đội tiên phong, tổ chức và lãnh đạo giai cấp công nhân thực hiện sứ mệnh lịch sử",
+      "Là tổ chức thay thế hoàn toàn vai trò của quần chúng nhân dân",
+      "Là lực lượng duy trì sự thống trị của giai cấp tư sản",
+      "Là tổ chức phi chính trị không liên quan đến đấu tranh giai cấp"
     ],
-    "answer": 2,
-    "explain": "Người vận dụng sáng tạo chủ nghĩa Mác - Lênin vào cách mạng thuộc địa và Việt Nam."
+    "answer": 0,
+    "explain": "Đảng Cộng sản là đội tiên phong của giai cấp công nhân, giữ vai trò quyết định trong tổ chức và lãnh đạo thực hiện sứ mệnh lịch sử."
   },
   {
     "id": 220,
     "chapter": 2,
-    "question": "Nhận định nào đúng về nhân tố chủ quan Hồ Chí Minh?",
+    "question": "Nội dung trọng tâm của Chương 2 là gì?",
     "options": [
-      "Nhân tố cá nhân không có vai trò gì",
-      "Chỉ hoàn cảnh khách quan tạo nên tư tưởng",
-      "Người không hoạt động thực tiễn",
-      "Lòng yêu nước, thương dân và tư duy độc lập giúp Người chọn lọc, sáng tạo tư tưởng"
+      "Khái niệm, đặc điểm, nội dung và điều kiện thực hiện sứ mệnh lịch sử của giai cấp công nhân",
+      "Quy luật cung cầu của thị trường tư bản",
+      "Lịch sử các cuộc cách mạng tư sản châu Âu",
+      "Phương pháp quản trị doanh nghiệp hiện đại"
     ],
-    "answer": 3,
-    "explain": "Nhân tố chủ quan là điều kiện quyết định để chuyển hóa các nguồn gốc thành hệ thống tư tưởng."
+    "answer": 0,
+    "explain": "Chương 2 tập trung vào khái niệm và đặc điểm của giai cấp công nhân, nội dung sứ mệnh lịch sử và các điều kiện thực hiện sứ mệnh đó."
   }
 ]

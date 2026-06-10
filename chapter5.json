@@ -2,261 +2,261 @@
   {
     "id": 501,
     "chapter": 5,
-    "question": "Theo Hồ Chí Minh, đại đoàn kết toàn dân tộc có vai trò gì?",
+    "question": "Nguyên nhân cốt lõi nào làm cho cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội biến đổi liên tục, đa dạng và phức tạp?",
     "options": [
-      "Là vấn đề chiến lược quyết định thành công của cách mạng",
-      "Chỉ là sách lược tạm thời",
-      "Không liên quan đến thắng lợi cách mạng",
-      "Chỉ dùng trong ngoại giao"
+      "Do sự thay đổi khí hậu và địa lý tự nhiên.",
+      "Do nền kinh tế trong thời kỳ quá độ có nhiều thành phần kinh tế.",
+      "Do sự can thiệp hoàn toàn của các tổ chức quốc tế.",
+      "Do sự biến mất hoàn toàn của các ngành công nghiệp."
     ],
-    "answer": 0,
-    "explain": "Đại đoàn kết là chiến lược lâu dài, quyết định thắng lợi."
+    "answer": 1,
+    "explain": "Nội dung bài học nêu rõ cơ cấu xã hội - giai cấp biến đổi liên tục, đa dạng và phức tạp do nền kinh tế trong thời kỳ quá độ có nhiều thành phần kinh tế."
   },
   {
     "id": 502,
     "chapter": 5,
-    "question": "Chủ thể của khối đại đoàn kết toàn dân tộc là ai?",
+    "question": "Xu hướng biến đổi chính mang tính quy luật của các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
     "options": [
-      "Chỉ một giai cấp duy nhất",
-      "Toàn thể nhân dân Việt Nam yêu nước",
-      "Chỉ người ở đô thị",
-      "Chỉ người có chức vụ"
+      "Ngày càng phân hóa giàu nghèo và mâu thuẫn sâu sắc hơn.",
+      "Xích lại gần nhau hơn về mặt địa vị kinh tế, chính trị và văn hóa.",
+      "Tách rời độc lập và không có bất kỳ mối liên hệ nào với nhau.",
+      "Chuyển dịch toàn bộ thành giai cấp tư sản mới."
     ],
     "answer": 1,
-    "explain": "Chủ thể đại đoàn kết là toàn dân, mọi người Việt Nam yêu nước."
+    "explain": "Xu hướng biến đổi chính của cơ cấu xã hội - giai cấp trong thời kỳ này là các giai cấp, tầng lớp xích lại gần nhau hơn về mặt địa vị kinh tế, chính trị và văn hóa."
   },
   {
     "id": 503,
     "chapter": 5,
-    "question": "Nền tảng của khối đại đoàn kết toàn dân tộc là gì?",
+    "question": "Giai cấp nào giữ vai trò chủ đạo trong xu hướng biến đổi của cơ cấu xã hội - giai cấp ở thời kỳ quá độ?",
     "options": [
-      "Liên minh địa chủ và thực dân",
-      "Sự chia rẽ vùng miền",
-      "Liên minh công nhân, nông dân và trí thức dưới sự lãnh đạo của Đảng",
-      "Sự đối lập tôn giáo"
+      "Giai cấp nông dân.",
+      "Tầng lớp trí thức.",
+      "Giai cấp công nhân.",
+      "Giai cấp tư sản."
     ],
     "answer": 2,
-    "explain": "Liên minh công - nông - trí là nền tảng quan trọng của đại đoàn kết."
+    "explain": "Trong xu hướng biến đổi và xích lại gần nhau giữa các giai cấp, giai cấp công nhân luôn giữ vai trò chủ đạo."
   },
   {
     "id": 504,
     "chapter": 5,
-    "question": "Hình thức tổ chức tiêu biểu của khối đại đoàn kết là gì?",
+    "question": "Về mặt chính trị, tính tất yếu của việc xây dựng Liên minh giai cấp nhằm mục đích gì?",
     "options": [
-      "Một công ty thương mại",
-      "Một hội kín biệt lập",
-      "Một thiết chế phong kiến",
-      "Mặt trận dân tộc thống nhất"
+      "Để xóa bỏ vai trò lãnh đạo của Đảng Cộng sản.",
+      "Tạo lực lượng chính trị hùng hậu để giành và giữ vững chính quyền.",
+      "Nhằm thiết lập chế độ đa đảng đối lập.",
+      "Để cô lập giai cấp công nhân khỏi xã hội."
     ],
-    "answer": 3,
-    "explain": "Mặt trận dân tộc thống nhất là hình thức tổ chức của đại đoàn kết."
+    "answer": 1,
+    "explain": "Về mặt chính trị, tính tất yếu của liên minh là nhằm tạo lực lượng chính trị hùng hậu để giành và giữ vững chính quyền."
   },
   {
     "id": 505,
     "chapter": 5,
-    "question": "Điểm tương đồng để quy tụ lực lượng đoàn kết theo Hồ Chí Minh là gì?",
+    "question": "Về mặt kinh tế, liên minh giai cấp xuất phát từ yêu cầu gắn kết khách quan giữa các lĩnh vực nào trong quá trình sản xuất?",
     "options": [
-      "Lợi ích tối cao của dân tộc và quyền lợi cơ bản của nhân dân",
-      "Lợi ích cục bộ hẹp hòi",
-      "Đặc quyền của một nhóm",
-      "Sự khác biệt để chia rẽ"
+      "Công nghiệp, nông nghiệp và khoa học công nghệ.",
+      "Thương mại quốc tế, tài chính và dịch vụ giải trí.",
+      "Thủ công nghiệp gia đình và nông nghiệp tự cấp.",
+      "Khai khoáng tự nhiên và săn bắt hoang dã."
     ],
     "answer": 0,
-    "explain": "Đoàn kết phải đặt lợi ích dân tộc và nhân dân lên trên hết."
+    "explain": "Tính tất yếu kinh tế của liên minh là do yêu cầu gắn kết khách quan giữa công nghiệp (công nhân), nông nghiệp (nông dân) và khoa học công nghệ (trí thức) trong quá trình sản xuất."
   },
   {
     "id": 506,
     "chapter": 5,
-    "question": "Nguyên tắc quan trọng trong xây dựng Mặt trận là gì?",
+    "question": "Lực lượng nào đại diện cho ngành công nghiệp trong khối liên minh giai cấp, tầng lớp?",
     "options": [
-      "Hoạt động không mục tiêu",
-      "Đặt dưới sự lãnh đạo của Đảng và hoạt động trên cơ sở hiệp thương dân chủ",
-      "Loại bỏ mọi tầng lớp ngoài công nhân",
-      "Tách khỏi nhân dân"
+      "Nông dân.",
+      "Trí thức.",
+      "Công nhân.",
+      "Các chủ gia nô."
     ],
-    "answer": 1,
-    "explain": "Mặt trận cần sự lãnh đạo của Đảng và phương thức dân chủ, đồng thuận."
+    "answer": 2,
+    "explain": "Theo nội dung bài học, công nhân là lực lượng gắn liền và đại diện cho ngành công nghiệp."
   },
   {
     "id": 507,
     "chapter": 5,
-    "question": "Đoàn kết trong tư tưởng Hồ Chí Minh phải đi đôi với điều gì?",
+    "question": "Lực lượng nào đại diện cho ngành nông nghiệp trong khối liên minh?",
     "options": [
-      "Dung túng mọi biểu hiện sai trái",
-      "Xóa bỏ nguyên tắc",
-      "Đấu tranh chống chia rẽ, hẹp hòi, bè phái",
-      "Phủ nhận lợi ích dân tộc"
+      "Công nhân.",
+      "Nông dân.",
+      "Trí thức.",
+      "Thương nhân."
     ],
-    "answer": 2,
-    "explain": "Đoàn kết rộng rãi nhưng có nguyên tắc, chống chia rẽ."
+    "answer": 1,
+    "explain": "Nông dân là lực lượng lao động gắn liền và đại diện cho ngành nông nghiệp trong mô hình liên minh."
   },
   {
     "id": 508,
     "chapter": 5,
-    "question": "Hồ Chí Minh xem đoàn kết là gì?",
+    "question": "Lực lượng nào đại diện cho lĩnh vực khoa học và công nghệ trong khối liên minh giai cấp?",
     "options": [
-      "Yếu tố phụ không quan trọng",
-      "Công việc chỉ của ngoại giao",
-      "Vấn đề sau khi cách mạng thắng lợi mới cần",
-      "Sức mạnh, then chốt của thành công"
+      "Công nhân.",
+      "Nông dân.",
+      "Trí thức.",
+      "Địa chủ."
     ],
-    "answer": 3,
-    "explain": "Người nhiều lần khẳng định đoàn kết là sức mạnh và then chốt thành công."
+    "answer": 2,
+    "explain": "Trí thức là tầng lớp đại diện và gắn liền với sự phát triển của khoa học và công nghệ trong quá trình sản xuất."
   },
   {
     "id": 509,
     "chapter": 5,
-    "question": "Đại đoàn kết toàn dân tộc phải gắn với yếu tố nào?",
+    "question": "Nội dung nào dưới đây được xác định là nội dung cơ bản, quyết định nhất của Liên minh giai cấp?",
     "options": [
-      "Đoàn kết quốc tế",
-      "Biệt lập dân tộc",
-      "Tư tưởng kỳ thị",
-      "Cạnh tranh chia rẽ nội bộ"
+      "Liên minh chính trị.",
+      "Liên minh kinh tế.",
+      "Liên minh văn hóa - xã hội.",
+      "Liên minh quân sự đối ngoại."
     ],
-    "answer": 0,
-    "explain": "Sức mạnh dân tộc cần kết hợp với sức mạnh thời đại."
+    "answer": 1,
+    "explain": "Nội dung bài học ghi rõ: Liên minh kinh tế là nội dung cơ bản và mang tính quyết định nhất của khối liên minh."
   },
   {
     "id": 510,
     "chapter": 5,
-    "question": "Đoàn kết quốc tế trong tư tưởng Hồ Chí Minh bao gồm đoàn kết với lực lượng nào?",
+    "question": "Mục tiêu cốt lõi của Liên minh chính trị trong thời kỳ quá độ là gì?",
     "options": [
-      "Chỉ các thế lực áp bức thuộc địa",
-      "Phong trào cộng sản, công nhân quốc tế, phong trào giải phóng dân tộc và lực lượng tiến bộ",
-      "Chỉ một nhóm lợi ích kinh tế",
-      "Không cần bất kỳ lực lượng nào"
+      "Giữ vững sự lãnh đạo của Đảng, bảo vệ chế độ.",
+      "Thúc đẩy việc chuyển giao quyền lực cho tư nhân.",
+      "Xóa bỏ hoàn toàn bộ máy nhà nước chuyên chính vô sản.",
+      "Hạn chế quyền tham gia chính trị của nhân dân lao động."
     ],
-    "answer": 1,
-    "explain": "Đoàn kết quốc tế hướng tới các lực lượng cách mạng và tiến bộ trên thế giới."
+    "answer": 0,
+    "explain": "Liên minh chính trị có nội dung cốt lõi là giữ vững sự lãnh đạo của Đảng Cộng sản và bảo vệ chế độ xã hội chủ nghĩa."
   },
   {
     "id": 511,
     "chapter": 5,
-    "question": "Nguyên tắc đoàn kết quốc tế của Hồ Chí Minh là gì?",
+    "question": "Các hoạt động như hợp tác trong sản xuất, kinh doanh, phân phối lợi ích hài hòa thuộc về nội dung liên minh nào?",
     "options": [
-      "Phụ thuộc tuyệt đối vào bên ngoài",
-      "Can thiệp vào nội bộ nước khác",
-      "Độc lập, tự chủ, bình đẳng, hữu nghị và hợp tác",
-      "Chỉ nhận giúp đỡ, không có trách nhiệm"
+      "Liên minh chính trị tư tưởng.",
+      "Liên minh kinh tế.",
+      "Liên minh văn hóa - xã hội.",
+      "Liên minh phòng thủ quốc gia."
     ],
-    "answer": 2,
-    "explain": "Đoàn kết quốc tế phải dựa trên độc lập tự chủ và tinh thần trong sáng."
+    "answer": 1,
+    "explain": "Hợp tác trong sản xuất, kinh doanh, phân phối lợi ích hài hòa, nâng cao đời sống là những biểu hiện cụ thể của liên minh kinh tế."
   },
   {
     "id": 512,
     "chapter": 5,
-    "question": "Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh bao gồm yếu tố nào?",
+    "question": "Việc xây dựng nếp sống văn minh, phát triển giáo dục, y tế phản ánh nội dung nào của khối liên minh?",
     "options": [
-      "Sự chia rẽ dân tộc",
-      "Tâm lý tự ti",
-      "Sự lệ thuộc thuộc địa",
-      "Chủ nghĩa yêu nước, ý chí độc lập, đoàn kết và sức sáng tạo của nhân dân"
+      "Liên minh chính trị.",
+      "Liên minh kinh tế.",
+      "Liên minh văn hóa - xã hội.",
+      "Liên minh an ninh quốc phòng."
     ],
-    "answer": 3,
-    "explain": "Sức mạnh dân tộc bắt nguồn từ truyền thống và lực lượng nhân dân."
+    "answer": 2,
+    "explain": "Nội dung bài học nêu rõ: Xây dựng nếp sống văn minh, phát triển giáo dục, y tế thuộc về nội dung của liên minh văn hóa - xã hội."
   },
   {
     "id": 513,
     "chapter": 5,
-    "question": "Sức mạnh thời đại trong tư tưởng Hồ Chí Minh là gì?",
+    "question": "Khẳng định nào sau đây là ĐÚNG khi nói về mối quan hệ giữa các giai cấp, tầng lớp lao động trong khối liên minh kinh tế?",
     "options": [
-      "Sức mạnh của xu thế cách mạng, hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội",
-      "Sự thống trị của chủ nghĩa thực dân",
-      "Sự cô lập quốc tế",
-      "Sự lạc hậu kỹ thuật"
+      "Lợi ích kinh tế của các giai cấp hoàn toàn triệt tiêu lẫn nhau.",
+      "Có sự gắn kết, hợp tác và phân phối lợi ích hài hòa, cùng nâng cao đời sống.",
+      "Giai cấp công nhân độc chiếm toàn bộ lợi ích kinh tế của xã hội.",
+      "Các tầng lớp lao động phải cống hiến không điều kiện mà không được nhận lợi ích."
     ],
-    "answer": 0,
-    "explain": "Sức mạnh thời đại là các xu thế tiến bộ của thế giới mà cách mạng Việt Nam cần tranh thủ."
+    "answer": 1,
+    "explain": "Bản chất của liên minh kinh tế là sự hợp tác trong sản xuất, kinh doanh và phân phối lợi ích hài hòa giữa các bên tham gia liên minh."
   },
   {
     "id": 514,
     "chapter": 5,
-    "question": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại nhằm mục đích gì?",
+    "question": "Sự xích lại gần nhau của các giai cấp, tầng lớp trong thời kỳ quá độ diễn ra trên những phương diện nào?",
     "options": [
-      "Làm suy yếu nội lực dân tộc",
-      "Tạo sức mạnh tổng hợp cho cách mạng Việt Nam",
-      "Thay thế nhân dân bằng ngoại lực",
-      "Tách Việt Nam khỏi phong trào thế giới"
+      "Chỉ diễn ra trên phương diện thu nhập tài chính cá nhân.",
+      "Diễn ra trên các mặt: địa vị kinh tế, chính trị và văn hóa.",
+      "Chỉ diễn ra ở khu vực thành thị, không có ở nông thôn.",
+      "Diễn ra thông qua việc xóa bỏ tất cả các ngành nghề trong xã hội."
     ],
     "answer": 1,
-    "explain": "Sự kết hợp tạo nên sức mạnh tổng hợp."
+    "explain": "Xu hướng biến đổi chính là các giai cấp, tầng lớp xích lại gần nhau hơn về mặt địa vị kinh tế, chính trị và văn hóa."
   },
   {
     "id": 515,
     "chapter": 5,
-    "question": "Trong đoàn kết, Hồ Chí Minh chủ trương xử lý khác biệt như thế nào?",
+    "question": "Khối liên minh giữa công nhân, nông dân và trí thức trong thời kỳ quá độ do tổ chức nào lãnh đạo?",
     "options": [
-      "Khoét sâu mọi khác biệt",
-      "Loại bỏ mọi người có ý kiến khác",
-      "Tìm điểm tương đồng, tôn trọng khác biệt không trái lợi ích chung",
-      "Không cần mục tiêu chung"
+      "Do các hiệp hội doanh nghiệp tư nhân lãnh đạo.",
+      "Do Đảng Cộng sản lãnh đạo.",
+      "Do tổ chức công đoàn tự phát quản lý.",
+      "Không cần lực lượng nào lãnh đạo mà tự vận hành."
     ],
-    "answer": 2,
-    "explain": "Người nhấn mạnh nhân điểm tương đồng, hạn chế khác biệt để đoàn kết."
+    "answer": 1,
+    "explain": "Để giữ vững định hướng xã hội chủ nghĩa và đạt được mục tiêu chính trị, khối liên minh phải đặt dưới sự lãnh đạo của Đảng Cộng sản (thông qua liên minh chính trị)."
   },
   {
     "id": 516,
     "chapter": 5,
-    "question": "Đại đoàn kết có phạm vi như thế nào?",
+    "question": "Yếu tố khách quan nào trong sản xuất đòi hỏi công nghiệp, nông nghiệp và khoa học công nghệ phải gắn kết với nhau?",
     "options": [
-      "Chỉ trong một thời điểm ngắn",
-      "Chỉ trong một địa phương",
-      "Chỉ trong một tầng lớp",
-      "Rộng rãi, lâu dài, bao gồm mọi người Việt Nam yêu nước trong và ngoài nước"
+      "Do mệnh lệnh hành chính của cơ quan quản lý tư bản.",
+      "Do tính chất chuyên môn hóa và nhu cầu cung ứng, hỗ trợ lẫn nhau của các ngành kinh tế trong quá trình sản xuất vật chất.",
+      "Do sự suy thoái toàn cầu của nền kinh tế thế giới.",
+      "Do sự tự nguyện từ bỏ lợi ích của giai cấp tư sản."
     ],
-    "answer": 3,
-    "explain": "Đại đoàn kết là chiến lược rộng rãi, lâu dài của cách mạng."
+    "answer": 1,
+    "explain": "Về mặt kinh tế, quá trình sản xuất đại công nghiệp hiện đại luôn đòi hỏi sự gắn kết hữu cơ, khách quan giữa công nghiệp, nông nghiệp và khoa học công nghệ để tạo ra chuỗi giá trị hoàn chỉnh."
   },
   {
     "id": 517,
     "chapter": 5,
-    "question": "Vai trò của Đảng trong đại đoàn kết là gì?",
+    "question": "Nhận định nào sau đây KHÔNG đúng về cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội?",
     "options": [
-      "Lãnh đạo, định hướng và tổ chức khối đoàn kết",
-      "Đứng ngoài khối đoàn kết",
-      "Chia rẽ các lực lượng",
-      "Thay thế Mặt trận bằng mệnh lệnh"
+      "Biến đổi liên tục, đa dạng và phức tạp.",
+      "Các giai cấp tầng lớp ngày càng xích lại gần nhau.",
+      "Tồn tại một cơ cấu thuần nhất, hoàn toàn không còn giai cấp.",
+      "Giai cấp công nhân giữ vai trò chủ đạo."
     ],
-    "answer": 0,
-    "explain": "Đảng lãnh đạo để khối đoàn kết có mục tiêu và tổ chức đúng đắn."
+    "answer": 2,
+    "explain": "Trong thời kỳ quá độ, cơ cấu xã hội - giai cấp vẫn còn tồn tại các giai cấp và tầng lớp khác nhau (chưa thuần nhất) do nền kinh tế còn nhiều thành phần, vì vậy nhận định \"thuần nhất, không còn giai cấp\" là sai."
   },
   {
     "id": 518,
     "chapter": 5,
-    "question": "Nội dung nào không phù hợp với tư tưởng đại đoàn kết của Hồ Chí Minh?",
+    "question": "Vì sao liên minh kinh tế lại là nội dung cơ bản, quyết định nhất của khối liên minh giai cấp?",
     "options": [
-      "Khoan dung và nhân ái",
-      "Phân biệt, chia rẽ dân tộc, tôn giáo, giai cấp",
-      "Tôn trọng lợi ích chung",
-      "Tập hợp mọi người yêu nước"
+      "Vì nó trực tiếp tạo ra cơ sở vật chất, giải quyết lợi ích vật chất sát sườn và tạo nền tảng cho các nội dung liên minh khác phát triển bền vững.",
+      "Vì kinh tế là lĩnh vực duy nhất cần phải thực hiện liên minh.",
+      "Vì nó không đòi hỏi sự tham gia của tầng lớp trí thức.",
+      "Vì nó có thể thay thế hoàn toàn cho vai trò lãnh đạo của Đảng về chính trị."
     ],
-    "answer": 1,
-    "explain": "Chia rẽ và kỳ thị trái với tinh thần đại đoàn kết."
+    "answer": 0,
+    "explain": "Theo lý luận mác-xít, kinh tế là gốc của đời sống xã hội. Liên minh kinh tế giải quyết vấn đề lợi ích vật chất – động lực trực tiếp gắn kết các giai cấp lao động, tạo nền móng vững chắc cho liên minh chính trị và văn hóa."
   },
   {
     "id": 519,
     "chapter": 5,
-    "question": "Đoàn kết quốc tế phải gắn với nhiệm vụ nào của cách mạng Việt Nam?",
+    "question": "Mục tiêu phát triển giáo dục, y tế trong nội dung liên minh văn hóa - xã hội nhằm hướng tới điều gì?",
     "options": [
-      "Từ bỏ độc lập tự chủ",
-      "Đặt lợi ích nước ngoài lên trên dân tộc",
-      "Bảo vệ độc lập dân tộc và đóng góp vào hòa bình, tiến bộ của nhân loại",
-      "Không quan tâm hòa bình thế giới"
+      "Thương mại hóa toàn bộ dịch vụ công cộng để thu lợi nhuận.",
+      "Xây dựng nếp sống văn minh, nâng cao chất lượng đời sống tinh thần và thể chất của nhân dân lao động.",
+      "Phục vụ riêng cho tầng lớp trí thức cao cấp.",
+      "Loại bỏ hoàn toàn các di sản văn hóa truyền thống cũ."
     ],
-    "answer": 2,
-    "explain": "Hồ Chí Minh kết hợp lợi ích dân tộc với nghĩa vụ quốc tế trong sáng."
+    "answer": 1,
+    "explain": "Nội dung liên minh văn hóa - xã hội hướng tới xây dựng nếp sống văn minh, phát triển giáo dục, y tế để nâng cao thể chất, trí tuệ và đời sống văn hóa cho toàn thể nhân dân lao động."
   },
   {
     "id": 520,
     "chapter": 5,
-    "question": "Bài học vận dụng hiện nay từ tư tưởng đại đoàn kết là gì?",
+    "question": "Khẳng định nào sau đây tóm tắt chính xác nhất bản chất của Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội?",
     "options": [
-      "Nuôi dưỡng chia rẽ",
-      "Xem nhẹ Mặt trận và đoàn thể",
-      "Tách người Việt Nam ở nước ngoài khỏi dân tộc",
-      "Phát huy đồng thuận xã hội, tôn trọng khác biệt, củng cố niềm tin của nhân dân"
+      "Là sự áp đặt quyền lực tuyệt đối của giai cấp công nhân lên các giai cấp khác nhằm tước đoạt tài sản.",
+      "Là sự liên kết mang tính tạm thời, lỏng lẻo nhằm mục đích đối phó với khủng hoảng kinh tế quốc tế.",
+      "Là sự gắn kết khách quan và tự nguyện trên tất cả các mặt chính trị, kinh tế, văn hóa - xã hội vì lợi ích chung của nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+      "Là sự hòa tan hoàn toàn các giai cấp thành một tầng lớp trí thức duy nhất ngay khi bắt đầu thời kỳ quá độ."
     ],
-    "answer": 3,
-    "explain": "Vận dụng tư tưởng đại đoàn kết giúp củng cố khối đại đoàn kết toàn dân trong điều kiện mới."
+    "answer": 2,
+    "explain": "Khối liên minh mang tính tất yếu (khách quan), toàn diện (chính trị, kinh tế, văn hóa) phục vụ lợi ích đại đa số nhân dân và do Đảng của giai cấp công nhân lãnh đạo."
   }
 ]

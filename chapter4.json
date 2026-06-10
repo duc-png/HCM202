@@ -2,261 +2,261 @@
   {
     "id": 401,
     "chapter": 4,
-    "question": "Theo Hồ Chí Minh, nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam là gì?",
+    "question": "Về bản chất chính trị, nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?",
     "options": [
-      "Sự lãnh đạo của Đảng Cộng sản Việt Nam",
-      "Sự tự phát của quần chúng",
-      "Sự giúp đỡ thay thế hoàn toàn từ bên ngoài",
-      "Sự tồn tại của chế độ phong kiến"
+      "Giai cấp tư sản",
+      "Giai cấp công nhân",
+      "Tầng lớp trí thức",
+      "Giai cấp phong kiến"
     ],
-    "answer": 0,
-    "explain": "Đảng lãnh đạo đúng đắn là nhân tố quyết định thắng lợi."
+    "answer": 1,
+    "explain": "Nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp công nhân nhưng phục vụ cho lợi ích của đại đa số nhân dân lao động."
   },
   {
     "id": 402,
     "chapter": 4,
-    "question": "Hồ Chí Minh nêu sự ra đời của Đảng Cộng sản Việt Nam là kết quả kết hợp những yếu tố nào?",
+    "question": "Trong nền dân chủ xã hội chủ nghĩa, quyền lực nhà nước thuộc về ai?",
     "options": [
-      "Nho giáo, Phật giáo và Lão giáo",
-      "Chủ nghĩa Mác - Lênin, phong trào công nhân và phong trào yêu nước",
-      "Phong trào tư sản và địa chủ",
-      "Chỉ phong trào công nhân tự phát"
+      "Thuộc về các tập đoàn kinh tế lớn.",
+      "Thuộc về các tổ chức phi chính phủ quốc tế.",
+      "Thuộc về nhân dân.",
+      "Thuộc về một nhóm thiểu số quý tộc tinh hoa."
     ],
-    "answer": 1,
-    "explain": "Hồ Chí Minh bổ sung yếu tố phong trào yêu nước vào quy luật ra đời của Đảng ở Việt Nam."
+    "answer": 2,
+    "explain": "Bản chất chính trị của nền dân chủ xã hội chủ nghĩa quy định rõ quyền lực nhà nước thuộc về nhân dân."
   },
   {
     "id": 403,
     "chapter": 4,
-    "question": "Đảng Cộng sản Việt Nam mang bản chất giai cấp nào?",
+    "question": "Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa dựa trên chế độ sở hữu nào đối với tư liệu sản xuất chủ yếu?",
     "options": [
-      "Giai cấp địa chủ",
-      "Giai cấp tư sản mại bản",
-      "Giai cấp công nhân",
-      "Tầng lớp quan lại phong kiến"
+      "Chế độ tư hữu tư nhân tư bản chủ nghĩa.",
+      "Chế độ công hữu về tư liệu sản xuất chủ yếu.",
+      "Chế độ sở hữu hỗn hợp của các tập đoàn nước ngoài.",
+      "Chế độ chiếm hữu độc quyền của địa chủ phong kiến."
     ],
-    "answer": 2,
-    "explain": "Đảng mang bản chất giai cấp công nhân, đồng thời đại biểu cho lợi ích dân tộc và nhân dân."
+    "answer": 1,
+    "explain": "Về bản chất kinh tế, nền dân chủ xã hội chủ nghĩa dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu, nhằm thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội."
   },
   {
     "id": 404,
     "chapter": 4,
-    "question": "Khi là Đảng cầm quyền, Đảng phải đồng thời là gì?",
+    "question": "Mục đích cốt lõi của bản chất kinh tế trong nền dân chủ xã hội chủ nghĩa là gì?",
     "options": [
-      "Tổ chức đứng trên nhân dân",
-      "Cơ quan thay thế toàn bộ Nhà nước",
-      "Lực lượng tách khỏi xã hội",
-      "Người lãnh đạo và người đầy tớ thật trung thành của nhân dân"
+      "Tối đa hóa lợi nhuận cho các nhà đầu tư nước ngoài.",
+      "Thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội.",
+      "Tích lũy tư bản tập trung vào tay một số ít cá nhân.",
+      "Cắt giảm tối đa các phúc lợi xã hội của người lao động."
     ],
-    "answer": 3,
-    "explain": "Hồ Chí Minh nhấn mạnh Đảng vừa lãnh đạo vừa phục vụ nhân dân."
+    "answer": 1,
+    "explain": "Bản chất kinh tế dựa trên chế độ công hữu tư liệu sản xuất chủ yếu là nhằm thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội."
   },
   {
     "id": 405,
     "chapter": 4,
-    "question": "Nội dung xây dựng Đảng theo Hồ Chí Minh bao gồm những mặt nào?",
+    "question": "Nền dân chủ xã hội chủ nghĩa lấy học thuyết nào làm nền tảng ý thức xã hội về mặt tư tưởng - văn hóa?",
     "options": [
-      "Tư tưởng, chính trị, tổ chức và đạo đức",
-      "Chỉ tài chính",
-      "Chỉ nghi lễ",
-      "Chỉ truyền thông"
+      "Chủ nghĩa tự do mới kinh tế.",
+      "Triết học hiện sinh phương Tây.",
+      "Chủ nghĩa Mác - Lênin.",
+      "Thuyết tiến hóa xã hội siêu hình."
     ],
-    "answer": 0,
-    "explain": "Xây dựng Đảng phải toàn diện trên các mặt cơ bản."
+    "answer": 2,
+    "explain": "Về bản chất tư tưởng - văn hóa, nền dân chủ xã hội chủ nghĩa lấy chủ nghĩa Mác - Lênin làm nền tảng ý thức xã hội."
   },
   {
     "id": 406,
     "chapter": 4,
-    "question": "Nền tảng tư tưởng của Đảng theo Hồ Chí Minh là gì?",
+    "question": "Bản chất tư tưởng - văn hóa của nền dân chủ xã hội chủ nghĩa đòi hỏi sự kết hợp hài hòa giữa các lợi ích nào?",
     "options": [
-      "Chủ nghĩa cá nhân",
-      "Chủ nghĩa Mác - Lênin",
-      "Chủ nghĩa thực dụng",
-      "Chủ nghĩa cơ hội"
+      "Lợi ích cá nhân, tập thể và xã hội.",
+      "Lợi ích của giai cấp thống trị và các thế lực nước ngoài.",
+      "Lợi ích kinh tế ngắn hạn và lợi ích chính trị cục bộ.",
+      "Lợi ích của các quốc gia tư bản phát triển."
     ],
-    "answer": 1,
-    "explain": "Đảng phải lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng."
+    "answer": 0,
+    "explain": "Bản chất tư tưởng - văn hóa của nền dân chủ xã hội chủ nghĩa là lấy chủ nghĩa Mác - Lênin làm nền tảng, kết hợp hài hòa giữa lợi ích cá nhân, tập thể và xã hội."
   },
   {
     "id": 407,
     "chapter": 4,
-    "question": "Nguyên tắc tổ chức cơ bản của Đảng là gì?",
+    "question": "Nhà nước xã hội chủ nghĩa được định nghĩa là tổ chức thực hiện quyền lực của ai?",
     "options": [
-      "Tự do vô tổ chức",
-      "Gia trưởng cá nhân",
-      "Tập trung dân chủ",
-      "Phân tán cục bộ"
+      "Quyền lực của giai cấp tư sản bóc lột.",
+      "Quyền lực của nhân dân.",
+      "Quyền lực độc tài cá nhân quân sự.",
+      "Quyền lực của các tổ chức tài chính xuyên quốc gia."
     ],
-    "answer": 2,
-    "explain": "Tập trung dân chủ là nguyên tắc tổ chức cơ bản của Đảng."
+    "answer": 1,
+    "explain": "Về bản chất, Nhà nước xã hội chủ nghĩa là tổ chức thực hiện quyền lực của nhân dân, do Đảng Cộng sản lãnh đạo."
   },
   {
     "id": 408,
     "chapter": 4,
-    "question": "Tự phê bình và phê bình trong Đảng nhằm mục đích gì?",
+    "question": "Lực lượng nào giữ vai trò lãnh đạo Nhà nước xã hội chủ nghĩa?",
     "options": [
-      "Chia rẽ nội bộ",
-      "Hạ thấp vai trò tổ chức",
-      "Thay thế kỷ luật",
-      "Làm cho Đảng trong sạch, vững mạnh"
+      "Các nghiệp đoàn tư nhân tự phát.",
+      "Đảng Cộng sản.",
+      "Các liên minh quân sự quốc tế.",
+      "Hiệp hội các doanh nghiệp vừa và nhỏ."
     ],
-    "answer": 3,
-    "explain": "Tự phê bình và phê bình là quy luật phát triển của Đảng."
+    "answer": 1,
+    "explain": "Theo lý luận, Nhà nước xã hội chủ nghĩa là tổ chức thực hiện quyền lực của nhân dân, và tổ chức này do Đảng Cộng sản lãnh đạo."
   },
   {
     "id": 409,
     "chapter": 4,
-    "question": "Theo Hồ Chí Minh, nguy cơ lớn của Đảng cầm quyền nếu xa dân là gì?",
+    "question": "Nhà nước xã hội chủ nghĩa có mấy chức năng chính?",
     "options": [
-      "Quan liêu, tham ô, lãng phí và suy thoái",
-      "Tăng cường dân chủ",
-      "Gắn bó hơn với nhân dân",
-      "Nâng cao đạo đức"
+      "1 chức năng",
+      "2 chức năng chính",
+      "3 chức năng chính",
+      "4 chức năng chính"
     ],
-    "answer": 0,
-    "explain": "Đảng cầm quyền phải chống quan liêu, tham ô, lãng phí và xa dân."
+    "answer": 1,
+    "explain": "Nhà nước xã hội chủ nghĩa có 2 chức năng chính là chức năng Trấn áp và chức năng Tổ chức, xây dựng."
   },
   {
     "id": 410,
     "chapter": 4,
-    "question": "Nhà nước trong tư tưởng Hồ Chí Minh là nhà nước như thế nào?",
+    "question": "Chức năng nào của Nhà nước xã hội chủ nghĩa được xác định là chức năng căn bản, căn cốt nhất để phát triển kinh tế - xã hội?",
     "options": [
-      "Của một nhóm đặc quyền",
-      "Của nhân dân, do nhân dân, vì nhân dân",
-      "Của thực dân",
-      "Của nhà vua"
+      "Chức năng trấn áp bạo lực đối ngoại.",
+      "Chức năng tổ chức, xây dựng.",
+      "Chức năng thu thuế và phân chia lợi nhuận tư nhân.",
+      "Chức năng bảo hộ các tập đoàn độc quyền."
     ],
     "answer": 1,
-    "explain": "Nhà nước kiểu mới thuộc về nhân dân và phục vụ nhân dân."
+    "explain": "Trong hai chức năng, chức năng Tổ chức, xây dựng là chức năng căn bản, căn cốt nhất để phát triển kinh tế - xã hội."
   },
   {
     "id": 411,
     "chapter": 4,
-    "question": "“Nhà nước của dân” nghĩa là gì?",
+    "question": "Chức năng \"Trấn áp\" của Nhà nước xã hội chủ nghĩa được sử dụng nhằm đối phó với đối tượng nào?",
     "options": [
-      "Nhân dân không có quyền tham gia",
-      "Quyền lực chỉ thuộc về cá nhân",
-      "Mọi quyền lực nhà nước thuộc về nhân dân",
-      "Nhà nước không chịu trách nhiệm trước dân"
+      "Đại đa số nhân dân lao động nghèo khổ.",
+      "Các thế lực đi ngược lại lợi ích nhân dân.",
+      "Đội ngũ trí thức và các nhà khoa học tiên tiến.",
+      "Các tổ chức công đoàn độc lập của công nhân."
     ],
-    "answer": 2,
-    "explain": "Của dân là quyền lực thuộc về nhân dân."
+    "answer": 1,
+    "explain": "Chức năng Trấn áp được thực hiện đối với các thế lực đi ngược lại lợi ích nhân dân nhằm bảo vệ thành quả cách mạng."
   },
   {
     "id": 412,
     "chapter": 4,
-    "question": "“Nhà nước do dân” nhấn mạnh điều gì?",
+    "question": "Mối quan hệ biện chứng giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa được thể hiện như thế nào?",
     "options": [
-      "Nhà nước tự tồn tại ngoài nhân dân",
-      "Nhà nước do nước ngoài lập",
-      "Nhân dân chỉ phục tùng",
-      "Nhân dân lập nên, ủng hộ, kiểm soát và tham gia xây dựng nhà nước"
+      "Dân chủ và nhà nước hoàn toàn biệt lập, không có mối quan hệ nào.",
+      "Nhà nước xã hội chủ nghĩa sinh ra trước và tiêu diệt nền dân chủ.",
+      "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng nhà nước xã hội chủ nghĩa.",
+      "Dân chủ xã hội chủ nghĩa kìm hãm sự phát triển của nhà nước xã hội chủ nghĩa."
     ],
-    "answer": 3,
-    "explain": "Do dân là nhà nước được nhân dân xây dựng và kiểm soát."
+    "answer": 2,
+    "explain": "Về mối quan hệ, dân chủ XHCN là cơ sở, nền tảng cho việc xây dựng nhà nước XHCN."
   },
   {
     "id": 413,
     "chapter": 4,
-    "question": "“Nhà nước vì dân” có nội dung gì?",
+    "question": "Trong mối quan hệ với nền dân chủ, Nhà nước xã hội chủ nghĩa đóng vai trò là gì?",
     "options": [
-      "Hoạt động vì lợi ích và hạnh phúc của nhân dân",
-      "Hoạt động vì đặc quyền cá nhân",
-      "Chỉ lo hình thức",
-      "Không cần phục vụ xã hội"
+      "Là công cụ pháp lý để thực hiện và bảo vệ quyền dân chủ của nhân dân.",
+      "Là tổ chức hạn chế các quyền tự do chính trị của công dân.",
+      "Là công cụ để chuyển giao quyền lực cho giai cấp tư sản.",
+      "Là cơ quan đứng trên pháp luật và không chịu sự giám sát của nhân dân."
     ],
     "answer": 0,
-    "explain": "Vì dân là mục tiêu phục vụ nhân dân."
+    "explain": "Mối quan hệ hai chiều chỉ rõ: nhà nước XHCN là công cụ pháp lý để thực hiện và bảo vệ quyền dân chủ của nhân dân."
   },
   {
     "id": 414,
     "chapter": 4,
-    "question": "Cán bộ, công chức theo Hồ Chí Minh là gì của nhân dân?",
+    "question": "Sự khác biệt cơ bản về mặt mục đích phục vụ giữa bản chất chính trị của nền dân chủ xã hội chủ nghĩa và các nền dân chủ trước đó (như dân chủ tư sản) là gì?",
     "options": [
-      "Ông chủ đứng trên dân",
-      "Công bộc của dân",
-      "Người cai trị theo đặc quyền",
-      "Lực lượng tách khỏi dân"
+      "Phục vụ cho lợi ích của giai cấp bóc lột thiểu số.",
+      "Phục vụ cho lợi ích của đại đa số nhân dân lao động.",
+      "Chỉ phục vụ cho lợi ích của tầng lớp quý tộc quan liêu.",
+      "Không phục vụ cho bất kỳ lợi ích cá nhân hay tập thể nào."
     ],
     "answer": 1,
-    "explain": "Cán bộ là công bộc, phải phục vụ nhân dân."
+    "explain": "Khác với các nền dân chủ trước đó bảo vệ thiểu số giai cấp bóc lột, nền dân chủ XHCN mang bản chất công nhân nhưng phục vụ cho lợi ích của đại đa số nhân dân lao động."
   },
   {
     "id": 415,
     "chapter": 4,
-    "question": "Phẩm chất đạo đức quan trọng của cán bộ là gì?",
+    "question": "Điều nào sau đây là nội dung cốt lõi của bản chất chính trị trong nền dân chủ xã hội chủ nghĩa?",
     "options": [
-      "Quan liêu, xa dân",
-      "Tư lợi cá nhân",
-      "Cần, kiệm, liêm, chính, chí công vô tư",
-      "Lãng phí và hình thức"
+      "Giai cấp tư sản nắm toàn bộ tư liệu sản xuất và quyền lực chính trị.",
+      "Quyền lực nhà nước thuộc về nhân dân, do nhân dân làm chủ.",
+      "Nhà nước tách rời khỏi sự lãnh đạo của Đảng Cộng sản.",
+      "Người lao động không có quyền tham gia quản lý nhà nước."
     ],
-    "answer": 2,
-    "explain": "Hồ Chí Minh đặt yêu cầu cao về đạo đức công vụ."
+    "answer": 1,
+    "explain": "Bản chất chính trị của nền dân chủ xã hội chủ nghĩa quy định quyền lực nhà nước thuộc về nhân dân, thể hiện tính nhân dân rộng rãi."
   },
   {
     "id": 416,
     "chapter": 4,
-    "question": "Nhà nước pháp quyền theo tư tưởng Hồ Chí Minh phải quản lý xã hội bằng gì?",
+    "question": "Nhận định nào sau đây là ĐÚNG về chức năng Tổ chức, xây dựng của Nhà nước xã hội chủ nghĩa?",
     "options": [
-      "Tình cảm cá nhân tùy tiện",
-      "Mệnh lệnh bí mật không kiểm soát",
-      "Phong tục thay cho luật pháp",
-      "Hiến pháp và pháp luật"
+      "Đây là chức năng thứ yếu, có thể bỏ qua trong thời kỳ quá độ.",
+      "Đây là chức năng căn bản, căn cốt nhất để phát triển kinh tế - xã hội.",
+      "Chức năng này chỉ nhằm mục đích trấn áp các cuộc nổi dậy chính trị.",
+      "Chức năng này chủ yếu phục vụ lợi ích kinh tế cá nhân của các quan chức."
     ],
-    "answer": 3,
-    "explain": "Nhà nước phải đề cao Hiến pháp, pháp luật và kỷ cương."
+    "answer": 1,
+    "explain": "Lý luận về Chủ nghĩa xã hội khoa học khẳng định chức năng tổ chức, xây dựng là chức năng căn bản, căn cốt nhất của nhà nước XHCN để kiến thiết xã hội mới."
   },
   {
     "id": 417,
     "chapter": 4,
-    "question": "Quan hệ giữa pháp luật và đạo đức trong quản lý nhà nước theo Hồ Chí Minh là gì?",
+    "question": "Hệ tư tưởng nào giữ vai trò chủ đạo, định hướng trong việc xây dựng văn hóa mới của nền dân chủ xã hội chủ nghĩa?",
     "options": [
-      "Kết hợp chặt chẽ",
-      "Loại trừ nhau",
-      "Chỉ cần pháp luật, không cần đạo đức",
-      "Chỉ cần đạo đức, không cần pháp luật"
+      "Chủ nghĩa thực dụng phương Tây.",
+      "Các tư tưởng phong kiến mang tính giáo điều tôn giáo.",
+      "Chủ nghĩa Mác - Lênin.",
+      "Tư tưởng tự do cạnh tranh hoang dã."
     ],
-    "answer": 0,
-    "explain": "Hồ Chí Minh coi trọng cả pháp luật và giáo dục đạo đức."
+    "answer": 2,
+    "explain": "Bản chất tư tưởng - văn hóa của nền dân chủ XHCN là lấy chủ nghĩa Mác - Lênin làm nền tảng ý thức xã hội."
   },
   {
     "id": 418,
     "chapter": 4,
-    "question": "Dân chủ trong nhà nước kiểu mới thể hiện trước hết ở đâu?",
+    "question": "Nếu thiếu đi Nhà nước xã hội chủ nghĩa thì quyền dân chủ của nhân dân sẽ như thế nào?",
     "options": [
-      "Nhân dân không được bày tỏ ý kiến",
-      "Nhân dân có quyền làm chủ và tham gia quản lý xã hội",
-      "Quyền lực không cần kiểm soát",
-      "Chỉ có hình thức bầu cử"
+      "Càng được phát huy tự do, tự phát và không bị giới hạn.",
+      "Thiếu đi công cụ pháp lý để được thực hiện và bảo vệ một cách thực tế.",
+      "Tự động được xã hội bảo đảm mà không cần pháp luật.",
+      "Bị giai cấp công nhân tước bỏ hoàn toàn."
     ],
     "answer": 1,
-    "explain": "Dân chủ là bản chất của nhà nước của dân, do dân, vì dân."
+    "explain": "Do nhà nước XHCN là công cụ pháp lý để thực hiện và bảo vệ quyền dân chủ, nên nếu không có công cụ này, quyền dân chủ của nhân dân không thể được bảo đảm vững chắc trên thực tế."
   },
   {
     "id": 419,
     "chapter": 4,
-    "question": "Để xây dựng Đảng trong sạch, vững mạnh cần làm gì thường xuyên?",
+    "question": "Việc thiết lập chế độ công hữu về tư liệu sản xuất chủ yếu trong nền dân chủ xã hội chủ nghĩa nhằm giải quyết vấn đề gì về mặt kinh tế?",
     "options": [
-      "Che giấu khuyết điểm",
-      "Tách Đảng khỏi nhân dân",
-      "Xây dựng, chỉnh đốn Đảng",
-      "Xem nhẹ kỷ luật"
+      "Tạo ra sự độc quyền kinh tế cho giai cấp tư sản cũ.",
+      "Thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội, tránh sự thao túng của tư bản tư nhân đối với các nguồn lực cốt lõi.",
+      "Triệt tiêu hoàn toàn tất cả các hoạt động trao đổi thương mại hàng hóa.",
+      "Khuyến khích sự phân hóa giàu nghèo ngày càng sâu sắc."
     ],
-    "answer": 2,
-    "explain": "Xây dựng, chỉnh đốn Đảng là yêu cầu thường xuyên."
+    "answer": 1,
+    "explain": "Chế độ công hữu tư liệu sản xuất chủ yếu nhằm thỏa thuận và đáp ứng lợi ích vật chất của toàn xã hội, tạo nền tảng kinh tế cho sự làm chủ của nhân dân."
   },
   {
     "id": 420,
     "chapter": 4,
-    "question": "Mối quan hệ đúng giữa Đảng, Nhà nước và nhân dân là gì?",
+    "question": "Khẳng định nào sau đây phản ánh chính xác nhất mối quan hệ giữa Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa?",
     "options": [
-      "Đảng thay thế nhân dân làm chủ",
-      "Nhà nước đứng ngoài sự lãnh đạo",
-      "Nhân dân không có vai trò",
-      "Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ"
+      "Dân chủ và Nhà nước mâu thuẫn bài trừ lẫn nhau, cái này tồn tại thì cái kia mất đi.",
+      "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng nhà nước xã hội chủ nghĩa; nhà nước xã hội chủ nghĩa là công cụ pháp lý để thực hiện quyền dân chủ đó.",
+      "Nhà nước xã hội chủ nghĩa tồn tại độc lập mà không cần đến nền tảng dân chủ xã hội chủ nghĩa.",
+      "Dân chủ xã hội chủ nghĩa chỉ là hình thức khẩu hiệu, không có mối quan hệ thực chất với bộ máy nhà nước."
     ],
-    "answer": 3,
-    "explain": "Đây là quan hệ chính trị cơ bản cần bảo đảm trong hệ thống chính trị."
+    "answer": 1,
+    "explain": "Đây là mối quan hệ tác động qua lại biện chứng: Dân chủ là cơ sở, nền tảng tạo nên nhà nước; nhà nước là công cụ pháp lý hữu hiệu để thực thi và bảo vệ nền dân chủ."
   }
 ]

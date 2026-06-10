@@ -2,261 +2,261 @@
   {
     "id": 101,
     "chapter": 1,
-    "question": "Theo giáo trình, Tư tưởng Hồ Chí Minh được hiểu là gì?",
+    "question": "Cuộc cách mạng công nghiệp ở Tây Âu vào những năm 40 của thế kỷ XIX đã làm chuyển biến nền sản xuất từ thủ công lên hình thái nào?",
     "options": [
-      "Một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam",
-      "Một tập hợp câu chuyện về cuộc đời Hồ Chí Minh",
-      "Một học thuyết kinh tế độc lập với chủ nghĩa Mác - Lênin",
-      "Một phương pháp nghiên cứu lịch sử thế giới"
+      "Sản xuất nông nghiệp quy mô lớn",
+      "Nền đại công nghiệp",
+      "Sản xuất tiểu thủ công nghiệp",
+      "Kinh tế thương mại dịch vụ"
     ],
-    "answer": 0,
-    "explain": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
+    "answer": 1,
+    "explain": "Vào những năm 40 của thế kỷ XIX, cách mạng công nghiệp phát triển mạnh ở Tây Âu, làm chuyển biến nền sản xuất từ thủ công lên đại công nghiệp."
   },
   {
     "id": 102,
     "chapter": 1,
-    "question": "Cơ sở quan trọng nhất về thế giới quan và phương pháp luận của Tư tưởng Hồ Chí Minh là gì?",
+    "question": "Mâu thuẫn kinh tế - xã hội gay gắt thúc đẩy sự ra đời và đấu tranh của giai cấp công nhân là gì?",
     "options": [
-      "Nho giáo",
-      "Chủ nghĩa Mác - Lênin",
-      "Chủ nghĩa Tam dân",
-      "Chủ nghĩa thực dụng"
+      "Mâu thuẫn giữa lực lượng sản xuất xã hội hóa cao và quan hệ sản xuất tư bản dựa trên tư hữu tư nhân",
+      "Mâu thuẫn giữa nông dân và địa chủ phong kiến",
+      "Mâu thuẫn giữa các nhà tư bản ở các quốc gia châu Âu",
+      "Mâu thuẫn giữa khoa học kỹ thuật và ý thức hệ tôn giáo"
     ],
-    "answer": 1,
-    "explain": "Chủ nghĩa Mác - Lênin cung cấp thế giới quan và phương pháp luận trực tiếp."
+    "answer": 0,
+    "explain": "Đại công nghiệp làm sâu sắc mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa cao và quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư nhân."
   },
   {
     "id": 103,
     "chapter": 1,
-    "question": "Đại hội nào của Đảng nêu khái niệm Tư tưởng Hồ Chí Minh tương đối hoàn chỉnh trong giáo trình?",
+    "question": "Phong trào nào sau đây không phải cuộc đấu tranh độc lập tiêu biểu của giai cấp công nhân nửa đầu thế kỷ XIX?",
     "options": [
-      "Đại hội V",
-      "Đại hội VII",
-      "Đại hội XI",
-      "Đại hội IX"
+      "Phong trào Hiến chương ở Anh",
+      "Khởi nghĩa công nhân dệt ở Xilêdi - Đức",
+      "Khởi nghĩa công nhân dệt ở Lyon - Pháp",
+      "Cách mạng tư sản Pháp năm 1789"
     ],
-    "answer": 2,
-    "explain": "Giáo trình sử dụng khái niệm được Đại hội XI của Đảng nêu rõ."
+    "answer": 3,
+    "explain": "Cách mạng tư sản Pháp năm 1789 là cách mạng tư sản chống phong kiến, không phải cuộc đấu tranh độc lập của công nhân chống tư sản nửa đầu thế kỷ XIX."
   },
   {
     "id": 104,
     "chapter": 1,
-    "question": "Đối tượng nghiên cứu của môn học Tư tưởng Hồ Chí Minh là gì?",
+    "question": "Những phát minh nào được coi là tiền đề khoa học tự nhiên của chủ nghĩa xã hội khoa học?",
     "options": [
-      "Chỉ các tác phẩm văn học của Hồ Chí Minh",
-      "Lịch sử các triều đại phong kiến Việt Nam",
-      "Các học thuyết chính trị phương Tây hiện đại",
-      "Hệ thống quan điểm Hồ Chí Minh và quá trình vận động của hệ thống đó trong thực tiễn"
+      "Thuyết vạn vật hấp dẫn, thuyết tương đối, cơ học lượng tử",
+      "Học thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tế bào",
+      "Dòng điện, động cơ hơi nước, phát minh ra lửa",
+      "Thuyết địa tâm, thuyết nhật tâm, định luật vạn vật hấp dẫn"
     ],
-    "answer": 3,
-    "explain": "Môn học nghiên cứu cả hệ thống quan điểm và quá trình hiện thực hóa trong cách mạng Việt Nam."
+    "answer": 1,
+    "explain": "Ba phát minh này góp phần đập tan tư duy siêu hình và chứng minh tính duy vật, biện chứng của tự nhiên."
   },
   {
     "id": 105,
     "chapter": 1,
-    "question": "Vì sao cần gắn nghiên cứu văn bản với hoạt động thực tiễn của Hồ Chí Minh?",
+    "question": "Hạn chế lớn nhất của chủ nghĩa xã hội không tưởng phê phán Pháp và Anh là gì?",
     "options": [
-      "Vì tư tưởng của Người thể hiện cả trong bài viết, bài nói và hành động cách mạng",
-      "Vì văn bản không có giá trị tham khảo",
-      "Vì chỉ hoạt động thực tiễn mới là đối tượng của môn học",
-      "Vì môn học không cần phương pháp luận"
+      "Không vạch trần được bất công của chủ nghĩa tư bản",
+      "Không nhận được sự ủng hộ tài chính từ xã hội",
+      "Không tìm ra quy luật vận động nội tại của xã hội cũ, không thấy sứ mệnh của giai cấp công nhân và con đường cách mạng đúng đắn",
+      "Đi theo khuynh hướng duy tâm tôn giáo cực đoan"
     ],
-    "answer": 0,
-    "explain": "Tư tưởng Hồ Chí Minh được thể hiện thống nhất trong lý luận và thực tiễn."
+    "answer": 2,
+    "explain": "Các nhà không tưởng đã phê phán bất công tư bản chủ nghĩa nhưng chưa phát hiện quy luật vận động, lực lượng cách mạng và con đường cách mạng khoa học."
   },
   {
     "id": 106,
     "chapter": 1,
-    "question": "Nguyên tắc phương pháp luận nào yêu cầu xem xét tư tưởng Hồ Chí Minh trong điều kiện lịch sử cụ thể?",
+    "question": "Sự chuyển biến lập trường tư tưởng của C. Mác và Ph. Ăngghen diễn ra theo hướng nào?",
     "options": [
-      "Quan điểm siêu hình",
-      "Quan điểm lịch sử - cụ thể",
-      "Quan điểm tuyệt đối hóa cá nhân",
-      "Quan điểm kinh nghiệm chủ nghĩa"
+      "Từ duy vật sang duy tâm, từ cộng sản sang dân chủ cách mạng",
+      "Từ duy tâm sang duy vật, từ dân chủ cách mạng sang cộng sản chủ nghĩa",
+      "Từ phong kiến sang tư sản tự do",
+      "Từ tôn giáo sang triết học siêu hình"
     ],
     "answer": 1,
-    "explain": "Quan điểm lịch sử - cụ thể giúp tránh tách tư tưởng khỏi hoàn cảnh ra đời và vận dụng."
+    "explain": "Mác và Ăngghen chuyển từ thế giới quan duy tâm sang duy vật, từ lập trường dân chủ cách mạng sang cộng sản chủ nghĩa."
   },
   {
     "id": 107,
     "chapter": 1,
-    "question": "Học tập môn Tư tưởng Hồ Chí Minh có ý nghĩa nào đối với sinh viên?",
+    "question": "Phát kiến nào của C. Mác và Ph. Ăngghen chỉ ra bản chất bóc lột của chủ nghĩa tư bản đối với công nhân?",
     "options": [
-      "Thay thế toàn bộ các môn chuyên ngành",
-      "Chỉ để ghi nhớ ngày tháng lịch sử",
-      "Nâng cao tư duy lý luận và rèn luyện đạo đức, lối sống",
-      "Chỉ phục vụ thi trắc nghiệm"
+      "Chủ nghĩa duy vật lịch sử",
+      "Học thuyết giá trị thặng dư",
+      "Học thuyết tiến hóa xã hội",
+      "Định luật bảo toàn giá trị kinh tế"
     ],
-    "answer": 2,
-    "explain": "Môn học giúp sinh viên phát triển nhận thức, niềm tin, đạo đức và năng lực vận dụng."
+    "answer": 1,
+    "explain": "Học thuyết giá trị thặng dư chỉ ra nguồn gốc và bản chất bóc lột của chủ nghĩa tư bản đối với lao động làm thuê."
   },
   {
     "id": 108,
     "chapter": 1,
-    "question": "Trong khái niệm Tư tưởng Hồ Chí Minh, nội dung “kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc” nhấn mạnh điều gì?",
+    "question": "Tác phẩm nào đánh dấu sự hình thành chính thức của chủ nghĩa xã hội khoa học?",
     "options": [
-      "Tính tách biệt với cách mạng Việt Nam",
-      "Việc phủ nhận truyền thống",
-      "Việc chỉ tiếp thu văn hóa phương Tây",
-      "Nguồn gốc dân tộc của tư tưởng"
+      "Tuyên ngôn của Đảng Cộng sản (1848)",
+      "Tư bản (1867)",
+      "Hệ tư tưởng Đức",
+      "Biện chứng của tự nhiên"
     ],
-    "answer": 3,
-    "explain": "Tư tưởng Hồ Chí Minh gắn sâu với truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc Việt Nam."
+    "answer": 0,
+    "explain": "Sự ra đời của Tuyên ngôn của Đảng Cộng sản năm 1848 đánh dấu sự hình thành chính thức của chủ nghĩa xã hội khoa học."
   },
   {
     "id": 109,
     "chapter": 1,
-    "question": "Tư tưởng Hồ Chí Minh có giá trị như thế nào đối với Đảng và dân tộc Việt Nam?",
+    "question": "Tiến trình phát triển của chủ nghĩa xã hội khoa học trải qua các giai đoạn then chốt nào?",
     "options": [
-      "Là tài sản tinh thần to lớn, soi đường cho cách mạng Việt Nam",
-      "Chỉ có giá trị trong giai đoạn trước năm 1945",
-      "Chỉ là tư liệu lịch sử không còn ý nghĩa hiện nay",
-      "Là học thuyết thay thế hoàn toàn chủ nghĩa Mác - Lênin"
+      "Mác - Ăngghen phát triển, V.I. Lênin vận dụng và phát triển, các Đảng Cộng sản hiện đại tiếp tục bổ sung",
+      "Không tưởng, cách mạng Pháp, hiện đại",
+      "Lênin khởi xướng, Mác - Ăngghen hoàn thiện, Đông Âu áp dụng",
+      "Triết học Đức, kinh tế chính trị Anh, chủ nghĩa xã hội khoa học"
     ],
     "answer": 0,
-    "explain": "Đảng khẳng định Tư tưởng Hồ Chí Minh là tài sản tinh thần to lớn của Đảng và dân tộc."
+    "explain": "Chủ nghĩa xã hội khoa học được Mác - Ăngghen sáng lập, Lênin phát triển trong điều kiện mới và các Đảng Cộng sản tiếp tục bổ sung."
   },
   {
     "id": 110,
     "chapter": 1,
-    "question": "Phương pháp lôgíc trong nghiên cứu Tư tưởng Hồ Chí Minh nhằm mục đích gì?",
+    "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
     "options": [
-      "Chỉ liệt kê sự kiện theo năm tháng",
-      "Tìm ra bản chất, mối liên hệ và nội dung có tính quy luật",
-      "Loại bỏ bối cảnh lịch sử",
-      "Thay thế phương pháp lịch sử"
+      "Các quy luật vật lý và sinh học cấu thành con người",
+      "Những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+      "Quá trình lưu thông hàng hóa và các sàn thương mại độc quyền",
+      "Các học thuyết triết học cổ đại và trung cổ về nhà nước lý tưởng"
     ],
     "answer": 1,
-    "explain": "Phương pháp lôgíc giúp khái quát bản chất và mối liên hệ bên trong của vấn đề."
+    "explain": "Đối tượng của môn học là các quy luật, tính quy luật chính trị - xã hội của quá trình hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa."
   },
   {
     "id": 111,
     "chapter": 1,
-    "question": "Phương pháp lịch sử trong nghiên cứu Tư tưởng Hồ Chí Minh chú trọng điều gì?",
+    "question": "Điều kiện kinh tế - xã hội trực tiếp cho sự ra đời của chủ nghĩa xã hội khoa học gắn với sự phát triển của khu vực nào?",
     "options": [
-      "Chỉ so sánh các định nghĩa",
-      "Chỉ học thuộc kết luận",
-      "Quá trình phát sinh, phát triển của tư tưởng theo thời gian",
-      "Chỉ phân tích thuật ngữ"
+      "Tây Âu, tiêu biểu là Anh, Pháp, Đức",
+      "Đông Nam Á",
+      "Bắc Phi",
+      "Mỹ Latinh"
     ],
-    "answer": 2,
-    "explain": "Phương pháp lịch sử xem xét tư tưởng trong tiến trình hình thành và phát triển."
+    "answer": 0,
+    "explain": "Cách mạng công nghiệp phát triển mạnh ở Tây Âu, đặc biệt tại Anh, Pháp, Đức, tạo cơ sở kinh tế - xã hội cho sự ra đời của chủ nghĩa xã hội khoa học."
   },
   {
     "id": 112,
     "chapter": 1,
-    "question": "Quan hệ giữa phương pháp lôgíc và phương pháp lịch sử nên được hiểu thế nào?",
+    "question": "Sự lớn mạnh của giai cấp công nhân đặt ra yêu cầu gì đối với phong trào đấu tranh?",
     "options": [
-      "Chỉ dùng một trong hai",
-      "Hai phương pháp loại trừ nhau",
-      "Không cần trong môn học này",
-      "Cần kết hợp chặt chẽ trong nghiên cứu"
+      "Cần một lý luận khoa học soi đường",
+      "Cần quay lại sản xuất thủ công",
+      "Cần từ bỏ đấu tranh giai cấp",
+      "Cần duy trì nguyên trạng xã hội tư bản"
     ],
-    "answer": 3,
-    "explain": "Nghiên cứu Tư tưởng Hồ Chí Minh cần kết hợp lôgíc với lịch sử."
+    "answer": 0,
+    "explain": "Thực tiễn đấu tranh độc lập của giai cấp công nhân đòi hỏi phải có một lý luận khoa học định hướng."
   },
   {
     "id": 113,
     "chapter": 1,
-    "question": "Khi học Tư tưởng Hồ Chí Minh, vì sao cần chống “lý luận suông”?",
+    "question": "Ba nguồn gốc tư tưởng lý luận trực tiếp mà chủ nghĩa xã hội khoa học kế thừa là gì?",
     "options": [
-      "Vì lý luận phải gắn với thực hành và giải quyết vấn đề thực tiễn",
-      "Vì lý luận không cần thiết",
-      "Vì chỉ cần kinh nghiệm cá nhân",
-      "Vì môn học không có nội dung ứng dụng"
+      "Triết học cổ điển Đức, kinh tế chính trị học cổ điển Anh, chủ nghĩa xã hội không tưởng phê phán Pháp và Anh",
+      "Nho giáo, Phật giáo, Đạo giáo",
+      "Chủ nghĩa hiện sinh, chủ nghĩa thực dụng, phân tâm học",
+      "Thần học trung cổ, pháp quyền La Mã, dân chủ Athens"
     ],
     "answer": 0,
-    "explain": "Hồ Chí Minh nhấn mạnh lý luận phải gắn với thực tiễn."
+    "explain": "Chủ nghĩa xã hội khoa học kế thừa có phê phán ba nguồn lý luận lớn: triết học Đức, kinh tế chính trị học Anh và chủ nghĩa xã hội không tưởng phê phán."
   },
   {
     "id": 114,
     "chapter": 1,
-    "question": "Nội dung nào thuộc ý nghĩa học tập môn Tư tưởng Hồ Chí Minh?",
+    "question": "Các đại biểu tiêu biểu của chủ nghĩa xã hội không tưởng phê phán Pháp và Anh là ai?",
     "options": [
-      "Học kỹ thuật sản xuất công nghiệp",
-      "Giáo dục đạo đức cách mạng và bồi dưỡng lòng yêu nước",
-      "Rèn luyện nghiệp vụ kế toán",
-      "Thay thế học ngoại ngữ"
+      "Xanh Ximông, Phuriê, Oen",
+      "Hêghen, Phoiơbắc, Cantơ",
+      "A. Smith, D. Ricardo, Keynes",
+      "Lênin, Stalin, Mao Trạch Đông"
     ],
-    "answer": 1,
-    "explain": "Môn học góp phần giáo dục đạo đức cách mạng, niềm tin và lòng yêu nước."
+    "answer": 0,
+    "explain": "Xanh Ximông, Phuriê và Oen là những đại biểu tiêu biểu của chủ nghĩa xã hội không tưởng phê phán."
   },
   {
     "id": 115,
     "chapter": 1,
-    "question": "Bản chất khoa học của Tư tưởng Hồ Chí Minh thể hiện ở điểm nào?",
+    "question": "Chủ nghĩa duy vật lịch sử của Mác và Ăngghen chỉ ra điều gì?",
     "options": [
-      "Chỉ dựa vào cảm tính cá nhân",
-      "Không gắn với thực tiễn",
-      "Phản ánh những vấn đề có tính quy luật của cách mạng Việt Nam",
-      "Phủ nhận chủ nghĩa Mác - Lênin"
+      "Quy luật phát triển của lịch sử loài người là sự thay thế các hình thái kinh tế - xã hội",
+      "Mọi hiện tượng xã hội đều do ý chí cá nhân quyết định",
+      "Tự nhiên không vận động và phát triển",
+      "Chủ nghĩa tư bản là vĩnh viễn"
     ],
-    "answer": 2,
-    "explain": "Tư tưởng Hồ Chí Minh có cơ sở lý luận, thực tiễn và phản ánh quy luật cách mạng Việt Nam."
+    "answer": 0,
+    "explain": "Chủ nghĩa duy vật lịch sử phát hiện quy luật phát triển của lịch sử thông qua sự thay thế các hình thái kinh tế - xã hội."
   },
   {
     "id": 116,
     "chapter": 1,
-    "question": "Bản chất cách mạng của Tư tưởng Hồ Chí Minh thể hiện ở mục tiêu nào?",
+    "question": "V.I. Lênin đã phát triển chủ nghĩa xã hội khoa học trong điều kiện lịch sử nào?",
     "options": [
-      "Duy trì áp bức thuộc địa",
-      "Bảo vệ đặc quyền phong kiến",
-      "Tách dân tộc khỏi thời đại",
-      "Giải phóng dân tộc, giải phóng xã hội, giải phóng con người"
+      "Chủ nghĩa tư bản độc quyền và thực tiễn xây dựng chủ nghĩa xã hội",
+      "Xã hội chiếm hữu nô lệ",
+      "Thời kỳ phong kiến sơ khai",
+      "Giai đoạn chưa có phong trào công nhân"
     ],
-    "answer": 3,
-    "explain": "Tư tưởng Hồ Chí Minh hướng tới giải phóng và phát triển con người."
+    "answer": 0,
+    "explain": "Lênin vận dụng và phát triển chủ nghĩa xã hội khoa học trong điều kiện chủ nghĩa tư bản chuyển sang độc quyền và cách mạng xã hội chủ nghĩa trở thành thực tiễn."
   },
   {
     "id": 117,
     "chapter": 1,
-    "question": "Cụm từ “tư tưởng, đạo đức, phong cách Hồ Chí Minh” thường được học tập nhằm mục đích gì?",
+    "question": "Vì sao chủ nghĩa xã hội không tưởng chưa thể trở thành lý luận khoa học?",
     "options": [
-      "Vận dụng vào xây dựng Đảng, xã hội và rèn luyện cá nhân",
-      "Chỉ để trưng bày khẩu hiệu",
-      "Thay thế mọi quy định pháp luật",
-      "Loại bỏ giáo dục đạo đức"
+      "Vì chưa phát hiện được quy luật vận động của xã hội tư bản và vai trò lịch sử của giai cấp công nhân",
+      "Vì không quan tâm đến bất công xã hội",
+      "Vì hoàn toàn ủng hộ chế độ tư bản",
+      "Vì chỉ nghiên cứu khoa học tự nhiên"
     ],
     "answer": 0,
-    "explain": "Việc học tập hướng tới vận dụng trong nhận thức và hành động."
+    "explain": "Hạn chế căn bản của chủ nghĩa xã hội không tưởng là thiếu cơ sở khoa học về quy luật vận động xã hội và lực lượng cách mạng."
   },
   {
     "id": 118,
     "chapter": 1,
-    "question": "Nội dung nào không thuộc phạm vi nhập môn của Chương I?",
+    "question": "Sự ra đời của giai cấp công nhân gắn trực tiếp với quá trình nào?",
     "options": [
-      "Khái niệm môn học",
-      "Kỹ thuật tính toán tài chính doanh nghiệp",
-      "Đối tượng nghiên cứu",
-      "Phương pháp nghiên cứu"
+      "Sự phát triển của đại công nghiệp tư bản chủ nghĩa",
+      "Sự phục hồi chế độ phong kiến",
+      "Sự tan rã của thương mại quốc tế",
+      "Sự suy giảm sản xuất máy móc"
     ],
-    "answer": 1,
-    "explain": "Kỹ thuật tính toán tài chính doanh nghiệp không thuộc nội dung Chương I của HCM202."
+    "answer": 0,
+    "explain": "Giai cấp công nhân hiện đại ra đời và lớn mạnh cùng sự phát triển của đại công nghiệp tư bản chủ nghĩa."
   },
   {
     "id": 119,
     "chapter": 1,
-    "question": "Khi nói Tư tưởng Hồ Chí Minh là “kim chỉ nam”, ý chính là gì?",
+    "question": "Nội dung nào phản ánh đúng vai trò của Mác và Ăngghen đối với chủ nghĩa xã hội khoa học?",
     "options": [
-      "Là khẩu hiệu không cần vận dụng",
-      "Chỉ dùng trong nghiên cứu văn học",
-      "Có vai trò định hướng hành động cách mạng",
-      "Chỉ áp dụng cho một cá nhân"
+      "Biến chủ nghĩa xã hội từ không tưởng thành khoa học",
+      "Phủ nhận hoàn toàn phong trào công nhân",
+      "Bảo vệ chế độ tư hữu tư bản như vĩnh viễn",
+      "Chỉ xây dựng học thuyết đạo đức cá nhân"
     ],
-    "answer": 2,
-    "explain": "Kim chỉ nam nghĩa là định hướng cho nhận thức và hành động cách mạng."
+    "answer": 0,
+    "explain": "Mác và Ăngghen đã đặt nền tảng khoa học cho chủ nghĩa xã hội thông qua chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư."
   },
   {
     "id": 120,
     "chapter": 1,
-    "question": "Yêu cầu quan trọng khi vận dụng Tư tưởng Hồ Chí Minh hiện nay là gì?",
+    "question": "Nội dung Chương 1 của môn Chủ nghĩa xã hội khoa học tập trung vào vấn đề nào?",
     "options": [
-      "Sao chép máy móc mọi hình thức cũ",
-      "Tách khỏi điều kiện đất nước",
-      "Chỉ học thuộc định nghĩa",
-      "Sáng tạo, phù hợp thực tiễn, tránh giáo điều"
+      "Hoàn cảnh ra đời, vai trò của Mác - Ăngghen, các giai đoạn phát triển và đối tượng nghiên cứu của môn học",
+      "Kỹ thuật quản trị doanh nghiệp",
+      "Lịch sử văn học Việt Nam hiện đại",
+      "Phương pháp tính toán tài chính cá nhân"
     ],
-    "answer": 3,
-    "explain": "Vận dụng tư tưởng phải gắn thực tiễn và phát triển sáng tạo."
+    "answer": 0,
+    "explain": "Chương 1 là phần nhập môn, làm rõ điều kiện ra đời, người sáng lập, quá trình phát triển và đối tượng nghiên cứu của chủ nghĩa xã hội khoa học."
   }
 ]
