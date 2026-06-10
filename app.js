@@ -19,6 +19,19 @@ document.addEventListener('DOMContentLoaded', async function () {
   var searchBtnToggle = document.getElementById('search-btn-toggle');
   var searchInputContainer = document.getElementById('search-input-container');
   var navTimelineBtn = document.getElementById('nav-timeline-btn');
+  var introOverlay = document.getElementById('intro-overlay');
+  var introClose = document.getElementById('intro-close');
+  var introStart = document.getElementById('intro-start');
+
+  function closeIntro() {
+    if (introOverlay) introOverlay.classList.add('intro-hidden');
+  }
+
+  if (introClose) introClose.addEventListener('click', closeIntro);
+  if (introStart) introStart.addEventListener('click', closeIntro);
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') closeIntro();
+  });
 
   // ── D3 setup ──────────────────────────────────────────────────────
   var svg = d3.select(svgEl);
